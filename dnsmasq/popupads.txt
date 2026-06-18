@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jun 2026 17:51 UTC
-# Version: 2026.0618.1751.40
+# Last modified: 18 Jun 2026 21:49 UTC
+# Version: 2026.0618.2149.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 58433
+# Number of entries: 58445
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -443,6 +443,9 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
+local=/chiyouranai.base.shop/
+local=/tokujiro.base.shop/
+local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -1866,6 +1869,15 @@ local=/qiejushuo.hirz.cn/
 local=/ko.hissesgestapo.com/
 local=/sl.hitchdong.com/
 local=/jt.hitchelunspun.com/
+local=/app-google-zh.hl.cn/
+local=/go-todesk.hl.cn/
+local=/google-google-chrome-google-com.hl.cn/
+local=/line-go.hl.cn/
+local=/qh-qishuiyinyue.hl.cn/
+local=/qishuimusic-cn.hl.cn/
+local=/todesk-web.hl.cn/
+local=/todesk-zh.hl.cn/
+local=/zh-todesk-cn.hl.cn/
 local=/map.hnchj.com/
 local=/dciclc.hnwuamu.top/
 local=/m10.hoes.tube/
@@ -2138,6 +2150,8 @@ local=/hh.koloaller.com/
 local=/vg.konigakeyset.top/
 local=/mf.kotocolmar.com/
 local=/hl.koumyscampana.com/
+local=/lc.krgirls.beauty/
+local=/me.krgirls.beauty/
 local=/ym.kronionsuttas.com/
 local=/kp.kueunpick.com/
 local=/ms.kuugo.cc/
@@ -13671,7 +13685,6 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
-local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -29101,7 +29114,6 @@ local=/hktniatgor.com/
 local=/hkwrwuqlcpelq.site/
 local=/hkygalzumaqv.com/
 local=/hkzhongzhuangzhan.cc/
-local=/hl.cn/
 local=/hl2u.com/
 local=/hlbmaat.com/
 local=/hldijphcjszui.store/
@@ -33335,7 +33347,6 @@ local=/krenkzfiuzryw.store/
 local=/kreomfoq.com/
 local=/kreps.xyz/
 local=/krfqlrxvmoyrj.online/
-local=/krgirls.beauty/
 local=/krhmtdzuxxmsc.space/
 local=/krible-krable-bums.com/
 local=/krigiamisdeal.click/
@@ -36614,6 +36625,7 @@ local=/millettomato.com/
 local=/milliersubroot.qpon/
 local=/million-vita128.com/
 local=/millionaireconscientious.com/
+local=/millionexclusively.com/
 local=/millionsview.com/
 local=/milljeanne.com/
 local=/millsurfaces.com/
