@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Jun 2026 13:54 UTC
-! Version: 2026.0618.1354.10
+! Last modified: 19 Jun 2026 06:42 UTC
+! Version: 2026.0619.0642.10
 ! Syntax: AdBlock
-! Number of entries: 10057
+! Number of entries: 10058
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -5958,6 +5958,7 @@
 ||newquote.au^
 ||newsfeedph.info^
 ||newss.info^
+||newswrap.xyz^
 ||nextdrop.bz^
 ||nexturl.in^
 ||nextworm.com^

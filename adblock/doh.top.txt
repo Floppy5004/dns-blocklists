@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Jun 2026 07:30 UTC
-! Version: 2026.0616.0730.20
+! Last modified: 19 Jun 2026 07:43 UTC
+! Version: 2026.0619.0743.40
 ! Syntax: AdBlock
-! Number of entries: 259
+! Number of entries: 266
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -59,6 +59,7 @@
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||dns.digitalsize.net^
 ||dotserver.douyucdn.cn^
+||dns.electrotm.org^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||dns.gamban.com^
@@ -78,7 +79,10 @@
 ||dns.iqiyi.com^
 ||doh.iqiyi.com^
 ||dns.jd.com^
+||protective.joindns4.eu^
+||unfiltered.joindns4.eu^
 ||opencdn.jomodns.com^
+||dns.kernel-error.de^
 ||hdns.ksyun.com^
 ||doh.libredns.gr^
 ||httpdns.meituan.com^
@@ -119,8 +123,11 @@
 ||dns9.quad9.net^
 ||dnspub.restena.lu^
 ||dns.rubyfish.cn^
+||free.shecan.ir^
+||dns.smartguard.io^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
+||dns.surfsharkdns.com^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
 ||homenet.telecomitalia.it^

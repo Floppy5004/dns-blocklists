@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jun 2026 17:40 UTC
-# Version: 2026.0618.1740.21
+# Last modified: 19 Jun 2026 06:24 UTC
+# Version: 2026.0619.0624.34
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2157
+# Number of entries: 2170
 #
 1-aclk.net
 1aurl.io
@@ -251,6 +251,7 @@ seu.cleverreach.com
 228301.seu.cleverreach.com
 237182.seu.cleverreach.com
 2561.seu.cleverreach.com
+26422.seu.cleverreach.com
 26873.seu.cleverreach.com
 273625.seu.cleverreach.com
 29256.seu.cleverreach.com
@@ -484,6 +485,7 @@ seu2.cleverreach.com
 317076.seu2.cleverreach.com
 317612.seu2.cleverreach.com
 317901.seu2.cleverreach.com
+320632.seu2.cleverreach.com
 322484.seu2.cleverreach.com
 323664.seu2.cleverreach.com
 324724.seu2.cleverreach.com
@@ -778,7 +780,6 @@ open.convertkit-mail4.com
 162809b3.open.convertkit-mail4.com
 28d3c607.open.convertkit-mail4.com
 3c5984bd.open.convertkit-mail4.com
-51ce15f1.open.convertkit-mail4.com
 59b90e10.open.convertkit-mail4.com
 5e38c6c1.open.convertkit-mail4.com
 61475545.open.convertkit-mail4.com
@@ -1049,11 +1050,13 @@ bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
 members.s12.exacttarget.com
+virt.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
 members.s13.exacttarget.com
+virt.s13.exacttarget.com
 s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
@@ -1067,6 +1070,7 @@ click.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
+virt.s50.exacttarget.com
 click.virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
@@ -1079,6 +1083,7 @@ members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
+virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
@@ -1089,6 +1094,7 @@ pages.s7.exacttarget.com
 pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
+click.virt.s7.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 4patientcare-cdn.exponea.com
@@ -1214,7 +1220,9 @@ sites.hscoscdn-ap1.net
 group0.sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
+139808002.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
+143456969.sites.hscoscdn-eu1.net
 143649436.sites.hscoscdn-eu1.net
 25001434.sites.hscoscdn-eu1.net
 25150766.sites.hscoscdn-eu1.net
@@ -1342,6 +1350,7 @@ judge.me
 click.justwatch.com
 www.kdukvh.com
 kelkoogroup.net
+at-go.kelkoogroup.net
 cz-go.kelkoogroup.net
 de-go.kelkoogroup.net
 es-go.kelkoogroup.net
@@ -1351,6 +1360,7 @@ no-go.kelkoogroup.net
 pl-go.kelkoogroup.net
 ro-go.kelkoogroup.net
 uk-go.kelkoogroup.net
+us-go.kelkoogroup.net
 k.keyade.com
 click.klarna.de
 click-tracking.klarna.net
@@ -1443,6 +1453,7 @@ click.mfilter.net
 clk.mfilter.net
 track.mfilter.net
 micpn.com
+email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1456,6 +1467,7 @@ tracking.minetracking.com
 links.mkt41.net
 links.mkt61.net
 mkto-a0279.com
+mkto-ab010150.com
 mkto-ab040115.com
 mkto-ab040117.com
 mkto-ab060101.com
@@ -1468,6 +1480,7 @@ mkto-ab080055.com
 mkto-ab080061.com
 mkto-ab100241.com
 mkto-ab110171.com
+mkto-ab120150.com
 mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
@@ -1540,6 +1553,7 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
+mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -1566,7 +1580,6 @@ mkto-abc0114.com
 mkto-abc0241.com
 mkto-abd0218.com
 mkto-abj0022.com
-mkto-abm0229.com
 mkto-abm0255.com
 mkto-b0025.com
 mkto-c0100.com
