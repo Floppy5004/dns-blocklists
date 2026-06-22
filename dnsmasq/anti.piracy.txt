@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 08:07 UTC
-# Version: 2026.0622.0807.09
+# Last modified: 22 Jun 2026 10:31 UTC
+# Version: 2026.0622.1031.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 28965
+# Number of entries: 28966
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -25237,6 +25237,7 @@ local=/taraftarium24-hdizle19.vip/
 local=/taraftarium24-mahsunsports.biz/
 local=/taraftarium24-patron33.vip/
 local=/taraftarium24bjk.com/
+local=/taraftarium24bjk4.com/
 local=/taraftarium24pro10.site/
 local=/taraftarium24pro12.site/
 local=/tarantinno-lordfilm.ru/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 07:45 UTC
-# Version: 2026.0622.0745.50
+# Last modified: 22 Jun 2026 13:25 UTC
+# Version: 2026.0622.1325.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 90447
+# Number of entries: 90469
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -22142,6 +22142,7 @@
 0.0.0.0 ad.avcorpi.click
 0.0.0.0 measure.lamp.avct.cloud
 0.0.0.0 avdego.net
+0.0.0.0 avebeentriflin.com
 0.0.0.0 avehospitablestrangers.com
 0.0.0.0 www.avenuea.com
 0.0.0.0 averralcaking.cfd
@@ -22426,7 +22427,6 @@
 0.0.0.0 aztool.org
 0.0.0.0 azulcw7.com
 0.0.0.0 adservergatewayprod.southcentralus.cloudapp.azure.com
-0.0.0.0 analytics.dev.azure.com
 0.0.0.0 me-cam-pixel-tracker-prod.azure-api.net
 0.0.0.0 adncdnend.azureedge.net
 0.0.0.0 adsdkprod.azureedge.net
@@ -23508,6 +23508,7 @@
 0.0.0.0 bfyydwxdkefev.online
 0.0.0.0 bfyz-defender.pro
 0.0.0.0 bfzneeafwhntt.site
+0.0.0.0 bfzzymmxqgali.online
 0.0.0.0 bg-mezonet.info
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bgfrvxfwtxkxw.site
@@ -25691,6 +25692,7 @@
 0.0.0.0 api.buzzvil.com
 0.0.0.0 insight.buzzvil.com
 0.0.0.0 screen.buzzvil.com
+0.0.0.0 bv1uktljih4r5gu9hftm8ozv11lx.cfd
 0.0.0.0 www.bvalphaserver.com
 0.0.0.0 bvddfghxdsfd.top
 0.0.0.0 bveioagdmsmlfmp.com
@@ -31864,6 +31866,7 @@
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d30qdagvt44524.cloudfront.net
 0.0.0.0 d313lzv9559yp9.cloudfront.net
+0.0.0.0 d318g7p3azvr44.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d31y97ze264gaa.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
@@ -32246,6 +32249,7 @@
 0.0.0.0 amifawize.co.cc
 0.0.0.0 amplitude.co.za
 0.0.0.0 analgesi.co.cc
+0.0.0.0 anchbatic.co.in
 0.0.0.0 anfreak.co.cc
 0.0.0.0 anm.co.uk
 0.0.0.0 dmg-libs.anm.co.uk
@@ -33015,6 +33019,7 @@
 0.0.0.0 logchimp.codecarrot.net
 0.0.0.0 www.codecarrot.net
 0.0.0.0 codedome.online
+0.0.0.0 codedrink.com
 0.0.0.0 codefund.io
 0.0.0.0 windsurf-telemetry.codeium.com
 0.0.0.0 log.codemarketing.cloud
@@ -40550,6 +40555,7 @@
 0.0.0.0 drugeugene.cfd
 0.0.0.0 www.drugsline.org
 0.0.0.0 drugstoredemuretake.com
+0.0.0.0 druxxo.com
 0.0.0.0 drwps.com
 0.0.0.0 dry-effort.pro
 0.0.0.0 drycoaloutbray.qpon
@@ -40627,6 +40633,7 @@
 0.0.0.0 dsicxo.com
 0.0.0.0 dsidas.com
 0.0.0.0 dsiflqhqyfmp.com
+0.0.0.0 dsiill.com
 0.0.0.0 dsikyf.com
 0.0.0.0 dsimnq.com
 0.0.0.0 dsincy.com
@@ -40654,6 +40661,7 @@
 0.0.0.0 dsmuvt.com
 0.0.0.0 dsnbwt.com
 0.0.0.0 dsnbym.com
+0.0.0.0 dsndcg.com
 0.0.0.0 dsneim.com
 0.0.0.0 dsnfrt.com
 0.0.0.0 dsnhpm.com
@@ -44737,6 +44745,7 @@
 0.0.0.0 fneseravined.qpon
 0.0.0.0 fnfbjhfwumxnmg.com
 0.0.0.0 fntvloqdmf.com
+0.0.0.0 fnvxpndhciszp.website
 0.0.0.0 fnwstrndfdwv.xyz
 0.0.0.0 fnyfeds.com
 0.0.0.0 gaia-cdn.fnyfeds.com
@@ -49549,6 +49558,7 @@
 0.0.0.0 warbyparker.hrzn-nxt.com
 0.0.0.0 zocdoc.hrzn-nxt.com
 0.0.0.0 cdn.pongo.hs.fi
+0.0.0.0 hs-analytics.in
 0.0.0.0 hs-analytics.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js-ap1.hs-analytics.net
@@ -49739,7 +49749,9 @@
 0.0.0.0 hwa.his.huawei.com
 0.0.0.0 huaweicloudapis.com
 0.0.0.0 eventtracking.hubapi.com
+0.0.0.0 eventtracking-ap1.hubapi.com
 0.0.0.0 eventtracking-eu1.hubapi.com
+0.0.0.0 eventtracking-na2.hubapi.com
 0.0.0.0 hubbell-ad.com
 0.0.0.0 hubbodenpoolservice.de
 0.0.0.0 hubeamily.com
@@ -57500,6 +57512,7 @@
 0.0.0.0 proj.mdznads.com
 0.0.0.0 me08mo.com
 0.0.0.0 casino-ad-mediation.me2zengame.com
+0.0.0.0 meadow-assets.click
 0.0.0.0 mealockcoucher.shop
 0.0.0.0 meamdntykavo.com
 0.0.0.0 meanlytics.com
@@ -62434,6 +62447,7 @@
 0.0.0.0 x4.nengu.jp
 0.0.0.0 x5.nengu.jp
 0.0.0.0 nenqzhqllxefb.website
+0.0.0.0 neo7x.com
 0.0.0.0 neodatagroup.com
 0.0.0.0 ac.neodatagroup.com
 0.0.0.0 ad.neodatagroup.com
@@ -62933,6 +62947,7 @@
 0.0.0.0 astat.nikkei.com
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nikolaipogge.shop
+0.0.0.0 nilgaisquipful.qpon
 0.0.0.0 nimblebird.co
 0.0.0.0 nimbleplot.com
 0.0.0.0 nimbleswan.io
@@ -64636,6 +64651,7 @@
 0.0.0.0 resources.opentext.de
 0.0.0.0 img.opentracker.net
 0.0.0.0 script.opentracker.net
+0.0.0.0 ads-configs-cdn.openweb.com
 0.0.0.0 data.client.openweb.bid
 0.0.0.0 openwebmp.com
 0.0.0.0 cs.openwebmp.com
@@ -68239,6 +68255,7 @@
 0.0.0.0 processors801.net
 0.0.0.0 processors911.com
 0.0.0.0 processorsinlake.net
+0.0.0.0 processorsoutash.net
 0.0.0.0 processplantation.com
 0.0.0.0 sgtm.procore.com
 0.0.0.0 telemetry.proctorcollect.com
@@ -74041,6 +74058,7 @@
 0.0.0.0 www.sgtm.org
 0.0.0.0 sguhtpjp.com
 0.0.0.0 tracking.shaadi.com
+0.0.0.0 shabbatglomera.cyou
 0.0.0.0 kjzdr.shadyrays.com
 0.0.0.0 shadyrecording.pro
 0.0.0.0 shafayat.com
@@ -76593,6 +76611,7 @@
 0.0.0.0 smaf.jp
 0.0.0.0 img01.smaf.jp
 0.0.0.0 smalk.ai
+0.0.0.0 cdn.smalk.ai
 0.0.0.0 smallel.icu
 0.0.0.0 smallestpawsmention.com
 0.0.0.0 smallsrv.com
@@ -79127,8 +79146,6 @@
 0.0.0.0 sweatypositive.com
 0.0.0.0 posthog.sweedpos.com
 0.0.0.0 sweepsrashest.cfd
-0.0.0.0 sweepstakesalerts.com
-0.0.0.0 play.sweepstakesalerts.com
 0.0.0.0 et.sweet.tv
 0.0.0.0 sweet-engineer.pro
 0.0.0.0 sweetimage.net
@@ -81897,6 +81914,7 @@
 0.0.0.0 toriccele.cyou
 0.0.0.0 toriimorwinery.com
 0.0.0.0 www.toriimorwinery.com
+0.0.0.0 tornado.cash
 0.0.0.0 tornadostore.de
 0.0.0.0 toroadvertising.com
 0.0.0.0 toroexoclk.com
@@ -82368,6 +82386,7 @@
 0.0.0.0 telemetry.us.transcend.io
 0.0.0.0 transcorpoil.com
 0.0.0.0 transcorpoil.us
+0.0.0.0 transdecoke.cfd
 0.0.0.0 transferin320.com
 0.0.0.0 rechenschieber.transfermarkt.com
 0.0.0.0 rechenschieber.transfermarkt.de
@@ -84652,6 +84671,9 @@
 0.0.0.0 usemaxserver.de
 0.0.0.0 www.usemaxserver.de
 0.0.0.0 js.usemessages.com
+0.0.0.0 js-ap1.usemessages.com
+0.0.0.0 js-eu1.usemessages.com
+0.0.0.0 js-na2.usemessages.com
 0.0.0.0 usenetjunction.com
 0.0.0.0 analytics.useonward.com
 0.0.0.0 usepanda.com

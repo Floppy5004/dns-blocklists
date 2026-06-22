@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 08:07 UTC
-# Version: 2026.0622.0807.09
+# Last modified: 22 Jun 2026 10:31 UTC
+# Version: 2026.0622.1031.50
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 28965
+# Number of entries: 28966
 #
 *.blink-stresser.000webhostapp.com
 *.ddos-ovh-v6.000webhostapp.com
@@ -25237,6 +25237,7 @@
 *.taraftarium24-mahsunsports.biz
 *.taraftarium24-patron33.vip
 *.taraftarium24bjk.com
+*.taraftarium24bjk4.com
 *.taraftarium24pro10.site
 *.taraftarium24pro12.site
 *.tarantinno-lordfilm.ru
