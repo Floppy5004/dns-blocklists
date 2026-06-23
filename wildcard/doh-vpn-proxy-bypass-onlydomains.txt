@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 10:39 UTC
-# Version: 2026.0622.1039.41
+# Last modified: 23 Jun 2026 19:09 UTC
+# Version: 2026.0623.1909.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 17228
+# Number of entries: 17231
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -9551,6 +9551,7 @@ donextapp.net
 doniuniu.com
 donord.net
 donpv.com
+donsalvatore.info
 dontblockme.org
 dontfilter.us
 donwloda.com
@@ -11559,6 +11560,7 @@ hxv.app
 hxwnkrnn.cc
 hxxxxx.name
 hxy.name
+hy5o5ua8gklpqjbqzjaaje8yy.online
 hydroxide.wtf
 hyeeypad.cc
 hykdwzgw.online
@@ -13839,6 +13841,7 @@ phpbido.com
 phyi.loan
 physicsbutfun.com
 pi-dns.com
+piaproxy.com
 piaproxy.net
 piaservers.net
 picknife.org
@@ -14900,6 +14903,7 @@ sitenable.ch
 sitenable.com
 sitenable.in
 sitenable.org
+sitescrack.host
 sitespeedtest.net
 sitesunblocked.com
 siteunblock.org
@@ -15803,7 +15807,6 @@ unblockit.rsvp
 unblockit.uno
 unblockitnow.com
 unblockmate.com
-unblockme.us
 unblockmyweb.com
 unblockmywebsite.com
 unblockpro.app

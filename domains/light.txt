@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 07:30 UTC
-# Version: 2026.0623.0730.15
+# Last modified: 23 Jun 2026 18:45 UTC
+# Version: 2026.0623.1845.44
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 92303
+# Number of entries: 92342
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -328,6 +328,7 @@ www.070shake.net
 099yx.com
 09nt.com
 www.09racing.com
+0a57f6bbfd.com
 0a8de3ea12.com
 0aa0cf0637d66c0d.com
 0af2a962b0102942d9a7df351b20be55.com
@@ -4986,6 +4987,7 @@ ck.2trk.info
 2u1z7qmjvy1covuwg2rxkj3.cfd
 pesni.2vs2.ru
 ads.2win.pl
+2wqs6d2gp.com
 2wu0m0ms098w7148.xyz
 2x2forum.com
 blackmagic.2x2forum.com
@@ -5396,7 +5398,6 @@ www.3rdintifada.com
 3sky.dev
 ios-pclog.3u.com
 3utilities.com
-3uv4e4ozrekc56zx1jjwfbugpq1i275.cfd
 3uyo22q87l653qqj4wvi.cfd
 3vetz.com
 www.3x3eurotour.com
@@ -5700,8 +5701,10 @@ tracklog.58.com
 599cdn.com
 59clouou2n4jmm8xc.cfd
 59gfm38j21ohoq8ugl831hrltiibq.cfd
+59gt.cn
 5azc.xyz
 5clo0xmbf.com
+5cyi6tp6h.com
 5cyqzktkwh.com
 5d0rac.ru
 5d32q.com
@@ -5807,6 +5810,7 @@ www.64786087.xyz
 6820tp1.com
 682immunity.net
 6888.site
+68b1hx8ej.com
 68efc320d7.com
 6969-chat.tv
 69t169.com
@@ -5978,6 +5982,7 @@ www.88p2p.com
 8b81ffcb90.com
 8cj70f905.com
 8cjk04e7sb.com
+8dc714cafe.com
 8digits.com
 8e1fb7aeb7.com
 8eo93qj18r.com
@@ -6049,6 +6054,7 @@ geoloc2.9cd47096ab1495d8d3b18667f6a52b9c.com
 9fe32291ce.com
 9ff1a25009.com
 9flash.com
+9g3yx40s6.com
 mt.9gag.com
 mxpl.9gag.com
 recommend.9gag.com
@@ -6133,6 +6139,7 @@ a1tai7.jp
 a2-analytics.xyz
 insights.tv4.a2d.tv
 a2dfp.net
+a2e5b82fea.com
 advertising.a2z.com
 jetstream.advertising.a2z.com
 skyedge.jetstream.advertising.a2z.com
@@ -20245,6 +20252,7 @@ aqauikfd.com
 aqdlwqnlttt.com
 aqeognplbpirm.space
 aqfyrgb.in
+aqgpqtsksxsta.website
 aqgpvllbdjhmk.website
 aqiongxlma.com
 aqle3.com
@@ -31006,6 +31014,7 @@ d2pt12ct4kmq21.cloudfront.net
 d2qmp7jjpd79k7.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
+d2te5kruq0pvbl.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2uhnetoehh304.cloudfront.net
 d2uu46itxfd65q.cloudfront.net
@@ -34356,6 +34365,7 @@ rtb-uswest.creativedot.net
 static.creativedot.net
 ads.creatives.no
 creativesumo.com
+creativethingsdoneright.top
 creatopy.net
 live-tag.creatopy.net
 dco-g.live-tag.creatopy.net
@@ -35877,7 +35887,6 @@ debtbenzins.qpon
 debtokesfilippo.qpon
 debugger55.com
 decacopy.com
-decafeligiblyhad.com
 decarba.de
 insights.v3.decathlon.net
 decaydespiteseminar.com
@@ -36976,7 +36985,6 @@ kdex004.deqwas.net
 kdex005.deqwas.net
 sv2.deqwas.net
 deratfeuded.cyou
-deref-mail.com
 dereignborings.cyou
 derekvireo.shop
 dergoodting.com
@@ -37740,6 +37748,7 @@ nstyle.donburako.com
 x5.donburako.com
 donchen501.cn
 gather.donga.com
+dongaicmighauwa.net
 ap.dongdianqiu.com
 donglogs.com
 ap.dongqiudi.com
@@ -40965,12 +40974,14 @@ dseiqr.com
 dsejzd.com
 dsekhn.com
 dseopf.com
+dseyzk.com
 dsfjcz.com
 dsfkry.com
 dsfondues.cyou
 dsfsfp.com
 dsftcd.com
 dsfvya.com
+dsgarg.com
 dsgldf.com
 dsgvgw.com
 dsgwoa.com
@@ -41001,11 +41012,13 @@ dskkye.com
 dskmoo.com
 dskrt.net
 dskrym.com
+dslebb.com
 dslgfw.com
 dslqpa.com
 dslrph.com
 dslxrh.com
 dsmbdi.com
+dsmcnw.com
 dsmdvf.com
 dsmlme.com
 dsmnpw.com
@@ -41047,6 +41060,7 @@ buyer.dspx.tv
 cdn.dspx.tv
 tracking.dspx.tv
 dspyzx.com
+dspzqo.com
 dsqdbi.com
 dsqgyn.com
 dsqnnx.com
@@ -41066,6 +41080,7 @@ dssqpn.com
 dssrbe.com
 dsswdz.com
 s.dst82e.com
+dstaca.com
 dstfrx.com
 dstillery.com
 action.dstillery.com
@@ -41095,6 +41110,7 @@ dswepngsrbhza.space
 dswfhx.com
 dswhem.com
 dswlpq.com
+dswmrn.com
 dswocr.com
 dswppe.com
 dswqea.com
@@ -44339,7 +44355,6 @@ fairu-blog.com
 fairu-blog.xyz
 fairu-cdn.com
 fairu-cdn.xyz
-fairydreamss.com
 faithpromise.org
 www.faithpromise.org
 fajgsfxol.com
@@ -45321,6 +45336,7 @@ folilyfaitour.cfd
 foliomimer.qpon
 foliotlatabuddage.qpon
 followanalytics.com
+followfromapps.icu
 followingpartlyindicator.com
 followmurmuringsquealing.com
 analytics.followthehashtag.com
@@ -45420,6 +45436,7 @@ webstats.forsakringskassan.se
 forscprts.com
 creative.forscprts.com
 go.forscprts.com
+obs.forseasky.com
 forstx.org
 cdn3.forter.com
 4c4cc75a16ed.cdn4.forter.com
@@ -45584,6 +45601,7 @@ ads-cdn.fptplay.net
 fpyf8.com
 fqboclyjc.com
 fqflsynvp.com
+fqgcltsfrjuln.space
 fqhpocbzdeaze.site
 fqjpg2.top
 frontier100-toutiao-lf.fqnovel.com
@@ -47259,6 +47277,7 @@ gez.io
 o.gez.io
 gezinti.com
 www.gezinti.com
+gf7r23zxp1i2vkvfx33ezlbqet.cfd
 gfakhdlfphett.online
 gffggfxim.com
 gfkgmbwjfoem.com
@@ -49684,6 +49703,7 @@ himekingrow.com
 point.himitsuya.jp
 himuqof.com
 hindsightsolutions.net
+dap.hindustantimes.com
 hindustantowergroupltd.com
 ssp.hinet.net
 t.ssp.hinet.net
@@ -50684,6 +50704,7 @@ hysteriaethicalsewer.com
 analytics.hyundaidealer.com
 smetrics.hyundaiusa.com
 hyv8k1bh86.com
+hzgh8czw3nfyyb58vzjvkp1ptk1pt.cfd
 hzhabei.cn
 hzmklmstsfitm.site
 hzpvkm5nzmtpqcc8u4tyxnwe9.cfd
@@ -53603,6 +53624,7 @@ jfffe1o97b.com
 jfgeuisugoekf.com
 jfjle4g5l.com
 statistics.jfmedier.dk
+jfneysdhhisea.website
 gtm.jfrog.com
 promotion-quicker.jftechsoft.com
 eventlog-aws.jftechws.com
@@ -54953,6 +54975,7 @@ units.knotch.it
 knottyswing.com
 knowacaliforniafarmer.com
 www.knowacaliforniafarmer.com
+knowhowspunsurveyed.com
 knowledgeable-tree.com
 knownamount.com
 knownwarn.com
@@ -56036,6 +56059,7 @@ uss-pid.lenovomm.com
 lentainform.com
 www.lentainform.com
 lentivillasco.com
+lentoscrocuta.shop
 lenty.ru
 www.lenty.ru
 lenzmx.com
@@ -57122,7 +57146,6 @@ smtccv.loveholidays.com
 lovelydrum.com
 lovelypackage.com
 log.lovense-api.com
-loveonlline.com
 www.loveonpurpose.com
 loveplumbertailor.com
 www.loverevenue.com
@@ -57578,6 +57601,7 @@ www.madrascrackers.com
 madurird.com
 www.madvertise.de
 maehrobot.shop
+maestrogulpedgag.com
 logging.maestroqa.com
 mafivaz.biz
 maftoomp.top
@@ -57665,7 +57689,6 @@ da.cd.b2.a2.top.mail.ru
 top-fwz1.mail.ru
 wa.mail.com
 xray.mail.ru
-track.mailalert.io
 mailboxboynutrition.com
 mailcoupletime.net
 mailedbardism.shop
@@ -62952,6 +62975,7 @@ n4m5x60.com
 a.n4m5x60.com
 s.n4m5x60.com
 n6wxm.com
+n7fyrdeen.com
 n8elvfbwjkf53j7iq53fkfv3nlnqwr1r5w.cfd
 telemetry.n8n.io
 n91hg.com
@@ -63955,6 +63979,7 @@ data.a.nflshop.com
 metrics.nfm.com
 nfukguubxgsk.com
 nfvebepaxdlvi.site
+nfwizrydzqzxe.site
 nfwosdlndtra.com
 nfyyvxtqrnoq.com
 ngacm.com
@@ -64606,6 +64631,7 @@ nvylzbmm.com
 javascript.nwbox.com
 nwemnd.com
 nwfnsitaes.com
+nwhbamrhotcsw.website
 nwmnd.com
 nwnxyivttoaad.site
 nwostjtwogw.com
@@ -64707,6 +64733,7 @@ o6hq5vt4j62p36x.cfd
 o6z2a2kq8fatj3ch0x5ow6v82ha2gja8x8c7w6pc5gx2ls0zia7bx1n28b5d.com
 o86owcil7c4ppiox.cfd
 o911o.com
+o99yebioe3z7koxlfmomzjqnxg.cfd
 oabaubsutha.com
 oadz.com
 a.oadz.com
@@ -70542,7 +70569,9 @@ qczalvoxe.com
 qdodqhbmmb.com
 qdpnqtigneiwsovayrwu.com
 telemetry.qdrant.io
+qdslnslohsisa.space
 qdxpgtsqvwwlqbx.com
+qdzspuqzdjyiy.space
 qedfgeomlw.com
 qepolax.com
 qerestooker.com
@@ -71136,6 +71165,7 @@ queasypolenta.com
 queasytonight.com
 queen-one.net
 queen-sparkles.com
+quellambrein.com
 quememawp.shop
 v3-reading-ad.qznovelvod.com.230b2a2545cfa773.queniubg.com
 gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com
@@ -71182,6 +71212,7 @@ quicklyedit.com
 quickpcfixer.click
 reverselookup.quicksetcloud.com
 quiet-beggar.site
+quiet-cdn.shop
 quietknowledge.com
 quietlythough.com
 0.quietlythough.com
@@ -71764,6 +71795,7 @@ www.readpeak.com
 xandr.readpeak.com
 metrics.readthedocs.io
 opentelemetry-cpp.readthedocs.io
+opentelemetry-python.readthedocs.io
 spatial-audio-metrics.readthedocs.io
 analytics.readyrefresh.com
 reaismvabu.com
@@ -75270,6 +75302,7 @@ www.sergey-mavrodi.com
 sergioeddish.cfd
 seriale.co
 serialsoft.org
+seriesplus.org
 serinuswelling.com
 seriouswheels.com
 www.seriouswheels.com
@@ -76127,6 +76160,7 @@ reporting.singlefeed.com
 www.singlefeed.com
 singleflirt.com
 www.singleflirt.com
+singlsw.com
 singroot.com
 sw.singsw.com
 singtelmyconnect.com
@@ -80208,6 +80242,7 @@ servs.stoic-media.com
 servt.stoic-media.com
 tg1.stoic-media.com
 stoitercases.cyou
+stojoalaiboudry.net
 stokefykes.shop
 sgtm.stokke.com
 stoksaigaifa.net
@@ -81678,6 +81713,7 @@ i.tddmp.com
 tdetkdcubbyhf.com
 tdlop7tsme.com
 tdmxtevtyghrgi.com
+tdopeofamsccp.website
 tdqptcua.com
 tds.bid
 ads.tds.bid
@@ -85233,6 +85269,7 @@ tyxo.com
 www.tyxo.bg
 tzegilo.com
 tzhg8m37q1m8xumkw4voe9lx.cfd
+tzp61mplc.com
 tztbijfdycgdd.space
 u--to-u.com
 u-on.eu
@@ -90690,6 +90727,7 @@ y55lspa2v6.com
 y5lbtcie4bgyuwiz5ij1x66.cfd
 y5mncokbo7799qu4ow8zcxo63j8iiebfi.cfd
 y6p7022ep4.com
+y7bo6nwk.xyz
 matomo.y8.com
 t.y8.com
 arcade.ya.com
@@ -92287,6 +92325,7 @@ zxcwifosxcrlc.site
 zxezyyifkdhjf.website
 zxhtytghbkgvl.website
 zxiws.cn
+zxnzstnimupkx.online
 zxphiz.tech
 zxpvebhtojfvgu.com
 zy362mt2o4nzx91o.cfd

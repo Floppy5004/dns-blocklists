@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jun 2026 06:51 UTC
-! Version: 2026.0623.0651.58
+! Last modified: 23 Jun 2026 18:09 UTC
+! Version: 2026.0623.1809.25
 ! Syntax: AdBlock
-! Number of entries: 16800
+! Number of entries: 16818
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -517,6 +517,7 @@
 ||installateur.prs247.tech^
 ||de.puppylove.com^
 ||fr.puprime.net^
+||apothekerezeptfrei-1.puzl.com^
 ||at.qfmiceden.shop^
 ||weichrn.qualitatmv.click^
 ||fatfax.ratewell.shop^
@@ -759,6 +760,7 @@
 ||aacreek-ranch.de^
 ||aaronallen.top^
 ||aatrailers.de^
+||abbandemo.com^
 ||abbigliamentoscarpe.com^
 ||abc-apotheke-hamburg.de^
 ||abcbinaire.com^
@@ -2058,6 +2060,7 @@
 ||bekleidungonstore.com^
 ||bekleidungsoutlet.com^
 ||bekos.at^
+||belarismall.com^
 ||belbachirconcept.com^
 ||belenkawien.at^
 ||beleuchtungprada.com^
@@ -4309,6 +4312,7 @@
 ||domelus.de^
 ||dominguesequipamentos.com^
 ||domino-handel.de^
+||domuslumi.com^
 ||don-art.de^
 ||donalovehair.de^
 ||donate2camerafraud.com^
@@ -5627,6 +5631,7 @@
 ||flexihubstore.com^
 ||flexioptions.com^
 ||flexiworkde.works^
+||flexsugges.com^
 ||flextrader.co^
 ||flidop.com^
 ||fliegen-de.de^
@@ -6723,6 +6728,7 @@
 ||gtltic-anhaenger.de^
 ||gtmn.store^
 ||gtoptions.com^
+||gtsusa.net^
 ||guamthuc.com^
 ||guaranteeddealhub.com^
 ||guardiannewstoday.com^
@@ -8160,6 +8166,7 @@
 ||jon-balkanshop.de^
 ||jonas-klara.at^
 ||jonasblsake.com^
+||jonla.shop^
 ||jooribeauty.shop^
 ||joox388-online.com^
 ||jordanat.at^
@@ -8212,6 +8219,7 @@
 ||justpowertool.com^
 ||justrader.com^
 ||justvanilla.de^
+||jutevibers.com^
 ||juvenda.de^
 ||juwelierkunst.de^
 ||jyaashop.com^
@@ -8732,6 +8740,7 @@
 ||kontano.de^
 ||kontomeinelbaraiffeisen.com^
 ||kontoraiffeisenmeinelba.com^
+||koochand.com^
 ||koodakde.shop^
 ||kopfsacheonline.de^
 ||kora-store.de^
@@ -9165,6 +9174,7 @@
 ||lhsnr.shop^
 ||liabilis.com^
 ||lianonline.com^
+||libaanet.com^
 ||liberalm.com^
 ||liberalw.com^
 ||liberiapage.com^
@@ -9182,6 +9192,7 @@
 ||lidlhh.shop^
 ||lidlpalace.com^
 ||lidora.de^
+||lidou.shop^
 ||liebeart.de^
 ||liebem.de^
 ||liebes-decke.de^
@@ -9310,6 +9321,7 @@
 ||lm-heizoel.de^
 ||lmfmotoculture.com^
 ||lmsffr.shop^
+||lmvae.shop^
 ||loakedeutschland.de^
 ||loakeschweiz.net^
 ||loaspool.de^
@@ -12175,6 +12187,7 @@
 ||power-laden.store^
 ||poweromasch.shop^
 ||powitech.com^
+||ppsecuresite.com^
 ||pqhw.com^
 ||practs.de^
 ||praezisionswerkzeugbau.de^
@@ -13212,6 +13225,7 @@
 ||saunawelten-tegernsee.com^
 ||saunazelt-shop.com^
 ||sauvequipeut-online.com^
+||savehubx.com^
 ||savela.de^
 ||savemarthub.com^
 ||saveoffer.de^
@@ -13407,6 +13421,7 @@
 ||select-football.com^
 ||selectedmedsonline.com^
 ||selectro.ch^
+||selegalsolutions.com^
 ||sellercenter.shop^
 ||sellerhiking.com^
 ||sellingkitchen.com^
@@ -13437,6 +13452,7 @@
 ||serenitybot.com^
 ||serenomaison.com^
 ||serentia-shop.com^
+||seriesplus.org^
 ||serndalle.com^
 ||serolulimited.com^
 ||serolushop.de^
@@ -14554,6 +14570,7 @@
 ||synthplatformtrust.click^
 ||syrokan.com^
 ||system-capital.org^
+||systemgram.com^
 ||systemiy.com^
 ||systemofdown.com^
 ||sz-fishing.de^
@@ -16416,6 +16433,7 @@
 ||wolffashion.de^
 ||wolffashiondeutschland.com^
 ||wolffcomerce.de^
+||wolffcommerce.de^
 ||wolfgangcontainers.de^
 ||wolfmode.de^
 ||wolke-hundebett.de^
