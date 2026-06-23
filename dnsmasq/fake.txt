@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 09:51 UTC
-# Version: 2026.0622.0951.36
+# Last modified: 23 Jun 2026 06:51 UTC
+# Version: 2026.0623.0651.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16796
+# Number of entries: 16800
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -1929,7 +1929,6 @@ local=/bassbet1.com/
 local=/bassbetcasino-online.de/
 local=/bassiami.com/
 local=/basspool.de/
-local=/bassthompson.com/
 local=/baswad.com/
 local=/batchof.com/
 local=/bateg24.de/
@@ -3176,7 +3175,6 @@ local=/chansflavor.com/
 local=/chaps-herrenmode.de/
 local=/chapterrest.store/
 local=/characterh.com/
-local=/charismatico.com/
 local=/charlesashford.shop/
 local=/charlystore.de/
 local=/charmdaily.com/
@@ -3976,6 +3974,7 @@ local=/deinenergieplan.de/
 local=/deinetierliebe.de/
 local=/deinhandwerkershop.de/
 local=/deinheizoel.de/
+local=/deini.com/
 local=/deinliebesmensch.de/
 local=/deinlieblingstier.co/
 local=/deinmodetrends.com/
@@ -4555,6 +4554,7 @@ local=/eceq.org/
 local=/echers.com/
 local=/echlat.com/
 local=/echtdokumente.com/
+local=/echtdruck.de/
 local=/eck-grill.de/
 local=/eckert-handel.de/
 local=/eclipsa.de/
@@ -5532,7 +5532,6 @@ local=/finmaxbo.com/
 local=/finnflarede.shop/
 local=/finosso.com/
 local=/finovesta-france.com/
-local=/finovexpro-app.com/
 local=/finpari.com/
 local=/finprofm.com/
 local=/finrally.com/
@@ -6186,6 +6185,7 @@ local=/geminiomnigenerator.com/
 local=/gemoneo.com/
 local=/generic4all-global.com/
 local=/generic4allglobal.com/
+local=/genericdoctor.com/
 local=/genericeupills.com/
 local=/genericsbot.com/
 local=/genericshop-247.eu/
@@ -8080,6 +8080,7 @@ local=/jefercopellets.com/
 local=/jeffkelleher.shop/
 local=/jeffora.de/
 local=/jeffspoolservice.com/
+local=/jeinn.com/
 local=/jellycats.de/
 local=/jellylight.at/
 local=/jerseymonsters.com/
@@ -8098,6 +8099,7 @@ local=/jewelrynovainc.com/
 local=/jewelrynovashop.com/
 local=/jgfrqhh.top/
 local=/jh-machines-nord.com/
+local=/jhagriconseil.com/
 local=/jiajo.com/
 local=/jiangekj.xyz/
 local=/jieper.com/
@@ -11476,6 +11478,7 @@ local=/orcliacare.com/
 local=/orderbuycheap.com/
 local=/ordergunmagazinesonline.com/
 local=/ordernow24.de/
+local=/orderrxstore.com/
 local=/ordersurfsite.com/
 local=/orderumbrella.com/
 local=/ordinarlim.com/
@@ -13738,6 +13741,7 @@ local=/skincarelimit.com/
 local=/skinliy.com/
 local=/skinnfitts.com/
 local=/skinnycaps.com/
+local=/skinqira.de/
 local=/skinsociety.shop/
 local=/skinwell.store/
 local=/skiracedepartment.com/

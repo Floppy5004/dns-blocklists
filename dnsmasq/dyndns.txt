@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jun 2026 22:34 UTC
-# Version: 2026.0615.2234.49
+# Last modified: 22 Jun 2026 14:41 UTC
+# Version: 2026.0622.1441.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1517
+# Number of entries: 1518
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -1519,6 +1519,7 @@ local=/z86.ru/
 local=/zaibar.ro/
 local=/zanity.net/
 local=/zapto.org/
+local=/zeitr.ch/
 local=/zelslonik.info/
 local=/zneth.com/
 local=/zoneedit.com/
