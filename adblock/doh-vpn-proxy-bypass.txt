@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jun 2026 19:09 UTC
-! Version: 2026.0623.1909.54
+! Last modified: 24 Jun 2026 08:02 UTC
+! Version: 2026.0624.0802.34
 ! Syntax: AdBlock
-! Number of entries: 17231
+! Number of entries: 17228
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -7395,7 +7395,6 @@
 ||4j9echn8mdr.online^
 ||4l0qpkh5i4gwifmeb.online^
 ||4proxy.de^
-||4q577yay.online^
 ||4thunter.net^
 ||4vtw3ktojjadh0xlr.online^
 ||5-vpn.mom^
@@ -7473,7 +7472,6 @@
 ||89yq10wlfdf.online^
 ||8d4fac431a6657d7a3c2846f37b02c2e03719dc9.com^
 ||8duc6yogvj.site^
-||8ebyz2sa2.online^
 ||8f19246a8b2b8b9bf42d63d919f06bb0ece902da.com^
 ||8locuezmc1dm219uo.online^
 ||8mvnbml4uxmm.online^
@@ -9184,6 +9182,7 @@
 ||croxyproxy.app^
 ||croxyproxy.best^
 ||croxyproxy.com^
+||croxyproxy.id^
 ||croxyproxy.net^
 ||croxyproxy.rocks^
 ||croxyproxy.vip^
@@ -11505,7 +11504,6 @@
 ||hriscanskaadventistickacrkva.com^
 ||hrj939rzl.online^
 ||hrzn1.site^
-||hs5vae2vi.online^
 ||hshdytfp.com^
 ||hshh.org^
 ||hsnjx4a.online^
@@ -11556,7 +11554,6 @@
 ||hxp.info^
 ||hxr.app^
 ||hxs.info^
-||hxtvk7y8j.online^
 ||hxv.app^
 ||hxwnkrnn.cc^
 ||hxxxxx.name^
@@ -11778,6 +11775,7 @@
 ||ixl.plus^
 ||ixl.rocks^
 ||ixl.works^
+||ixls.top^
 ||ixpjclmh.com^
 ||ixumequs.com^
 ||j166.net^
@@ -12078,7 +12076,6 @@
 ||kjmserwis.pl^
 ||kk89hecrq.online^
 ||kkkkk.click^
-||kl-lets.com^
 ||klavino.ru^
 ||klctextor5ag.online^
 ||klevoro.ru^
@@ -13231,7 +13228,6 @@
 ||n8nmegapixar.online^
 ||n8ogo8f3kjb.online^
 ||nahidontneed.help^
-||nahsdmgjuvmyp.online^
 ||naichacloud.net^
 ||naichayun.net^
 ||naiko.cloud^
@@ -13521,7 +13517,6 @@
 ||nym.network^
 ||nymtech.net^
 ||nymvpn.com^
-||nzdf3hp.online^
 ||nzkfuwrf.com^
 ||o-faster.cc^
 ||o1.lt^
@@ -14913,6 +14908,7 @@
 ||siteunblocked.lol^
 ||siteunblocked.space^
 ||siteunblocked.xyz^
+||sitev3.org^
 ||sitework.info^
 ||sitx2.cc^
 ||sjaarzmo.com^
@@ -15525,6 +15521,9 @@
 ||torvpn.com^
 ||torvpn.lol^
 ||totallyacdn.com^
+||totallynotaproxy.com^
+||totallynotaproxy.info^
+||totallynotaproxy.org^
 ||totalvpn.com^
 ||totoland.eu^
 ||totorocloud.cc^
@@ -15696,7 +15695,6 @@
 ||ujrmdtrq.cc^
 ||ujsrxts.com^
 ||uku.im^
-||ukumlmrst0igs.online^
 ||ukvvbso.cn^
 ||ulta.am^
 ||ultimatearca.de^
@@ -17232,7 +17230,6 @@
 ||zwskk3lczgjwug3hzpd.online^
 ||zwyr157wwiu6eior.com^
 ||zwytzjjz.com^
-||zxhybrol.online^
 ||zxtwpkso.com^
 ||zy4jwdenh.online^
 ||zylor.xyz^

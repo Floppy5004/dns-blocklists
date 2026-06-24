@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 19:09 UTC
-# Version: 2026.0623.1909.54
+# Last modified: 24 Jun 2026 08:02 UTC
+# Version: 2026.0624.0802.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17231
+# Number of entries: 17228
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -7394,7 +7394,6 @@ local=/4everproxy.com/
 local=/4j9echn8mdr.online/
 local=/4l0qpkh5i4gwifmeb.online/
 local=/4proxy.de/
-local=/4q577yay.online/
 local=/4thunter.net/
 local=/4vtw3ktojjadh0xlr.online/
 local=/5-vpn.mom/
@@ -7472,7 +7471,6 @@ local=/890634.xyz/
 local=/89yq10wlfdf.online/
 local=/8d4fac431a6657d7a3c2846f37b02c2e03719dc9.com/
 local=/8duc6yogvj.site/
-local=/8ebyz2sa2.online/
 local=/8f19246a8b2b8b9bf42d63d919f06bb0ece902da.com/
 local=/8locuezmc1dm219uo.online/
 local=/8mvnbml4uxmm.online/
@@ -9183,6 +9181,7 @@ local=/croxy-proxy.com/
 local=/croxyproxy.app/
 local=/croxyproxy.best/
 local=/croxyproxy.com/
+local=/croxyproxy.id/
 local=/croxyproxy.net/
 local=/croxyproxy.rocks/
 local=/croxyproxy.vip/
@@ -11504,7 +11503,6 @@ local=/hrf4hpcwvc8w.online/
 local=/hriscanskaadventistickacrkva.com/
 local=/hrj939rzl.online/
 local=/hrzn1.site/
-local=/hs5vae2vi.online/
 local=/hshdytfp.com/
 local=/hshh.org/
 local=/hsnjx4a.online/
@@ -11555,7 +11553,6 @@ local=/hxn.info/
 local=/hxp.info/
 local=/hxr.app/
 local=/hxs.info/
-local=/hxtvk7y8j.online/
 local=/hxv.app/
 local=/hxwnkrnn.cc/
 local=/hxxxxx.name/
@@ -11777,6 +11774,7 @@ local=/ixiservices.org/
 local=/ixl.plus/
 local=/ixl.rocks/
 local=/ixl.works/
+local=/ixls.top/
 local=/ixpjclmh.com/
 local=/ixumequs.com/
 local=/j166.net/
@@ -12077,7 +12075,6 @@ local=/kizvpn.ru/
 local=/kjmserwis.pl/
 local=/kk89hecrq.online/
 local=/kkkkk.click/
-local=/kl-lets.com/
 local=/klavino.ru/
 local=/klctextor5ag.online/
 local=/klevoro.ru/
@@ -13230,7 +13227,6 @@ local=/n6j3iyl.online/
 local=/n8nmegapixar.online/
 local=/n8ogo8f3kjb.online/
 local=/nahidontneed.help/
-local=/nahsdmgjuvmyp.online/
 local=/naichacloud.net/
 local=/naichayun.net/
 local=/naiko.cloud/
@@ -13520,7 +13516,6 @@ local=/nym.dev/
 local=/nym.network/
 local=/nymtech.net/
 local=/nymvpn.com/
-local=/nzdf3hp.online/
 local=/nzkfuwrf.com/
 local=/o-faster.cc/
 local=/o1.lt/
@@ -14912,6 +14907,7 @@ local=/siteunblocked.club/
 local=/siteunblocked.lol/
 local=/siteunblocked.space/
 local=/siteunblocked.xyz/
+local=/sitev3.org/
 local=/sitework.info/
 local=/sitx2.cc/
 local=/sjaarzmo.com/
@@ -15524,6 +15520,9 @@ local=/torvexiano.xyz/
 local=/torvpn.com/
 local=/torvpn.lol/
 local=/totallyacdn.com/
+local=/totallynotaproxy.com/
+local=/totallynotaproxy.info/
+local=/totallynotaproxy.org/
 local=/totalvpn.com/
 local=/totoland.eu/
 local=/totorocloud.cc/
@@ -15695,7 +15694,6 @@ local=/uisujhks.com/
 local=/ujrmdtrq.cc/
 local=/ujsrxts.com/
 local=/uku.im/
-local=/ukumlmrst0igs.online/
 local=/ukvvbso.cn/
 local=/ulta.am/
 local=/ultimatearca.de/
@@ -17231,7 +17229,6 @@ local=/zumuzoig.cc/
 local=/zwskk3lczgjwug3hzpd.online/
 local=/zwyr157wwiu6eior.com/
 local=/zwytzjjz.com/
-local=/zxhybrol.online/
 local=/zxtwpkso.com/
 local=/zy4jwdenh.online/
 local=/zylor.xyz/

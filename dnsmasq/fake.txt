@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 18:09 UTC
-# Version: 2026.0623.1809.25
+# Last modified: 24 Jun 2026 06:54 UTC
+# Version: 2026.0624.0654.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16818
+# Number of entries: 16806
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -586,7 +586,6 @@ local=/gwcsale.towncabco.com/
 local=/gwcshop.towncabco.com/
 local=/ad.toygzv.shop/
 local=/atbh.toygzv.shop/
-local=/at.trabajo.org/
 local=/pt.tradingzone.pro/
 local=/idjebhi.r.tsp1-brevo.net/
 local=/web.tyrioncapital.live/
@@ -2587,7 +2586,6 @@ local=/boatworkssupply.com/
 local=/bobbyananta.com/
 local=/bobostore.de/
 local=/bocancilowa.com/
-local=/bocapital.com/
 local=/bocastory.com/
 local=/bocceli.com/
 local=/body-gear.to/
@@ -2761,7 +2759,6 @@ local=/brinkmann-mode.de/
 local=/brinkmannkanzlei.de/
 local=/briospielzeug.com/
 local=/briospielzeugrabatt.com/
-local=/british-columbia-hotels.com/
 local=/britishnewstoday.com/
 local=/brivalfin-invest.com/
 local=/brnghl.shop/
@@ -3694,7 +3691,6 @@ local=/cutcy.com/
 local=/cutlerymarkets.com/
 local=/cutterfarm.de/
 local=/cv-tech-onlineshop.de/
-local=/cvc-capital-partners.com/
 local=/cvmaker.de/
 local=/cvneed.com/
 local=/cwl-experts.org/
@@ -6448,7 +6444,6 @@ local=/glossierdanmark.com/
 local=/glossierireland.com/
 local=/glossise.com/
 local=/glovano.com/
-local=/glovio.de/
 local=/glow-haven.de/
 local=/glowblend.de/
 local=/glowency.de/
@@ -6561,7 +6556,6 @@ local=/goodguanvs.click/
 local=/goodideatrade.com/
 local=/goodiptvc.com/
 local=/goodjobfull.com/
-local=/goodlike.de/
 local=/goodmecar.click/
 local=/goodmedsshops.com/
 local=/goodotisnop.click/
@@ -7539,7 +7533,6 @@ local=/hotelladen.com/
 local=/hotels-colombo.com/
 local=/hotels-inform4281.com/
 local=/hotelsinperm.ru/
-local=/hotelsofmenorca.com/
 local=/hotelwareus.com/
 local=/hotelwhales.com/
 local=/hotix.de/
@@ -8760,7 +8753,6 @@ local=/koupitpsychedelika.cz/
 local=/kovison.de/
 local=/kowela.com/
 local=/kpoweronline.com/
-local=/krabihotelsthailand.net/
 local=/kraft-profil-technik.eu/
 local=/kraftdesweins.com/
 local=/kraftholz-pellet.shop/
@@ -11111,7 +11103,6 @@ local=/nxsfund.com/
 local=/nxtstreetlondon.com/
 local=/nyfolk.de/
 local=/nyutxe.shop/
-local=/nze.com/
 local=/nzwir.shop/
 local=/oakdalerotary.org/
 local=/oakhabitsy.com/
@@ -11464,7 +11455,6 @@ local=/opte-grup.com/
 local=/optessentialoils.com/
 local=/optimalattire.com/
 local=/optimaltackle.com/
-local=/optimarkets.com/
 local=/optimia.top/
 local=/optimizeactive.shop/
 local=/optimizehq.shop/
@@ -14654,7 +14644,6 @@ local=/tcomplex.de/
 local=/tddexpresslogistics.com/
 local=/tdglobalcompany.io/
 local=/tdxsz.com/
-local=/te.de/
 local=/teachbrigh.com/
 local=/teambike-hamburg.de/
 local=/teameffekt.de/
@@ -15392,7 +15381,6 @@ local=/ttk-solar.de/
 local=/ttkarriere.com/
 local=/tts-beratung.de/
 local=/tttrilliant-fx.net/
-local=/tudio.de/
 local=/tuftex-balloons.com/
 local=/tuinbalkon.com/
 local=/tunepart.com/

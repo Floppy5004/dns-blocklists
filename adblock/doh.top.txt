@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jun 2026 07:55 UTC
-! Version: 2026.0623.0755.27
+! Last modified: 24 Jun 2026 08:02 UTC
+! Version: 2026.0624.0802.29
 ! Syntax: AdBlock
-! Number of entries: 264
+! Number of entries: 249
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -35,10 +35,6 @@
 ||nvi-dns.bitdefender.net^
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
-||doh-de.blahdns.com^
-||doh-fi.blahdns.com^
-||doh-jp.blahdns.com^
-||doh-sg.blahdns.com^
 ||dns.brahma.world^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
@@ -58,7 +54,6 @@
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||dns.digitalsize.net^
 ||dotserver.douyucdn.cn^
-||dns.electrotm.org^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||dns.gamban.com^
@@ -73,15 +68,11 @@
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||http-dns.imoim.net^
-||apidns.kwd.inkuai.com^
 ||httpdns.kwd.inkuai.com^
 ||dns.iqiyi.com^
 ||doh.iqiyi.com^
 ||dns.jd.com^
-||protective.joindns4.eu^
-||unfiltered.joindns4.eu^
 ||opencdn.jomodns.com^
-||dns.kernel-error.de^
 ||hdns.ksyun.com^
 ||doh.libredns.gr^
 ||httpdns.meituan.com^
@@ -108,7 +99,6 @@
 ||sandbox.opendns.com^
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.push.oppomobile.com^
-||dns.oszx.co^
 ||pluton.plan9-dns.com^
 ||httpdns.kg.qq.com^
 ||dns.weixin.qq.com^
@@ -121,18 +111,13 @@
 ||dns12.quad9.net^
 ||dns9.quad9.net^
 ||dnspub.restena.lu^
-||dns.rubyfish.cn^
-||free.shecan.ir^
-||dns.smartguard.io^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
-||dns.surfsharkdns.com^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
 ||homenet.telecomitalia.it^
 ||sdkconfig.tlivedns.com^
 ||dns.twnic.tw^
-||my.ublockdns.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
 ||adsl.viettel.vn^

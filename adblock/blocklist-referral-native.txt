@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jun 2026 06:39 UTC
-! Version: 2026.0623.0639.28
+! Last modified: 24 Jun 2026 06:41 UTC
+! Version: 2026.0624.0641.02
 ! Syntax: AdBlock
-! Number of entries: 1517
+! Number of entries: 1516
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -343,7 +343,6 @@
 ||hs.eloqua.com^
 ||profitshare.emag.ro^
 ||list-unsubscribe.eservice.emarsys.net^
-||suite0.emarsys.net^
 ||suite1.emarsys.net^
 ||suite10.emarsys.net^
 ||suite10-cf.emarsys.net^
@@ -520,7 +519,7 @@
 ||sites.hscoscdn-ap1.net^
 ||sites.hscoscdn-eu1.net^
 ||sites.hscoscdn-na2.net^
-||341676991.group0.sites.hscoscdn-na3.net^
+||sites.hscoscdn-na3.net^
 ||sites.hscoscdn00.net^
 ||sites.hscoscdn10.net^
 ||sites.hscoscdn20.net^
@@ -609,7 +608,6 @@
 ||click.mfilter.net^
 ||clk.mfilter.net^
 ||track.mfilter.net^
-||email.microsoft.com^
 ||go.microsoft.com^
 ||target.microsoft.com^
 ||click.email.microsoftemail.com^
@@ -1199,7 +1197,6 @@
 ||mkto-ab130188.com^
 ||mkto-ab140048.com^
 ||mkto-ab150013.com^
-||mkto-ab150224.com^
 ||mkto-ab170094.com^
 ||mkto-ab170123.com^
 ||mkto-ab170161.com^
@@ -1283,6 +1280,7 @@
 ||mkto-ab650097.com^
 ||mkto-ab650172.com^
 ||mkto-ab660121.com^
+||mkto-ab660168.com^
 ||mkto-ab690011.com^
 ||mkto-ab690019.com^
 ||mkto-ab690062.com^
@@ -1367,6 +1365,7 @@
 ||mkto-sj050237.com^
 ||mkto-sj060054.com^
 ||mkto-sj070141.com^
+||mkto-sj070193.com^
 ||mkto-sj070214.com^
 ||mkto-sj070218.com^
 ||mkto-sj080048.com^
