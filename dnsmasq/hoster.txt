@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 18:36 UTC
-# Version: 2026.0623.1836.37
+# Last modified: 24 Jun 2026 18:36 UTC
+# Version: 2026.0624.1836.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1227
+# Number of entries: 1228
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -1141,6 +1141,7 @@ local=/voellig-daneben.de/
 local=/vollidiot.net/
 local=/vollsten.de/
 local=/voten.in/
+local=/vuzelia.com/
 local=/vz.lc/
 local=/w3spaces.com/
 local=/wapka.club/

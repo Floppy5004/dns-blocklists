@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Jun 2026 08:02 UTC
-! Version: 2026.0624.0802.34
+! Last modified: 24 Jun 2026 19:11 UTC
+! Version: 2026.0624.1911.22
 ! Syntax: AdBlock
-! Number of entries: 17228
+! Number of entries: 17225
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -11558,7 +11558,6 @@
 ||hxwnkrnn.cc^
 ||hxxxxx.name^
 ||hxy.name^
-||hy5o5ua8gklpqjbqzjaaje8yy.online^
 ||hydroxide.wtf^
 ||hyeeypad.cc^
 ||hykdwzgw.online^
@@ -13837,7 +13836,6 @@
 ||phyi.loan^
 ||physicsbutfun.com^
 ||pi-dns.com^
-||piaproxy.com^
 ||piaproxy.net^
 ||piaservers.net^
 ||picknife.org^
@@ -14899,7 +14897,6 @@
 ||sitenable.com^
 ||sitenable.in^
 ||sitenable.org^
-||sitescrack.host^
 ||sitespeedtest.net^
 ||sitesunblocked.com^
 ||siteunblock.org^

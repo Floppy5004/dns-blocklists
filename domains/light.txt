@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 07:38 UTC
-# Version: 2026.0624.0738.03
+# Last modified: 24 Jun 2026 18:46 UTC
+# Version: 2026.0624.1846.27
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 88279
+# Number of entries: 88287
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -5387,6 +5387,7 @@ www.62nds.com
 6e29a6a58fec81d5.cfd
 6ejvq6ykg2.com
 6f0247be0c.com
+6grxxoqmpc.com
 6gzxobtc5rt3wc5f3knnzipy.cfd
 6i7y3i.ru
 6iy7uqz259ffxn1y.cfd
@@ -5399,6 +5400,7 @@ metric.6p71hs.top
 6s5acf8d.com
 j.6sc.co
 epsilon.6sense.com
+6uliq2uive.com
 6v4.work
 6v41p4bsq.com
 6v6.work
@@ -9020,17 +9022,6 @@ adtube.media
 xml-v4.adtube.media
 adtwister.me
 lamanlabuh.aduankonten.id
-adukwai.com
-p1-ad.adukwai.com
-p1-lm.adukwai.com
-p2-ad.adukwai.com
-p2-lm.adukwai.com
-p3-ad.adukwai.com
-p4-ad.adukwai.com
-p4-lm.adukwai.com
-p5-ad.adukwai.com
-v4-ad.adukwai.com
-v4-lm.adukwai.com
 adult.xyz
 adult-shops.com
 adultadworld.com
@@ -9389,6 +9380,9 @@ www.adyun.com
 adz2hub.com
 adz2you.xyz
 click.adzcore.com
+adzen.ai
+api.adzen.ai
+widget.adzen.ai
 adzep.io
 autozep.adzep.io
 engine.adzerk.net
@@ -9960,6 +9954,7 @@ aiai-talk.com
 node.aibeacon.jp
 aibeautia1.jp
 www.aibeautia1.jp
+aibogwwviibku.online
 aibsgc.com
 aicandy.link
 aiclaude.jp
@@ -10169,6 +10164,7 @@ ajaibcom-trackerpte-liveopera.com
 ajaraffect.com
 ajazaci.icu
 ajblcygde.com
+ajddolrmsfsvg.space
 ajfnee.com
 ajhcicem.com
 ajiang.net
@@ -10577,14 +10573,12 @@ aplus.alibaba.com
 dmtracking2.alibaba.com
 fourier.alibaba.com
 marketing.alibaba.com
-offer.alibaba.com
 umlazada.alibaba.com
 adashx.ut.alibaba.com
 h-adashx.ut.alibaba.com
 acs-mum.alibabachengdun.com
 mum.alibabachengdun.com
 mum.alibabachengdun.net
-offer.alibaba.com.gds.alibabadns.com
 beacon-api.aliyuncs.com.gds.alibabadns.com
 umeng.com.gds.alibabadns.com
 dsp.ads.umeng.com.gds.alibabadns.com
@@ -20409,6 +20403,8 @@ begloomtinterspining.qpon
 begolbatan.com
 static.begolbatan.com
 begonaoidausek.com
+begravesimula.cfd
+hp.begravesimula.cfd
 beguessoestrum.qpon
 begun.ru
 autocontext.begun.ru
@@ -21064,6 +21060,7 @@ bigreal.org
 bigrourg.net
 www.bigsauron.ru
 bigwww.com
+bihalvegoldi.com
 bihogbawtvemq.site
 bihunekus.com
 annonse.biip.no
@@ -22113,6 +22110,7 @@ www.bootcss.com
 yarn.bootcss.com
 bootsoutlet.shop
 bootstraplugin.com
+boozilyhaircap.cfd
 bopako.com
 t.bopako.com
 borecressy.qpon
@@ -22600,6 +22598,7 @@ brothers-company.ru
 broughtkittock.qpon
 brounelink.com
 browdcelaeno.cfd
+push.brownbrothers.io
 broworker10s.com
 broworker11s.com
 broworker12s.com
@@ -22996,6 +22995,7 @@ www.bvalphaserver.com
 bvddfghxdsfd.top
 bveioagdmsmlfmp.com
 bvggicxfzizia.com
+bvhd1uhl5z.com
 bvjzakwezmaqw.site
 bvkicixmiytqz.website
 bvmcdn.com
@@ -28002,6 +28002,7 @@ cfusionsys.com
 cgbabuszlafra.online
 www.cgctv.com
 cgheqxwfnqmm.com
+cgioikozcnuoh.website
 cgispy.com
 cgohgvwrgueb.xyz
 cguunwxpkld.com
@@ -29008,6 +29009,7 @@ vpaid.doubleverify.com.cdn.cloudflare.net
 matomo.garmin.com.cdn.cloudflare.net
 analytics.getpostman.com.cdn.cloudflare.net
 globale-analytics-sdk.global-e.com.cdn.cloudflare.net
+affiliate.klook.com.cdn.cloudflare.net
 stats.lotlinx.com.cdn.cloudflare.net
 telemetry.myq-cloud.com.cdn.cloudflare.net
 countly-api.mysugr.com.cdn.cloudflare.net
@@ -29289,6 +29291,8 @@ cloudtraff.com
 cloudtransfer.store
 cloudvideosa.com
 cdn.cloudvideosa.com
+cloudx.io
+www.cloudx.io
 cloudy-with-containers.ch
 cloudyjacket.com
 www.cloudyjacket.com
@@ -38260,6 +38264,8 @@ dsajrx.com
 dsapdf.com
 dsau5u.com
 dsaxgy.com
+dsaywi.com
+s.dsaywi.com
 dsb68d.com
 dsbdyr.com
 dsbexk.com
@@ -38270,6 +38276,7 @@ dsccgm.com
 dscjbq.com
 dscmih.com
 dscmxt.com
+dscpxz.com
 dscsky.com
 dscsqe.com
 dsctja.com
@@ -38306,6 +38313,7 @@ dsfsfp.com
 dsftcd.com
 dsfvya.com
 dsgarg.com
+dsgdef.com
 dsgldf.com
 dsgvgw.com
 dsgwoa.com
@@ -38534,7 +38542,6 @@ mblapi.ssl2.duapps.com
 nrcapi.ssl2.duapps.com
 rts.ssl2.duapps.com
 www.duapps.com
-duba.com
 duba.net
 vipzone.c.duba.net
 cf.duba.net
@@ -38557,8 +38564,6 @@ kns.duba.net
 newvip.duba.net
 optimize.duba.net
 pdvip.duba.net
-v.duba.com
-www.duba.com
 www.duba.net
 cu003.www.duba.net
 cu004.www.duba.net
@@ -38635,6 +38640,7 @@ duskishpaeony.cfd
 dustinga.com
 dusurmmklwjx.com
 duvetynnoisier.shop
+duvm2tveip.com
 duxhrpcbmcijr.website
 adsmis.duxiaoman.com
 duxmiahfh.com
@@ -39364,6 +39370,7 @@ easysearch.click
 easysexe.com
 detectca.easysol.net
 easytomessage.com
+eatcells.com
 eatenmockingoverwhelm.com
 securetracking.eaton.com
 eavesdropthenashame.com
@@ -45788,6 +45795,7 @@ utiq.gumtree.com
 gumyfui.com
 gun2v2neoo.com
 gunft.com
+gungelayery.cfd
 gunont.xyz
 ad.gunosy.com
 ads-delivery.gunosy.com
@@ -47211,6 +47219,7 @@ hprofits.com
 fp.hprofits.com
 stats.hprofits.com
 plausible.hptronic.cz
+hptysnhexzndy.website
 hpyjmp.com
 go.hpyjmp.com
 hqbdibst.com
@@ -50416,6 +50425,7 @@ jaybanquo.cfd
 jayemtradeonline.in
 www.jayemtradeonline.in
 analytics.jazel.net
+jaziesidly.shop
 jazzistagallop.com
 aq.jazzistagallop.com
 jba33y5xx.com
@@ -51529,6 +51539,7 @@ keistcarr.cyou
 kejet.net
 as.kejet.net
 i.kejet.net
+kekonum.com
 kektds.com
 analytics.kelasmalam.net
 kelfnfabbwugq.online
@@ -51817,6 +51828,7 @@ kllastway.com
 kllpelaa.net
 klmmnd.com
 klnapyezsrfg.com
+affiliate.klook.com
 log.klook.com
 collect.klove.com
 tags.klove.com
@@ -51845,6 +51857,7 @@ www.kmspico.ws
 kmspico-free.com
 kmspico10.com
 kmwxuexcxpgopo.cfd
+knampkoltuduq.space
 knapechaloth.cfd
 kxlogo.knet.cn
 ss.knet.cn
@@ -60941,6 +60954,7 @@ analytics.northerntool.com
 northghost.com
 api-prod.northghost.com
 event.northghost.com
+northquill.net
 euob.northwavepoint.com
 northwestdiddived.com
 ads.northwestern.edu
@@ -61752,7 +61766,6 @@ ninja.data.olxcdn.com
 olybetcasino.fr
 event-router.olympics.com
 mr.olympics.com
-om-tracka.top
 omaousherer.cyou
 omcrobata.com
 omdlraptkxgw.com
@@ -61905,7 +61918,6 @@ www.oms.eu
 omskrielt.com
 i9.omskrielt.com
 www.omskrielt.com
-omtrack.buzz
 ad4.on.cc
 ad6.on.cc
 gtm-ss.on.com
@@ -62315,6 +62327,8 @@ oomaugnaps.net
 ooniu.com
 oooqyfcnv.com
 oops-clubsauna.com
+oopt.fr
+www.oopt.fr
 ooralisdecimagranes.cfd
 oorsoozo.top
 ooryprosed.cyou
@@ -63168,6 +63182,7 @@ ordutuque.cfd
 oremark.com
 collector.orf.at
 orfa1st5.de
+orfgildpibal.cyou
 ad.org.vn
 serving.ad.org.vn
 institutomariadapenha.org.br
@@ -63233,6 +63248,7 @@ osamachoice.com
 osamacom.com
 osamadada.com
 osamafusion.com
+osamagenius.com
 osamaglow.com
 osamahit.com
 osamaimpact.com
@@ -64165,14 +64181,6 @@ repcdn.pcapp.store
 repository.pcapp.store
 pccleaner.cn
 pccxfiekp.com
-pchelpsoft.com
-cloud.pchelpsoft.com
-du-api.pchelpsoft.com
-featureflags.pchelpsoft.com
-inapp.pchelpsoft.com
-offers.pchelpsoft.com
-store.pchelpsoft.com
-www.pchelpsoft.com
 sp.pcid.ca
 pcixo.com
 pcjiami.cn
@@ -66327,6 +66335,7 @@ psaithagomtasu.net
 psaugourtauy.com
 psaushoas.com
 psaussasta.net
+pschenttidier.com
 pscsre.com
 psegaifeed.net
 psegeevalrat.net
@@ -69966,6 +69975,7 @@ mxgi.sg.rongcfg.com
 stats.cn.ronghub.com
 logcollection.ronghub.com
 ronnelscaproin.cfd
+ronnikeryx.shop
 ronracepub.com
 ronrtklhbxy.com
 www.rontar.ru
@@ -71280,8 +71290,6 @@ searchmagnified.com
 9145.searchmagnified.com
 searchmarketing.com
 tracking.searchmarketing.com
-searchmarquis.com
-www.searchmarquis.com
 searchmiracle.com
 www.searchmiracle.com
 searchmobilia.shop
@@ -75121,6 +75129,7 @@ analytics.socialbeat.io
 socialcompletelydefrost.com
 more.socialflow.com
 socialmedia-careers-office.com
+socialnettraffic.com
 socialspark.com
 app.socialspark.com
 www.socialspark.com
@@ -75583,6 +75592,7 @@ sphidaphyps.com
 sphostserver.com
 gurgle.spiceworks.com
 spicy-effect.com
+spicyrtb.com
 spiddefrexpron.com
 34329.spiddefrexpron.com
 iqmetrics.spiegel.de
@@ -79983,9 +79993,7 @@ www31.tracer.jp
 traceworks.com
 beacon.tracify.ai
 scripting.tracify.ai
-track-ec.xyz
 track-ecpost.click
-track-ecpost.xyz
 track-victoriadates.com
 track4ref.com
 trackad.cz
@@ -80024,9 +80032,6 @@ trackerhqu.com
 trackerrr.com
 svb.trackerrr.com
 trackfeed.com
-trackfr.buzz
-trackfr.help
-trackfr.top
 trackier.com
 static-cdn.trackier.com
 trackify.info
@@ -84802,6 +84807,7 @@ webavisen.gl
 www.webavisen.gl
 webazilla.com
 webbedbasis.com
+webberharrid.cfd
 webbierusherermona.cyou
 webcodez.com
 webcom-software.ws
@@ -85205,6 +85211,7 @@ whatshelp.io
 landing.whatshelp.io
 static.whatshelp.io
 www.whatstheword.co
+whauvegrimes.cyou
 whazugho.com
 whbxzzffhzolw.website
 stape.whc.ca
@@ -86486,6 +86493,7 @@ analytics.xscreenattribution.com
 www.xsec.org
 xsmnkwolsmvjim.com
 xsnpnfswtslmw.online
+xsoktvpyi.com
 datagather.xsolla.com
 minimetrika.xsolla.com
 xsph.ru

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 07:38 UTC
-# Version: 2026.0624.0738.03
+# Last modified: 24 Jun 2026 18:46 UTC
+# Version: 2026.0624.1846.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 42594
+# Number of entries: 42616
 #
 0.0-02.net
 2.004k.com
@@ -939,12 +939,10 @@ aplus.alibaba.com
 dmtracking2.alibaba.com
 fourier.alibaba.com
 marketing.alibaba.com
-offer.alibaba.com
 umlazada.alibaba.com
 acs-mum.alibabachengdun.com
 mum.alibabachengdun.com
 mum.alibabachengdun.net
-offer.alibaba.com.gds.alibabadns.com
 beacon-api.aliyuncs.com.gds.alibabadns.com
 umeng.com.gds.alibabadns.com
 umengcloud.com.gds.alibabadns.com
@@ -4133,6 +4131,7 @@ soolb.broadway.com
 www.brokerbabe.com
 fnual.brooksbrothers.com
 metrics.brooksrunning.com
+push.brownbrothers.io
 www.browser-statistik.de
 c.browseranalytic.com
 fd.browseranalytic.com
@@ -4646,6 +4645,7 @@ analytics.credible.com.cdn.cloudflare.net
 matomo.garmin.com.cdn.cloudflare.net
 analytics.getpostman.com.cdn.cloudflare.net
 globale-analytics-sdk.global-e.com.cdn.cloudflare.net
+affiliate.klook.com.cdn.cloudflare.net
 stats.lotlinx.com.cdn.cloudflare.net
 telemetry.myq-cloud.com.cdn.cloudflare.net
 countly-api.mysugr.com.cdn.cloudflare.net
@@ -9891,6 +9891,7 @@ dfme.kleinanzeigen.de
 statsjs.klevu.com
 www.klikki.com
 logsdk.klingai.com
+affiliate.klook.com
 log.klook.com
 collect.klove.com
 tags.klove.com
@@ -17215,6 +17216,7 @@ upc.zztfly.com
 6e29a6a58fec81d5.cfd
 6ejvq6ykg2.com
 6f0247be0c.com
+6grxxoqmpc.com
 6gzxobtc5rt3wc5f3knnzipy.cfd
 6i7y3i.ru
 6iy7uqz259ffxn1y.cfd
@@ -17224,6 +17226,7 @@ upc.zztfly.com
 6pq.cc
 6r3ikxy1m5xptr3yv3yxk.cfd
 6s5acf8d.com
+6uliq2uive.com
 6v4.work
 6v41p4bsq.com
 6v6.work
@@ -18402,7 +18405,6 @@ adtrue.vn
 adtscriptshark.com
 adtube.media
 adtwister.me
-adukwai.com
 adult.xyz
 adult-shops.com
 adultadworld.com
@@ -18537,6 +18539,7 @@ adyoulike.com
 adyun.com
 adz2hub.com
 adz2you.xyz
+adzen.ai
 adzep.io
 adzestoads.xyz
 adzestocp.com
@@ -18774,6 +18777,7 @@ aiactiv.io
 aiahosyhl.com
 aiai-talk.com
 aibeautia1.jp
+aibogwwviibku.online
 aibsgc.com
 aicandy.link
 aiclaude.jp
@@ -18869,6 +18873,7 @@ ajaibcom-trackerpte-liveopera.com
 ajaraffect.com
 ajazaci.icu
 ajblcygde.com
+ajddolrmsfsvg.space
 ajfnee.com
 ajhcicem.com
 ajiang.net
@@ -20245,6 +20250,7 @@ beglidedizened.qpon
 begloomtinterspining.qpon
 begolbatan.com
 begonaoidausek.com
+begravesimula.cfd
 beguessoestrum.qpon
 begun.ru
 behavecaplet.cfd
@@ -20527,6 +20533,7 @@ bigrbmvjmorry.online
 bigreal.org
 bigrourg.net
 bigwww.com
+bihalvegoldi.com
 bihogbawtvemq.site
 bihunekus.com
 bikesattel.at
@@ -20937,6 +20944,7 @@ bootcdn.net
 bootcss.com
 bootsoutlet.shop
 bootstraplugin.com
+boozilyhaircap.cfd
 bopako.com
 borecressy.qpon
 boredhippie.com
@@ -21345,6 +21353,7 @@ bvalphaserver.com
 bvddfghxdsfd.top
 bveioagdmsmlfmp.com
 bvggicxfzizia.com
+bvhd1uhl5z.com
 bvjzakwezmaqw.site
 bvkicixmiytqz.website
 bvmcdn.com
@@ -21843,6 +21852,7 @@ cfusion-internet.com
 cfusionsys.com
 cgbabuszlafra.online
 cgheqxwfnqmm.com
+cgioikozcnuoh.website
 cgispy.com
 cgohgvwrgueb.xyz
 cguunwxpkld.com
@@ -22290,6 +22300,7 @@ cloudstream-apk.com
 cloudtraff.com
 cloudtransfer.store
 cloudvideosa.com
+cloudx.io
 cloudy-with-containers.ch
 cloudyjacket.com
 cloutrvgkmxam.website
@@ -24038,6 +24049,7 @@ dsajrx.com
 dsapdf.com
 dsau5u.com
 dsaxgy.com
+dsaywi.com
 dsb68d.com
 dsbdyr.com
 dsbexk.com
@@ -24048,6 +24060,7 @@ dsccgm.com
 dscjbq.com
 dscmih.com
 dscmxt.com
+dscpxz.com
 dscsky.com
 dscsqe.com
 dsctja.com
@@ -24084,6 +24097,7 @@ dsfsfp.com
 dsftcd.com
 dsfvya.com
 dsgarg.com
+dsgdef.com
 dsgldf.com
 dsgvgw.com
 dsgwoa.com
@@ -24240,7 +24254,6 @@ dualistesseda.com
 duantgrouped.shop
 duapp.com
 duapps.com
-duba.com
 duba.net
 dubietybialy.com
 dubzenom.com
@@ -24292,6 +24305,7 @@ duskishpaeony.cfd
 dustinga.com
 dusurmmklwjx.com
 duvetynnoisier.shop
+duvm2tveip.com
 duxhrpcbmcijr.website
 duxmiahfh.com
 duxobyikbhknx.online
@@ -24428,6 +24442,7 @@ easyplatform.com
 easysearch.click
 easysexe.com
 easytomessage.com
+eatcells.com
 eatenmockingoverwhelm.com
 eavesdropthenashame.com
 eawkxpuyrbkvx.website
@@ -27108,6 +27123,7 @@ gummy-debt.com
 gumyfui.com
 gun2v2neoo.com
 gunft.com
+gungelayery.cfd
 gunont.xyz
 gunselsdern.shop
 guoshipartners.com
@@ -27752,6 +27768,7 @@ hpotw7j4vh622k94u3g1kh4.cfd
 hpplay.cn
 hpqiktoilcksn.site
 hprofits.com
+hptysnhexzndy.website
 hpyjmp.com
 hqbdibst.com
 hqenqnjegflxk.website
@@ -28802,6 +28819,7 @@ jawedputons.shop
 jaxix801.com
 jaybanquo.cfd
 jayemtradeonline.in
+jaziesidly.shop
 jazzistagallop.com
 jba33y5xx.com
 jbafulwrb.com
@@ -29313,6 +29331,7 @@ keftisighty.cfd
 keihcomaikq.xyz
 keistcarr.cyou
 kejet.net
+kekonum.com
 kektds.com
 kelfnfabbwugq.online
 keliones.lt
@@ -29492,6 +29511,7 @@ kmspico.ws
 kmspico-free.com
 kmspico10.com
 kmwxuexcxpgopo.cfd
+knampkoltuduq.space
 knapechaloth.cfd
 knewpenny.com
 knie8wmsk.com
@@ -32458,6 +32478,7 @@ noritesfarrago.com
 normalballet.com
 normallydemandedalter.com
 northghost.com
+northquill.net
 northwestdiddived.com
 noshedpouchy.cfd
 nosierteens.com
@@ -32874,7 +32895,6 @@ oltondefoxtail.cyou
 oluokekejpxhe.website
 olvdxl.com
 olybetcasino.fr
-om-tracka.top
 omaousherer.cyou
 omcrobata.com
 omdlraptkxgw.com
@@ -32903,7 +32923,6 @@ omomku7r4n3vo55rp5k.xyz
 omooma.com
 omoonsih.net
 omskrielt.com
-omtrack.buzz
 onaudience.com
 onclasrv.com
 onclck.net
@@ -33012,6 +33031,7 @@ oomaugnaps.net
 ooniu.com
 oooqyfcnv.com
 oops-clubsauna.com
+oopt.fr
 ooralisdecimagranes.cfd
 oorsoozo.top
 ooryprosed.cyou
@@ -33129,6 +33149,7 @@ ordgoose.com
 ordutuque.cfd
 oremark.com
 orfa1st5.de
+orfgildpibal.cyou
 organic-package.com
 organiccdn.io
 organicextentbounds.com
@@ -33169,6 +33190,7 @@ osamachoice.com
 osamacom.com
 osamadada.com
 osamafusion.com
+osamagenius.com
 osamaglow.com
 osamahit.com
 osamaimpact.com
@@ -33572,7 +33594,6 @@ pc8ltve6yqbwbvq.cfd
 pcapp.store
 pccleaner.cn
 pccxfiekp.com
-pchelpsoft.com
 pcixo.com
 pcjiami.cn
 pck1l6h8vfbf7tnymyqxfp4c4mo9l.cfd
@@ -34521,6 +34542,7 @@ psaithagomtasu.net
 psaugourtauy.com
 psaushoas.com
 psaussasta.net
+pschenttidier.com
 pscsre.com
 psegaifeed.net
 psegeevalrat.net
@@ -35931,6 +35953,7 @@ romsns.com
 romxvishdlachpe.com
 rongcfg.com
 ronnelscaproin.cfd
+ronnikeryx.shop
 ronracepub.com
 ronrtklhbxy.com
 roobet.com
@@ -36480,7 +36503,6 @@ searchgateway.net
 searchignite.com
 searchmagnified.com
 searchmarketing.com
-searchmarquis.com
 searchmiracle.com
 searchmobilia.shop
 searchnowexpert.com
@@ -37339,6 +37361,7 @@ socde.com
 socdm.com
 socialcompletelydefrost.com
 socialmedia-careers-office.com
+socialnettraffic.com
 socialspark.com
 sociomantic.com
 socke7.com
@@ -37539,6 +37562,7 @@ spexjs.com
 sphidaphyps.com
 sphostserver.com
 spicy-effect.com
+spicyrtb.com
 spiddefrexpron.com
 spielsbeni.com
 spielzeugarthub.com
@@ -39175,9 +39199,7 @@ trace-flow.ru
 tracecontent.com
 tracer.jp
 traceworks.com
-track-ec.xyz
 track-ecpost.click
-track-ecpost.xyz
 track-victoriadates.com
 track4ref.com
 trackad.cz
@@ -39196,9 +39218,6 @@ trackerflw.com
 trackerhqu.com
 trackerrr.com
 trackfeed.com
-trackfr.buzz
-trackfr.help
-trackfr.top
 trackier.com
 trackify.info
 trackifyy.com
@@ -41070,6 +41089,7 @@ webasm.com
 webavisen.gl
 webazilla.com
 webbedbasis.com
+webberharrid.cfd
 webbierusherermona.cyou
 webcodez.com
 webcom-software.ws
@@ -41224,6 +41244,7 @@ whatismyip.click
 whatismyip.uno
 whatisuptodaynow.com
 whatshelp.io
+whauvegrimes.cyou
 whazugho.com
 whbxzzffhzolw.website
 wheebsadree.com
@@ -41840,6 +41861,7 @@ xrwfwaoj.com
 xsbsfifapiemx.site
 xsmnkwolsmvjim.com
 xsnpnfswtslmw.online
+xsoktvpyi.com
 xsph.ru
 xstts.cc
 xszpuvwr7.com

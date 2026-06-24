@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 08:02 UTC
-# Version: 2026.0624.0802.34
+# Last modified: 24 Jun 2026 19:11 UTC
+# Version: 2026.0624.1911.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17228
+# Number of entries: 17225
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -11557,7 +11557,6 @@ local=/hxv.app/
 local=/hxwnkrnn.cc/
 local=/hxxxxx.name/
 local=/hxy.name/
-local=/hy5o5ua8gklpqjbqzjaaje8yy.online/
 local=/hydroxide.wtf/
 local=/hyeeypad.cc/
 local=/hykdwzgw.online/
@@ -13836,7 +13835,6 @@ local=/phpbido.com/
 local=/phyi.loan/
 local=/physicsbutfun.com/
 local=/pi-dns.com/
-local=/piaproxy.com/
 local=/piaproxy.net/
 local=/piaservers.net/
 local=/picknife.org/
@@ -14898,7 +14896,6 @@ local=/sitenable.ch/
 local=/sitenable.com/
 local=/sitenable.in/
 local=/sitenable.org/
-local=/sitescrack.host/
 local=/sitespeedtest.net/
 local=/sitesunblocked.com/
 local=/siteunblock.org/

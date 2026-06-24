@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 07:54 UTC
-# Version: 2026.0624.0754.46
+# Last modified: 24 Jun 2026 19:03 UTC
+# Version: 2026.0624.1903.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 29132
+# Number of entries: 29131
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -1448,7 +1448,6 @@ local=/0123movie.onl/
 local=/0123movie.online/
 local=/0123movie.stream/
 local=/0123movie.ws/
-local=/0123movies.biz/
 local=/0123movies.cfd/
 local=/0123movies.com/
 local=/0123movies.events/
@@ -1629,7 +1628,6 @@ local=/123movies.work/
 local=/123movies-2.online/
 local=/123movies-2020.com/
 local=/123movies-4k.com/
-local=/123movies-app.com/
 local=/123movies-app.net/
 local=/123movies-app.xyz/
 local=/123movies-hd.com/
@@ -9489,6 +9487,9 @@ local=/il-geniodellostreaming.bond/
 local=/il-geniodellostreaming.buzz/
 local=/il-geniodellostreaming.club/
 local=/il-geniodellostreaming.forum/
+local=/il-geniodellostreaming.help/
+local=/il-geniodellostreaming.study/
+local=/il-geniodellostreaming.surf/
 local=/ilcorsaronero.info/
 local=/ilcorsaronero.link/
 local=/ilf.net/
@@ -21467,7 +21468,6 @@ local=/nullsroyale.net/
 local=/nullsservers.com/
 local=/numb3rs.stream/
 local=/nunflix.live/
-local=/nunflix.org/
 local=/nunuju.tv/
 local=/nunuyy.cc/
 local=/nutorrent.com/
@@ -27704,7 +27704,6 @@ local=/victorias-lordfilm.ru/
 local=/victoriau-lordfilm.ru/
 local=/victoriay-lordfilm.ru/
 local=/victorraulrr.net/
-local=/vid7.online/
 local=/viday.icu/
 local=/vidbox.dev/
 local=/vidby.co/

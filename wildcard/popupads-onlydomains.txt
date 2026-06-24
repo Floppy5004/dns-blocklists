@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 06:51 UTC
-# Version: 2026.0624.0651.45
+# Last modified: 24 Jun 2026 18:05 UTC
+# Version: 2026.0624.1805.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 57204
+# Number of entries: 57196
 #
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
@@ -450,9 +450,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1920,15 +1917,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-go-todesk.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
 map.hnchj.com
 m10.hoes.tube
 yy.hogacotset.com
@@ -13592,6 +13580,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -28606,6 +28595,7 @@ hktniatgor.com
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -39543,6 +39533,7 @@ orepassport.com
 orest-vlv.com
 oretravelsright.com
 orfa1st5.de
+orfgildpibal.cyou
 orga29.com
 organic-improvement.pro
 organiccrap.com
@@ -43705,7 +43696,6 @@ raggedteach.com
 raggerdough.com
 raglanyakking.com
 raglassofrum.cc
-ragnolopi.net
 ragrolromairsou.net
 rahaj1.com
 raidfrightbritain.com
@@ -45076,6 +45066,7 @@ ronabuelorum.com
 rondachang.xyz
 ronderosalvarezabogados.com
 rongli.com
+ronnikeryx.shop
 roobetaffiliates.com
 roofingcompany-tucson.com
 roofprison.com
@@ -54303,6 +54294,7 @@ whaukaixoargouh.net
 whaumsaift.com
 whaunsoast.net
 whaurgoopou.com
+whauvegrimes.cyou
 whauzavouweb.com
 whazugho.com
 whbjtvsrexgif.store

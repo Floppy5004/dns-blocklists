@@ -7911,6 +7911,13 @@
       }
     },
     {
+      "PK": "vuzelia.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "vz.lc",
       "action": {
         "do": 0,

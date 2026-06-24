@@ -142,6 +142,7 @@ https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/ref
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/didikw/hashbd/refs/heads/main/jud0ll.txt
 https://raw.githubusercontent.com/DNSBunker/CTI/refs/heads/main/domains.txt
+https://raw.githubusercontent.com/dragnet-dev/haul/refs/heads/main/feeds/domains.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
@@ -201,6 +202,7 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
+https://raw.githubusercontent.com/makarson/Daily-Phishing-Feed/refs/heads/main/domains.txt
 https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Hosts.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
@@ -227,6 +229,7 @@ https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/a
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.wildcard.list
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/rjn32s/SentinelPhishFeed/refs/heads/main/domains.txt
 https://raw.githubusercontent.com/sakib-m/BDIX-Piracy-Blocklist/refs/heads/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackers.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-websites.txt
@@ -288,6 +291,8 @@ https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
 https://siberguvenlik.gov.tr/zararli-baglantilar
 https://small.oisd.nl
+https://storage.rosti.dev/feeds/adblock-cnc.txt
+https://storage.rosti.dev/feeds/adblock.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds
@@ -304,6 +309,7 @@ https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered_50000.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered.txt
 https://www.szpi.gov.cz/ViewFile.aspx?docid=3000211
+https://www.technoy.de/lists/malware.txt
 https://www.threatweb.com/access/Malware-Domains-High_Confidence_BL.txt
 https://www.trustedshops.de/fake-shops/
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
