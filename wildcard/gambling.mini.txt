@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 19:01 UTC
-# Version: 2026.0623.1901.35
+# Last modified: 23 Jun 2026 22:51 UTC
+# Version: 2026.0623.2251.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 107256
+# Number of entries: 107255
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.images.1649348.com
@@ -47016,7 +47016,6 @@
 *.drgnmoney-casino1g.buzz
 *.drgnmoney-casino1g.fun
 *.drgnmoney444.casino
-*.drgnmoney800.casino
 *.drgon59.casino
 *.drgon60.casino
 *.drgons59.casino

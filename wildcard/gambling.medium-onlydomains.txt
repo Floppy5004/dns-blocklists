@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 18:59 UTC
-# Version: 2026.0623.1859.47
+# Last modified: 23 Jun 2026 22:50 UTC
+# Version: 2026.0623.2250.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 132758
+# Number of entries: 132757
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 togelgame.150m.com
@@ -56829,7 +56829,6 @@ drgnmn851.casino
 drgnmoney-casino1g.buzz
 drgnmoney-casino1g.fun
 drgnmoney444.casino
-drgnmoney800.casino
 drgon59.casino
 drgon60.casino
 drgons59.casino

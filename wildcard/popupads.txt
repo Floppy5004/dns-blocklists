@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 18:07 UTC
-# Version: 2026.0623.1807.07
+# Last modified: 24 Jun 2026 01:50 UTC
+# Version: 2026.0624.0150.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57194
+# Number of entries: 57195
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -23514,6 +23514,7 @@
 *.extensionworthwhile.com
 *.extentcamprot.com
 *.extenuatemusketsector.com
+*.exteriorsingularsharply.com
 *.externalamy.com
 *.externalfavlink.com
 *.externalsuffice.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 18:07 UTC
-# Version: 2026.0623.1807.07
+# Last modified: 24 Jun 2026 01:50 UTC
+# Version: 2026.0624.0150.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57194
+# Number of entries: 57195
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -23514,6 +23514,7 @@ local=/extensions-media.com/
 local=/extensionworthwhile.com/
 local=/extentcamprot.com/
 local=/extenuatemusketsector.com/
+local=/exteriorsingularsharply.com/
 local=/externalamy.com/
 local=/externalfavlink.com/
 local=/externalsuffice.com/

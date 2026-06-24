@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jun 2026 18:11 UTC
-! Version: 2026.0623.1811.07
+! Last modified: 23 Jun 2026 21:54 UTC
+! Version: 2026.0623.2154.04
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -4535,7 +4535,6 @@
 @@||kec.az^
 @@||keck.center^
 @@||keckcntr.com^
-@@||keepo.bio^
 @@||keepo.io^
 @@||keetl.com^
 @@||kem.lu^
@@ -5319,7 +5318,6 @@
 @@||loom.ly^
 @@||loomvo.net^
 @@||loopt.us^
-@@||looselead.dog^
 @@||loot-link.com^
 @@||lorem.is^
 @@||lou.ly^
@@ -5672,7 +5670,6 @@
 @@||mkecc.com^
 @@||mki.my^
 @@||mklnd.com^
-@@||mkoe.work^
 @@||mkt.me^
 @@||mkt.tips^
 @@||mkt.to^
@@ -6589,9 +6586,7 @@
 @@||prz.pw^
 @@||psafe.com^
 @@||psafe.ly^
-@@||psce.pw^
 @@||pse.is^
-@@||psee.io^
 @@||psfl.in^
 @@||psh.li^
 @@||psmi.info^

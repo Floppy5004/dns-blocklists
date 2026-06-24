@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Jun 2026 18:45 UTC
-# Version: 2026.0623.1845.44
+# Last modified: 24 Jun 2026 02:55 UTC
+# Version: 2026.0624.0255.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 92342
+# Number of entries: 92351
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -268,6 +268,7 @@
 0.0.0.0 0070tv.com
 0.0.0.0 007sites.com
 0.0.0.0 0086ok.com
+0.0.0.0 00a39e6dfd.com
 0.0.0.0 www.00fun.com
 0.0.0.0 00go.com
 0.0.0.0 00it.com
@@ -577,6 +578,7 @@
 0.0.0.0 151xrobgqz.com
 0.0.0.0 152media.cloud
 0.0.0.0 152media.com
+0.0.0.0 153ee57fd4.com
 0.0.0.0 15oil.net
 0.0.0.0 161-google.com
 0.0.0.0 ad.163.com
@@ -5500,6 +5502,7 @@
 0.0.0.0 engine.4dsply.com
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 4e2b1e6942.com
+0.0.0.0 4epekgfpjyut6iviypfkhoth63.cfd
 0.0.0.0 4everland.app
 0.0.0.0 iambrainstorming.4everland.app
 0.0.0.0 mind-5.4everland.app
@@ -20252,7 +20255,6 @@
 0.0.0.0 aqdlwqnlttt.com
 0.0.0.0 aqeognplbpirm.space
 0.0.0.0 aqfyrgb.in
-0.0.0.0 aqgpqtsksxsta.website
 0.0.0.0 aqgpvllbdjhmk.website
 0.0.0.0 aqiongxlma.com
 0.0.0.0 aqle3.com
@@ -23080,6 +23082,7 @@
 0.0.0.0 bjcathay.com
 0.0.0.0 galaxy.bjcathay.com
 0.0.0.0 bjfyqeoiekopjs.com
+0.0.0.0 bjk3irj9inujonozb9k3qygw.cfd
 0.0.0.0 bjlg2lhfw1vpo4.cfd
 0.0.0.0 bjlwmgypnxmwr.space
 0.0.0.0 bjmining.com
@@ -35251,6 +35254,7 @@
 0.0.0.0 vid1051.d41.co
 0.0.0.0 vid9430.d41.co
 0.0.0.0 d5092moci.com
+0.0.0.0 d5c1b32380.com
 0.0.0.0 d70i.com
 0.0.0.0 d7rn5gu7i2.com
 0.0.0.0 d97e3715f9.com
@@ -40972,6 +40976,7 @@
 0.0.0.0 dsefow.com
 0.0.0.0 dseiqr.com
 0.0.0.0 dsejzd.com
+0.0.0.0 dsekhf.com
 0.0.0.0 dsekhn.com
 0.0.0.0 dseopf.com
 0.0.0.0 dseyzk.com
@@ -41110,7 +41115,6 @@
 0.0.0.0 dswfhx.com
 0.0.0.0 dswhem.com
 0.0.0.0 dswlpq.com
-0.0.0.0 dswmrn.com
 0.0.0.0 dswocr.com
 0.0.0.0 dswppe.com
 0.0.0.0 dswqea.com
@@ -41131,6 +41135,7 @@
 0.0.0.0 s.dszjza.com
 0.0.0.0 dszlbx.com
 0.0.0.0 dszqgc.com
+0.0.0.0 dszqsm.com
 0.0.0.0 dszqzq.com
 0.0.0.0 dt00.net
 0.0.0.0 dt07.net
@@ -44129,6 +44134,7 @@
 0.0.0.0 extend.tv
 0.0.0.0 www.extend.tv
 0.0.0.0 sstats.extendedstayhotels.com
+0.0.0.0 exteriorsingularsharply.com
 0.0.0.0 stats.externulls.com
 0.0.0.0 extractionatticpillowcase.com
 0.0.0.0 extrasdownload.com
@@ -44649,6 +44655,7 @@
 0.0.0.0 feldbusch-ankauf.de
 0.0.0.0 feldluft.de
 0.0.0.0 feldot.com
+0.0.0.0 felineenarch.shop
 0.0.0.0 fellfortunatepassive.com
 0.0.0.0 felllilyforegoing.com
 0.0.0.0 fellowshiplyricsceasless.com
@@ -49000,6 +49007,7 @@
 0.0.0.0 hatroopunfunny.cfd
 0.0.0.0 hatsoromo.qpon
 0.0.0.0 hatsudrkfflia.website
+0.0.0.0 hatteryambry.qpon
 0.0.0.0 haulierabiotic.cyou
 0.0.0.0 haulsquirt.com
 0.0.0.0 haumdnmzotykn.space
@@ -53624,7 +53632,6 @@
 0.0.0.0 jfgeuisugoekf.com
 0.0.0.0 jfjle4g5l.com
 0.0.0.0 statistics.jfmedier.dk
-0.0.0.0 jfneysdhhisea.website
 0.0.0.0 gtm.jfrog.com
 0.0.0.0 promotion-quicker.jftechsoft.com
 0.0.0.0 eventlog-aws.jftechws.com
@@ -56992,6 +56999,7 @@
 0.0.0.0 pixel.loganmedia.mobi
 0.0.0.0 tracker.loganmedia.mobi
 0.0.0.0 www.loganmedia.mobi
+0.0.0.0 logarithm29.top
 0.0.0.0 cdn.logbase.io
 0.0.0.0 logbor.com
 0.0.0.0 u.logbor.com
@@ -63979,7 +63987,6 @@
 0.0.0.0 metrics.nfm.com
 0.0.0.0 nfukguubxgsk.com
 0.0.0.0 nfvebepaxdlvi.site
-0.0.0.0 nfwizrydzqzxe.site
 0.0.0.0 nfwosdlndtra.com
 0.0.0.0 nfyyvxtqrnoq.com
 0.0.0.0 ngacm.com
@@ -64631,7 +64638,6 @@
 0.0.0.0 javascript.nwbox.com
 0.0.0.0 nwemnd.com
 0.0.0.0 nwfnsitaes.com
-0.0.0.0 nwhbamrhotcsw.website
 0.0.0.0 nwmnd.com
 0.0.0.0 nwnxyivttoaad.site
 0.0.0.0 nwostjtwogw.com
@@ -64855,6 +64861,7 @@
 0.0.0.0 ocvdi0rum.com
 0.0.0.0 ocwhzckzcim.com
 0.0.0.0 oczltdjfcrvhvq.com
+0.0.0.0 od6992uotl.com
 0.0.0.0 odalrevaursartu.net
 0.0.0.0 ea.odalys-vacances.com
 0.0.0.0 oddgate.com
@@ -70571,7 +70578,6 @@
 0.0.0.0 telemetry.qdrant.io
 0.0.0.0 qdslnslohsisa.space
 0.0.0.0 qdxpgtsqvwwlqbx.com
-0.0.0.0 qdzspuqzdjyiy.space
 0.0.0.0 qedfgeomlw.com
 0.0.0.0 qepolax.com
 0.0.0.0 qerestooker.com
@@ -75310,6 +75316,7 @@
 0.0.0.0 serootdaimons.qpon
 0.0.0.0 seropalame.cfd
 0.0.0.0 serpentine-bat.pro
+0.0.0.0 serranberime.com
 0.0.0.0 sersh.com
 0.0.0.0 sertinglamer.cyou
 0.0.0.0 sertulepedrail.cfd
@@ -92106,6 +92113,7 @@
 0.0.0.0 zjpmswrjggpxe.site
 0.0.0.0 zjptg.com
 0.0.0.0 p.zjptg.com
+0.0.0.0 zju16obqzy.com
 0.0.0.0 dig.zjurl.cn
 0.0.0.0 zjykffozbbw.com
 0.0.0.0 zk1ofmptcj6gbem6.cfd
@@ -92251,6 +92259,7 @@
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 zqvee2re50mr.com
 0.0.0.0 zqzcxoqppynlw.space
+0.0.0.0 zrosq6dsha.com
 0.0.0.0 zrvmvgbsinymz.space
 0.0.0.0 ssp.zryydi.com
 0.0.0.0 zscewice.pl

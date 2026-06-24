@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Jun 2026 18:11 UTC
-! Version: 2026.0623.1811.07
+! Last modified: 23 Jun 2026 21:54 UTC
+! Version: 2026.0623.2154.04
 ! Syntax: AdBlock
-! Number of entries: 10091
+! Number of entries: 10089
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -5325,7 +5325,6 @@
 ||loom.ly^
 ||loomvo.net^
 ||loopt.us^
-||looselead.dog^
 ||loot-link.com^
 ||lorem.is^
 ||lou.ly^
@@ -5678,7 +5677,6 @@
 ||mkecc.com^
 ||mki.my^
 ||mklnd.com^
-||mkoe.work^
 ||mkt.me^
 ||mkt.tips^
 ||mkt.to^
