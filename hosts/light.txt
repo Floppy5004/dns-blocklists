@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 18:46 UTC
-# Version: 2026.0624.1846.27
+# Last modified: 25 Jun 2026 02:55 UTC
+# Version: 2026.0625.0255.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 88287
+# Number of entries: 88284
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -332,6 +332,7 @@
 0.0.0.0 0aa0cf0637d66c0d.com
 0.0.0.0 0af2a962b0102942d9a7df351b20be55.com
 0.0.0.0 0aol.com
+0.0.0.0 0b6f7dc9d8.com
 0.0.0.0 0ca389b6d3.com
 0.0.0.0 0cf.io
 0.0.0.0 s.0cf.io
@@ -5265,6 +5266,7 @@
 0.0.0.0 tracklog.58.com
 0.0.0.0 58686728.xyz
 0.0.0.0 587.jp
+0.0.0.0 588376732a.com
 0.0.0.0 588589.com
 0.0.0.0 599cdn.com
 0.0.0.0 59gfm38j21ohoq8ugl831hrltiibq.cfd
@@ -5551,6 +5553,7 @@
 0.0.0.0 typedoc-plausible.8hob.io
 0.0.0.0 www.8jjbet.org
 0.0.0.0 8jk35km0r3.com
+0.0.0.0 8kz2l28p3lqr8iwmpc8qp2332x.cfd
 0.0.0.0 8le8le.com
 0.0.0.0 8s5s.com
 0.0.0.0 8senjya.jp
@@ -5572,6 +5575,7 @@
 0.0.0.0 908df012d9bb72e6d26b41054588d758.com
 0.0.0.0 90c444ec8d.com
 0.0.0.0 90tsdpml6.com
+0.0.0.0 9114cb3f68.com
 0.0.0.0 track.91app.io
 0.0.0.0 91boss.com
 0.0.0.0 91toolbox.com
@@ -5603,6 +5607,7 @@
 0.0.0.0 99pk.vip
 0.0.0.0 99x.com
 0.0.0.0 www.99x.com
+0.0.0.0 9a3a93a569.com
 0.0.0.0 9anime.to
 0.0.0.0 9be5ft9obvn2ig.cfd
 0.0.0.0 geoloc2.9cd47096ab1495d8d3b18667f6a52b9c.com
@@ -5948,6 +5953,7 @@
 0.0.0.0 abpjs23.com
 0.0.0.0 abrasiveslayerrequires.com
 0.0.0.0 abretskulls.shop
+0.0.0.0 abront.xyz
 0.0.0.0 abroodhaemoid.cfd
 0.0.0.0 abruptcooperationbummer.com
 0.0.0.0 adtech.abs-cbn.com
@@ -9682,6 +9688,7 @@
 0.0.0.0 afkwa.com
 0.0.0.0 aflhyxnzlyhvv.online
 0.0.0.0 afm01.com
+0.0.0.0 afmndx.com
 0.0.0.0 afodreet.net
 0.0.0.0 afojjm.com
 0.0.0.0 afp.ai
@@ -12225,6 +12232,7 @@
 0.0.0.0 angularbufferattraction.com
 0.0.0.0 angularpoppyrobbing.com
 0.0.0.0 angularsg.com
+0.0.0.0 anhaengerklasen.de
 0.0.0.0 anhaengermarkt.com
 0.0.0.0 anhangercenter.com
 0.0.0.0 anhangerplus.com
@@ -12424,6 +12432,7 @@
 0.0.0.0 apasslone.cyou
 0.0.0.0 apathicduenas.cyou
 0.0.0.0 apathyjav128.fun
+0.0.0.0 apcoa-park.com
 0.0.0.0 apeagle.io
 0.0.0.0 de.apemans.com
 0.0.0.0 apenterprise.io
@@ -27693,6 +27702,7 @@
 0.0.0.0 smetrics.cbc.ca
 0.0.0.0 cbdatatracker.com
 0.0.0.0 track.cbdatatracker.com
+0.0.0.0 cbjk6j85d.com
 0.0.0.0 cbmall.com
 0.0.0.0 cbmiocw.com
 0.0.0.0 cbqdittbsuulef.com
@@ -30374,6 +30384,7 @@
 0.0.0.0 coldnessswarthyclinic.com
 0.0.0.0 coleastrehabilitation.com
 0.0.0.0 matomo.colibrilearning.xyz
+0.0.0.0 colinextend.com
 0.0.0.0 blog.collarity.com
 0.0.0.0 www.collarity.com
 0.0.0.0 collationsso.com
@@ -33147,6 +33158,7 @@
 0.0.0.0 vid1008.d41.co
 0.0.0.0 vid1051.d41.co
 0.0.0.0 vid9430.d41.co
+0.0.0.0 d4ehbdtlw.com
 0.0.0.0 d5092moci.com
 0.0.0.0 d5c1b32380.com
 0.0.0.0 d70i.com
@@ -40676,6 +40688,7 @@
 0.0.0.0 eqtwpbcssbyps.space
 0.0.0.0 equablekettle.com
 0.0.0.0 equalfall.pro
+0.0.0.0 equation33.com
 0.0.0.0 equativ.com
 0.0.0.0 privacy.equativ.com
 0.0.0.0 www.equativ.com
@@ -50316,6 +50329,7 @@
 0.0.0.0 izuadxvrm.com
 0.0.0.0 adapi.izuiyou.com
 0.0.0.0 izzicasino.com
+0.0.0.0 j02j76-rtbix.top
 0.0.0.0 j0ss4np1c5.site
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 j3idyosut.com
@@ -54048,6 +54062,8 @@
 0.0.0.0 lptrak.com
 0.0.0.0 frz-bc-7s.lptrak.com
 0.0.0.0 nmn-bc-7s.lptrak.com
+0.0.0.0 lq6zkg-rtbix.top
+0.0.0.0 pixel-eu.lq6zkg-rtbix.top
 0.0.0.0 lqdimcpwev.com
 0.0.0.0 lqfsnws.cc
 0.0.0.0 lqivhsbmqcc.com
@@ -54086,6 +54102,9 @@
 0.0.0.0 cdn.lrkt-in.com
 0.0.0.0 r.lrkt-in.com
 0.0.0.0 wm.lrswl.com
+0.0.0.0 ls7ksp-rtbix.top
+0.0.0.0 pixel-eu.ls7ksp-rtbix.top
+0.0.0.0 pixel-sin.ls7ksp-rtbix.top
 0.0.0.0 lsawards.com
 0.0.0.0 lsdm.co
 0.0.0.0 analytics.lseg.com
@@ -61963,6 +61982,7 @@
 0.0.0.0 onclickperformance.com
 0.0.0.0 onclink.org
 0.0.0.0 onclkds.com
+0.0.0.0 onclmng.com
 0.0.0.0 oncloudshoes.de
 0.0.0.0 oncustomer.asia
 0.0.0.0 webbot.oncustomer.asia
@@ -62879,41 +62899,11 @@
 0.0.0.0 pub14905693843072.s.adx.opera.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 af.opera.com
-0.0.0.0 op-mobile.opera.com
-0.0.0.0 ams-ads.op-mobile.opera.com
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 dl-adx.op-mobile.opera.com
-0.0.0.0 dot-a.op-mobile.opera.com
-0.0.0.0 geo2.op-mobile.opera.com
-0.0.0.0 dot-a.geo2.op-mobile.opera.com
-0.0.0.0 info.geo2.op-mobile.opera.com
-0.0.0.0 openapi.geo2.op-mobile.opera.com
-0.0.0.0 pps.geo2.op-mobile.opera.com
-0.0.0.0 px-adx.geo2.op-mobile.opera.com
-0.0.0.0 s-adx.geo2.op-mobile.opera.com
-0.0.0.0 t-odx.geo2.op-mobile.opera.com
-0.0.0.0 img-odx.op-mobile.opera.com
-0.0.0.0 lucky-wap-ams.op-mobile.opera.com
-0.0.0.0 news-af.op-mobile.opera.com
-0.0.0.0 openapi.op-mobile.opera.com
-0.0.0.0 openapi-af.op-mobile.opera.com
-0.0.0.0 openapi-id.op-mobile.opera.com
-0.0.0.0 openapi-in.op-mobile.opera.com
-0.0.0.0 outspot-ams.op-mobile.opera.com
-0.0.0.0 outspot-ams-vip1.op-mobile.opera.com
-0.0.0.0 outspot-ams-vip3.op-mobile.opera.com
-0.0.0.0 outspot-ash-vip1.op-mobile.opera.com
-0.0.0.0 outspot-dec-vip1.op-mobile.opera.com
-0.0.0.0 outspot-sg.op-mobile.opera.com
-0.0.0.0 outspot-sg-vip1.op-mobile.opera.com
-0.0.0.0 outspot-sg-vip2.op-mobile.opera.com
-0.0.0.0 outspot-sg-vip3.op-mobile.opera.com
 0.0.0.0 pps-log.op-mobile.opera.com
-0.0.0.0 pps-token.op-mobile.opera.com
-0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 t-odx.op-mobile.opera.com
-0.0.0.0 trn-ads.op-mobile.opera.com
 0.0.0.0 desktop-dna.osp.opera.software
 0.0.0.0 speeddials.opera.com
 0.0.0.0 xml.opera.com
@@ -66733,6 +66723,7 @@
 0.0.0.0 gtm.pullandbear.com
 0.0.0.0 pullcf.com
 0.0.0.0 www.pullcf.com
+0.0.0.0 ads.pullse.org
 0.0.0.0 www.pulpix.com
 0.0.0.0 pulpower.com
 0.0.0.0 pulpyads.com
@@ -67035,6 +67026,7 @@
 0.0.0.0 qabvhjrdyktha.space
 0.0.0.0 qadfstqrst.com
 0.0.0.0 qaeddggqpmhrs.website
+0.0.0.0 qaedmtczrudfq.website
 0.0.0.0 qaerqhtvhmtbto.com
 0.0.0.0 qamurtajzovce.site
 0.0.0.0 qanatstrypsin.cyou
@@ -82280,6 +82272,7 @@
 0.0.0.0 unplangibbi.qpon
 0.0.0.0 unpowerfacies.shop
 0.0.0.0 unprayinterim.com
+0.0.0.0 unqhkzpybojsw.website
 0.0.0.0 unrazedkittool.cyou
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 unrealistic-reaction.com
@@ -82486,6 +82479,7 @@
 0.0.0.0 uri6.com
 0.0.0.0 urimcaisson.cfd
 0.0.0.0 urimnugocfr.com
+0.0.0.0 urineassertive.com
 0.0.0.0 urkrxjgvugpqg.website
 0.0.0.0 urlca.com
 0.0.0.0 urlcash.net
@@ -82731,6 +82725,7 @@
 0.0.0.0 uvoonaix.top
 0.0.0.0 uvpjqfkemvbgw.site
 0.0.0.0 uvyowldksqt.com
+0.0.0.0 uw7yxv-rtbix.top
 0.0.0.0 uwams.info
 0.0.0.0 uwcbytsvmaojez.com
 0.0.0.0 uwilglwdb.com
@@ -83131,6 +83126,7 @@
 0.0.0.0 analytics.vgl.org
 0.0.0.0 event.vgl.org
 0.0.0.0 vgpfwdgfaqfewi.com
+0.0.0.0 vgvlomnrcekke.website
 0.0.0.0 met.vgwort.de
 0.0.0.0 1und1.met.vgwort.de
 0.0.0.0 bild.met.vgwort.de
@@ -85752,6 +85748,7 @@
 0.0.0.0 wpfc.ml
 0.0.0.0 geo.wpforms.com
 0.0.0.0 wpftubkwnddeh.online
+0.0.0.0 wphefiaictrsr.space
 0.0.0.0 wphwblykxoiia.online
 0.0.0.0 www.wple.net
 0.0.0.0 wpmnsxomicvavi.com

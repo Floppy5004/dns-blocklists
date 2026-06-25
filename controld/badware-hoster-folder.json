@@ -29,13 +29,6 @@
       }
     },
     {
-      "PK": "000space.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "000webapp.com",
       "action": {
         "do": 0,
@@ -610,21 +603,7 @@
       }
     },
     {
-      "PK": "2m.is",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "2no.co",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "2shared.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1240,13 +1219,6 @@
       }
     },
     {
-      "PK": "appwrite.network",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ar.gp",
       "action": {
         "do": 0,
@@ -1667,6 +1639,13 @@
       }
     },
     {
+      "PK": "blogspot.bg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.ca",
       "action": {
         "do": 0,
@@ -1801,6 +1780,13 @@
     },
     {
       "PK": "blogspot.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.pl",
       "action": {
         "do": 0,
         "status": 1
@@ -1968,6 +1954,13 @@
       }
     },
     {
+      "PK": "byethost14.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "byethost17.com",
       "action": {
         "do": 0,
@@ -2060,6 +2053,13 @@
     },
     {
       "PK": "cbkgardens.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ccwu.cc",
       "action": {
         "do": 0,
         "status": 1
@@ -2501,13 +2501,6 @@
     },
     {
       "PK": "ct8.pl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ctempurl.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4656,13 +4649,6 @@
       }
     },
     {
-      "PK": "it.gg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "it.gp",
       "action": {
         "do": 0,
@@ -4804,6 +4790,13 @@
     },
     {
       "PK": "kann-helfen.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "keepo.bio",
       "action": {
         "do": 0,
         "status": 1
@@ -4957,6 +4950,13 @@
       }
     },
     {
+      "PK": "launchaco.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "leaguelineup.com",
       "action": {
         "do": 0,
@@ -5035,13 +5035,6 @@
     },
     {
       "PK": "linkfast.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "linkku.me",
       "action": {
         "do": 0,
         "status": 1
@@ -5363,6 +5356,13 @@
       }
     },
     {
+      "PK": "mihanblog.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mindnmagick.com",
       "action": {
         "do": 0,
@@ -5468,6 +5468,13 @@
       }
     },
     {
+      "PK": "my-free.website",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "my-place.us",
       "action": {
         "do": 0,
@@ -5511,13 +5518,6 @@
     },
     {
       "PK": "mybb.pw",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mybb.rocks",
       "action": {
         "do": 0,
         "status": 1
@@ -6021,13 +6021,6 @@
       }
     },
     {
-      "PK": "onlineweb.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "onlinewebshop.net",
       "action": {
         "do": 0,
@@ -6308,20 +6301,6 @@
       }
     },
     {
-      "PK": "portmap.host",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "premiumbyleo.co.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "preview-domain.com",
       "action": {
         "do": 0,
@@ -6372,6 +6351,20 @@
     },
     {
       "PK": "profreehost.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "psce.pw",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "psee.io",
       "action": {
         "do": 0,
         "status": 1
@@ -6519,13 +6512,6 @@
     },
     {
       "PK": "rapidshare.se",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rcl.ink",
       "action": {
         "do": 0,
         "status": 1
@@ -6693,6 +6679,13 @@
       }
     },
     {
+      "PK": "sebipay.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "securebankinggroup.com",
       "action": {
         "do": 0,
@@ -6701,6 +6694,13 @@
     },
     {
       "PK": "securebankinggroup.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "secureonline.store",
       "action": {
         "do": 0,
         "status": 1
@@ -7239,13 +7239,6 @@
       }
     },
     {
-      "PK": "tek-blogs.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "teleporthq.app",
       "action": {
         "do": 0,
@@ -7477,6 +7470,13 @@
       }
     },
     {
+      "PK": "turbo.site",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "turkish.lc",
       "action": {
         "do": 0,
@@ -7611,13 +7611,6 @@
     },
     {
       "PK": "unesa.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "universitriat.co.cc",
       "action": {
         "do": 0,
         "status": 1
@@ -7905,6 +7898,13 @@
     },
     {
       "PK": "voten.in",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vpn.net.br",
       "action": {
         "do": 0,
         "status": 1
@@ -8241,13 +8241,6 @@
     },
     {
       "PK": "worldsoffinance.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wox.cc",
       "action": {
         "do": 0,
         "status": 1

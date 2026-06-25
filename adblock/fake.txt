@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Jun 2026 06:54 UTC
-! Version: 2026.0624.0654.04
+! Last modified: 24 Jun 2026 21:51 UTC
+! Version: 2026.0624.2151.58
 ! Syntax: AdBlock
-! Number of entries: 16806
+! Number of entries: 16824
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -90,6 +90,7 @@
 ||leathershire.co.uk^
 ||levoit.co.at^
 ||lilysilk.co.at^
+||lloyd.co.at^
 ||loewe.co.at^
 ||lowa.co.at^
 ||luxeparfum.co.uk^
@@ -1281,6 +1282,7 @@
 ||anhaenger-geraete.com^
 ||anhaenger-von-thule.de^
 ||anhaengerkauf24.com^
+||anhaengerklasen.de^
 ||anhaengerkreuter.com^
 ||anhaengermarkt.com^
 ||anhaengers.online^
@@ -2017,6 +2019,7 @@
 ||beautyhaarshop.com^
 ||beautyhabitps.shop^
 ||beautyhausberlin.de^
+||beautyhealthsupplies.com^
 ||beautyketten.com^
 ||beautykoopje.com^
 ||beautyonthebrink.com^
@@ -3982,6 +3985,7 @@
 ||deinrufretter.com^
 ||deinsportimperium.de^
 ||deinthuleshop.de^
+||deintrikot.at^
 ||dejia.shop^
 ||dekhujoshop.com^
 ||dekoartikelrabatt.de^
@@ -5313,6 +5317,7 @@
 ||fantomfx.net^
 ||faobunricate.com^
 ||farahattire.com^
+||farben-profis.com^
 ||farben-store.com^
 ||farbenruhe.ch^
 ||fargo-global.com^
@@ -6095,6 +6100,7 @@
 ||gartenmaher.com^
 ||gartenmaschinen24.de^
 ||gartenmaschinenzubehor.com^
+||gartenmaxe.de^
 ||gartenmoebelangebote.de^
 ||gartenmoebelwelt.com^
 ||gartenmotor.de^
@@ -6735,6 +6741,7 @@
 ||guessosterreich.at^
 ||guessoutletdeutschland.de^
 ||guest-pend3120.com^
+||gueta-handel.com^
 ||gueyeclasse-shop.com^
 ||gugeunk.de^
 ||guide-placements-alternatifs.com^
@@ -7103,6 +7110,7 @@
 ||heizklar.eu^
 ||heizl.de^
 ||heizlager.de^
+||heizleo.de^
 ||heizline.at^
 ||heiznow.de^
 ||heizo24.de^
@@ -8120,6 +8128,7 @@
 ||jn-recruitment.at^
 ||jncojeans.de^
 ||jo-joshop.com^
+||joachim-gartengeraete.de^
 ||joaostoreoficial.com^
 ||jobam.shop^
 ||jobdreamonline.com^
@@ -9658,6 +9667,7 @@
 ||malens-boutique.de^
 ||malentestheaterpalast.de^
 ||malerbedarf-sales.com^
+||malergeschaft.com^
 ||mall-outdoors.com^
 ||mallof.shop^
 ||mallorca-holidayhomes.com^
@@ -11794,6 +11804,7 @@
 ||pedalfreunde.de^
 ||pedalpalast.de^
 ||pedalparadies.com^
+||pedalprofi.de^
 ||pedalyst.com^
 ||peekcloppenburg-berlin.de^
 ||peelerrabatt.de^
@@ -13239,6 +13250,7 @@
 ||schachworkshop.de^
 ||schafflutzel-motorgerate.com^
 ||schallreiniger.de^
+||schaltersteckdosen.com^
 ||schaltwerkfahrrad.de^
 ||scharfemesser.de^
 ||scharfeprofession.com^
@@ -13903,6 +13915,7 @@
 ||solarc.click^
 ||solarcheck.at^
 ||solaregis.com^
+||solarek-energie.com^
 ||solarenergie-beleuchtung.de^
 ||solarenergyplatinum.com^
 ||solarfehlercodes.de^
@@ -14603,6 +14616,7 @@
 ||talerkaffee.de^
 ||talkbuds.de^
 ||tallerfelix.com^
+||talvurieks.at^
 ||tamarisoutlet.com^
 ||tambaro.de^
 ||tandexo.com^
@@ -15150,6 +15164,7 @@
 ||toxic-off.shop^
 ||toy-boxsales.com^
 ||toyevs.store^
+||toyfunrealm.com^
 ||toyhasbro.com^
 ||toymr.com^
 ||toyowner.com^
@@ -16107,6 +16122,7 @@
 ||warmlifes.com^
 ||warmlogic.de^
 ||warmood.ch^
+||warmthota.com^
 ||warmthsta.com^
 ||warmthvo.com^
 ||wascheparfume.de^
@@ -16746,6 +16762,7 @@
 ||zezzo.de^
 ||zfggmbh.de^
 ||zhubni.eu^
+||zibitcoin.net^
 ||ziegler-handel.de^
 ||ziegler-kanzlei.de^
 ||ziegler-rechtsanwaelte.de^
@@ -16808,6 +16825,7 @@
 ||zusammenmitthule.de^
 ||zusellmk.click^
 ||zuverlassigerkredit.com^
+||zwclsaablueashe.shop^
 ||zweirad-dach.de^
 ||zwergspitzpomeranian.com^
 ||zxmcm.com^

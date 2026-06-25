@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 19:02 UTC
-# Version: 2026.0624.1902.56
+# Last modified: 24 Jun 2026 22:52 UTC
+# Version: 2026.0624.2252.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 108509
+# Number of entries: 108516
 #
 local=/web-119bet-2025-google-vip-119bet.119-hello.com/
 local=/images.1649348.com/
@@ -32,6 +32,7 @@ local=/886v.886v22.com/
 local=/m.8k371sj.top/
 local=/m.8k843sj.top/
 local=/m.8k982sj.top/
+local=/www-939bet-fb-2025-live-ok-939bet.939-google.com/
 local=/images.9734232.com/
 local=/abxz.9dw1c7n.com/
 local=/aaa-weba.aaaweb.vip/
@@ -10317,6 +10318,7 @@ local=/45d.casino/
 local=/45e.casino/
 local=/45t.casino/
 local=/45winbeatz45.com/
+local=/45xbar.vip/
 local=/460.com/
 local=/46044.casino/
 local=/460bet.click/
@@ -25873,6 +25875,7 @@ local=/bycasinouyelik.xyz/
 local=/bydgd333.com/
 local=/byon88.club/
 local=/byon88.pro/
+local=/byp1b9.com/
 local=/byu.casino/
 local=/byucasino.bet/
 local=/byucasino.com/
@@ -46206,6 +46209,7 @@ local=/ddesignadri.site/
 local=/ddgame168.online/
 local=/ddogcasino.com/
 local=/ddpoker.fun/
+local=/dduu.com/
 local=/dduu3.com/
 local=/dduu5.com/
 local=/dduu99.com/
@@ -64774,6 +64778,7 @@ local=/kk888pg.com/
 local=/kk8casino.net/
 local=/kk999.app/
 local=/kk999.my/
+local=/kk999.pro/
 local=/kkg12.com/
 local=/kkgbb.app/
 local=/kkgg.com/
@@ -83097,6 +83102,7 @@ local=/platinumslot.onl/
 local=/platinumslots.com/
 local=/platinumtoto.store/
 local=/platinumvip.casino/
+local=/platipusgaming.com/
 local=/play-1xslots.com/
 local=/play-1xslots-online.ru/
 local=/play-971.casino/
@@ -88528,7 +88534,6 @@ local=/revo-spin-slots.site/
 local=/revo-spin-slots.website/
 local=/revo-spins-slots.site/
 local=/revo-spins-slots.website/
-local=/revoiuttslots.site/
 local=/revolslots.click/
 local=/revolutcasino.sk/
 local=/revolutcasino-nl.com/
@@ -100219,6 +100224,7 @@ local=/twin-casinos.fr/
 local=/twin-dor.casino/
 local=/twin-portugal-slots.site/
 local=/twin140.com/
+local=/twin181.com/
 local=/twincasino.xyz/
 local=/twincasino-ellada.com/
 local=/twincasino-hu.com/
@@ -106391,6 +106397,7 @@ local=/wwwcv666.com/
 local=/wwwgaruda55.com/
 local=/wwwjojobet8102.online/
 local=/wwwk7win.com/
+local=/wwwkk99.com/
 local=/wwwmadridbet1185.com/
 local=/wwwmadridbetgirisadresi.com/
 local=/wwwmariobet.icu/

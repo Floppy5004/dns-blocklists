@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Jun 2026 19:03 UTC
-! Version: 2026.0624.1903.38
+! Last modified: 25 Jun 2026 02:32 UTC
+! Version: 2026.0625.0232.13
 ! Syntax: AdBlock
-! Number of entries: 29131
+! Number of entries: 29133
 !
 ||blink-stresser.000webhostapp.com^
 ||ddos-ovh-v6.000webhostapp.com^
@@ -20413,6 +20413,7 @@
 ||moviesgo.co^
 ||movieshd.co^
 ||movieshowti.me^
+||movieshubz.com^
 ||moviesite.hu^
 ||moviesjoy.is^
 ||moviesjoy.life^
@@ -28750,6 +28751,7 @@
 ||yomovies.bar^
 ||yomovies.courses^
 ||yomovies.diy^
+||yomovies.foundation^
 ||yomovies.institute^
 ||yomovies.it^
 ||yomovies.kitchen^

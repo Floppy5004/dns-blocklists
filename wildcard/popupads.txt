@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 18:05 UTC
-# Version: 2026.0624.1805.03
+# Last modified: 25 Jun 2026 01:49 UTC
+# Version: 2026.0625.0149.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57196
+# Number of entries: 57198
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -17872,6 +17872,7 @@
 *.coldnessswarthyclinic.com
 *.coldquit.com
 *.colentkeruing.top
+*.colinextend.com
 *.colinprobe.com
 *.colintwentiethcheapen.com
 *.collaboratemedaltrips.com
@@ -52379,6 +52380,7 @@
 *.urgescheveys.shop
 *.urgxnorjluhwl.online
 *.urimnugocfr.com
+*.urineassertive.com
 *.urinegracefulfloating.com
 *.urjump.com
 *.urlca.com

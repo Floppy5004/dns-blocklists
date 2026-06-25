@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 19:02 UTC
-# Version: 2026.0624.1902.56
+# Last modified: 24 Jun 2026 22:52 UTC
+# Version: 2026.0624.2252.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 108509
+# Number of entries: 108516
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 images.1649348.com
@@ -32,6 +32,7 @@ images.7814157.com
 m.8k371sj.top
 m.8k843sj.top
 m.8k982sj.top
+www-939bet-fb-2025-live-ok-939bet.939-google.com
 images.9734232.com
 abxz.9dw1c7n.com
 aaa-weba.aaaweb.vip
@@ -10317,6 +10318,7 @@ coin.z.com
 45e.casino
 45t.casino
 45winbeatz45.com
+45xbar.vip
 460.com
 46044.casino
 460bet.click
@@ -25873,6 +25875,7 @@ bycasinouyelik.xyz
 bydgd333.com
 byon88.club
 byon88.pro
+byp1b9.com
 byu.casino
 byucasino.bet
 byucasino.com
@@ -46206,6 +46209,7 @@ ddesignadri.site
 ddgame168.online
 ddogcasino.com
 ddpoker.fun
+dduu.com
 dduu3.com
 dduu5.com
 dduu99.com
@@ -64774,6 +64778,7 @@ kk888pg.com
 kk8casino.net
 kk999.app
 kk999.my
+kk999.pro
 kkg12.com
 kkgbb.app
 kkgg.com
@@ -83097,6 +83102,7 @@ platinumslot.onl
 platinumslots.com
 platinumtoto.store
 platinumvip.casino
+platipusgaming.com
 play-1xslots.com
 play-1xslots-online.ru
 play-971.casino
@@ -88528,7 +88534,6 @@ revo-spin-slots.site
 revo-spin-slots.website
 revo-spins-slots.site
 revo-spins-slots.website
-revoiuttslots.site
 revolslots.click
 revolutcasino.sk
 revolutcasino-nl.com
@@ -100219,6 +100224,7 @@ twin-casinos.fr
 twin-dor.casino
 twin-portugal-slots.site
 twin140.com
+twin181.com
 twincasino.xyz
 twincasino-ellada.com
 twincasino-hu.com
@@ -106391,6 +106397,7 @@ wwwcv666.com
 wwwgaruda55.com
 wwwjojobet8102.online
 wwwk7win.com
+wwwkk99.com
 wwwmadridbet1185.com
 wwwmadridbetgirisadresi.com
 wwwmariobet.icu
