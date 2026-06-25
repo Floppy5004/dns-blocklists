@@ -3998,6 +3998,13 @@
       }
     },
     {
+      "PK": "nebula.style",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nect.rest",
       "action": {
         "do": 1,

@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 07:51 UTC
-# Version: 2026.0625.0751.51
+# Last modified: 25 Jun 2026 19:07 UTC
+# Version: 2026.0625.1907.01
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 29368
 #
@@ -1728,7 +1728,6 @@ local=/123moviesfree.com/
 local=/123moviesfree.cyou/
 local=/123moviesfree.day/
 local=/123moviesfree.guru/
-local=/123moviesfree.help/
 local=/123moviesfree.homes/
 local=/123moviesfree.love/
 local=/123moviesfree.me/
@@ -1923,7 +1922,6 @@ local=/1jour1film0626b.site/
 local=/1jour1film0626c.site/
 local=/1jour1film0725b.site/
 local=/1jour1film2026.site/
-local=/1jour1filmhd.lol/
 local=/1kif.com/
 local=/1kino.in/
 local=/1l1l.to/
@@ -7879,6 +7877,7 @@ local=/g2g.fm/
 local=/g4u.to/
 local=/gaanubal-lordfilm.ru/
 local=/gabber.space/
+local=/gachanime.jp/
 local=/gadkij-ya-lordfilm3.ru/
 local=/gadkiy-yiaw-lordfilm.ru/
 local=/gajver-lordfilm3.ru/
@@ -20730,6 +20729,7 @@ local=/movieworld.pl/
 local=/movieworld.to/
 local=/moviexk.biz/
 local=/moviezenith.com/
+local=/moviezenn.com/
 local=/moviezone.ws/
 local=/moviful.com/
 local=/moviplus.net/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 06:55 UTC
-! Version: 2026.0625.0655.13
+! Last modified: 25 Jun 2026 18:09 UTC
+! Version: 2026.0625.1809.23
 ! Syntax: AdBlock
-! Number of entries: 16836
+! Number of entries: 16835
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -6984,7 +6984,6 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
-||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^
