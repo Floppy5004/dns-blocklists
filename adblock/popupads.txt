@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 01:49 UTC
-! Version: 2026.0625.0149.52
+! Last modified: 25 Jun 2026 06:52 UTC
+! Version: 2026.0625.0652.58
 ! Syntax: AdBlock
-! Number of entries: 57198
+! Number of entries: 57210
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -451,6 +451,9 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
+||chiyouranai.base.shop^
+||tokujiro.base.shop^
+||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1918,6 +1921,15 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
+||app-google-zh.hl.cn^
+||go-todesk.hl.cn^
+||google-google-chrome-google-com.hl.cn^
+||line-go.hl.cn^
+||qh-qishuiyinyue.hl.cn^
+||qishuimusic-cn.hl.cn^
+||todesk-web.hl.cn^
+||todesk-zh.hl.cn^
+||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||m10.hoes.tube^
 ||yy.hogacotset.com^
@@ -13581,7 +13593,6 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
-||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -16727,7 +16738,6 @@
 ||cewmyvfmjjbit.store^
 ||cexofira.com^
 ||cexucetum.com^
-||cezoachu.net^
 ||cf3333.com^
 ||cf67ahu-mkooh.com^
 ||cfalbxcmdsih.com^
@@ -22277,6 +22287,7 @@
 ||egaxnjhlndrh.com^
 ||egctjciixiire.space^
 ||egcuxefgvsjpw.online^
+||egecjeecbahedgbcaacg.world^
 ||egeemsob.com^
 ||eggaisle.com^
 ||eggplantgapmatter.com^
@@ -27305,6 +27316,7 @@
 ||grouchystructure.pro^
 ||groulrob.com^
 ||groumpepsouckoo.net^
+||grounded-opposite.com^
 ||groundedpatience.com^
 ||groundela.co^
 ||groundlesscobwebmiller.com^
@@ -28597,7 +28609,6 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
-||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -33336,6 +33347,7 @@
 ||lectureolympics.com^
 ||ledeedaugh.com^
 ||ledgeadmitted.com^
+||ledger-lives-desktop.io^
 ||leechrightly.com^
 ||leedsneurite.com^
 ||leeglaipepoa.com^

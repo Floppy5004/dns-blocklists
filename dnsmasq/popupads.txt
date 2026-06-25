@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 01:49 UTC
-# Version: 2026.0625.0149.52
+# Last modified: 25 Jun 2026 06:52 UTC
+# Version: 2026.0625.0652.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57198
+# Number of entries: 57210
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -450,6 +450,9 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
+local=/chiyouranai.base.shop/
+local=/tokujiro.base.shop/
+local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -1917,6 +1920,15 @@ local=/qiejushuo.hirz.cn/
 local=/ko.hissesgestapo.com/
 local=/sl.hitchdong.com/
 local=/jt.hitchelunspun.com/
+local=/app-google-zh.hl.cn/
+local=/go-todesk.hl.cn/
+local=/google-google-chrome-google-com.hl.cn/
+local=/line-go.hl.cn/
+local=/qh-qishuiyinyue.hl.cn/
+local=/qishuimusic-cn.hl.cn/
+local=/todesk-web.hl.cn/
+local=/todesk-zh.hl.cn/
+local=/zh-todesk-cn.hl.cn/
 local=/map.hnchj.com/
 local=/m10.hoes.tube/
 local=/yy.hogacotset.com/
@@ -13580,7 +13592,6 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
-local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -16726,7 +16737,6 @@ local=/cewllouapqk.com/
 local=/cewmyvfmjjbit.store/
 local=/cexofira.com/
 local=/cexucetum.com/
-local=/cezoachu.net/
 local=/cf3333.com/
 local=/cf67ahu-mkooh.com/
 local=/cfalbxcmdsih.com/
@@ -22276,6 +22286,7 @@ local=/egamiplatform.tv/
 local=/egaxnjhlndrh.com/
 local=/egctjciixiire.space/
 local=/egcuxefgvsjpw.online/
+local=/egecjeecbahedgbcaacg.world/
 local=/egeemsob.com/
 local=/eggaisle.com/
 local=/eggplantgapmatter.com/
@@ -27304,6 +27315,7 @@ local=/grouchyreward.pro/
 local=/grouchystructure.pro/
 local=/groulrob.com/
 local=/groumpepsouckoo.net/
+local=/grounded-opposite.com/
 local=/groundedpatience.com/
 local=/groundela.co/
 local=/groundlesscobwebmiller.com/
@@ -28596,7 +28608,6 @@ local=/hktniatgor.com/
 local=/hkwrwuqlcpelq.site/
 local=/hkygalzumaqv.com/
 local=/hkzhongzhuangzhan.cc/
-local=/hl.cn/
 local=/hl2u.com/
 local=/hlbmaat.com/
 local=/hldijphcjszui.store/
@@ -33335,6 +33346,7 @@ local=/lecturebreak.com/
 local=/lectureolympics.com/
 local=/ledeedaugh.com/
 local=/ledgeadmitted.com/
+local=/ledger-lives-desktop.io/
 local=/leechrightly.com/
 local=/leedsneurite.com/
 local=/leeglaipepoa.com/

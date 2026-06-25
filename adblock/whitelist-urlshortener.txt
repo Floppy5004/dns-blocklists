@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Jun 2026 06:55 UTC
-! Version: 2026.0624.0655.53
+! Last modified: 25 Jun 2026 06:56 UTC
+! Version: 2026.0625.0656.47
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -1076,7 +1076,6 @@
 @@||2link.cc^
 @@||2link.in^
 @@||2ly.link^
-@@||2m.is^
 @@||2my.info^
 @@||2no.co^
 @@||2nu.gs^
@@ -6780,7 +6779,6 @@
 @@||rch.lt^
 @@||rcknr.io^
 @@||rckstr.bz^
-@@||rcl.ink^
 @@||rcld.io^
 @@||rd.gt^
 @@||rd-client.com^

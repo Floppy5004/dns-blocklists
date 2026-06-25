@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 02:10 UTC
-! Version: 2026.0625.0210.40
+! Last modified: 25 Jun 2026 07:22 UTC
+! Version: 2026.0625.0722.55
 ! Syntax: AdBlock
-! Number of entries: 1227
+! Number of entries: 1226
 !
 ||one4u.0lx.net^
 ||free.bizhat.com^
@@ -859,7 +859,6 @@
 ||ns.hn^
 ||nsfera.pl^
 ||nut.cc^
-||nxcli.io^
 ||o.gp^
 ||o-f.com^
 ||o-r.kr^

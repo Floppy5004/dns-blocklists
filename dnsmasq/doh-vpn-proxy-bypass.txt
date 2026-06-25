@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 19:11 UTC
-# Version: 2026.0624.1911.22
+# Last modified: 25 Jun 2026 08:02 UTC
+# Version: 2026.0625.0802.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17225
+# Number of entries: 17227
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -1919,6 +1919,7 @@ local=/garlandisd.almotek.co.za/
 local=/educationbooks.boxrepublic.co.za/
 local=/adguard.cell.co.id/
 local=/dns.chaosen3.co.uk/
+local=/ct1doh.cipherdns.co.za/
 local=/jb1doh.cipherdns.co.za/
 local=/dns-01.computerservices.co.nz/
 local=/dns-02.computerservices.co.nz/
@@ -3470,6 +3471,7 @@ local=/dns.gearworks.app/
 local=/bg.geek.nz/
 local=/dns.geekbyte.de/
 local=/adg.geili.me/
+local=/www-proxy.gelaxiz.xyz/
 local=/nodes.gen4.ninja/
 local=/dns.geohide.ru/
 local=/play-games-at.geometry-games.online/
