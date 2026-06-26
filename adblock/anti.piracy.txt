@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jun 2026 07:53 UTC
-! Version: 2026.0626.0753.29
+! Last modified: 26 Jun 2026 10:38 UTC
+! Version: 2026.0626.1038.28
 ! Syntax: AdBlock
-! Number of entries: 29672
+! Number of entries: 29670
 !
 ||blink-stresser.000webhostapp.com^
 ||ddos-ovh-v6.000webhostapp.com^
@@ -23166,7 +23166,6 @@
 ||putlocker.cc^
 ||putlocker.club^
 ||putlocker.com^
-||putlocker.cyou^
 ||putlocker.digital^
 ||putlocker.fyi^
 ||putlocker.gives^
@@ -26800,7 +26799,6 @@
 ||torrentfilmindir.com^
 ||torrentfox.com^
 ||torrentfrancais.com^
-||torrentfreak.xyz^
 ||torrentfreaks.xyz^
 ||torrentfulkebbucks.surf^
 ||torrentfulness.surf^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 07:37 UTC
-# Version: 2026.0626.0737.10
+# Last modified: 26 Jun 2026 12:28 UTC
+# Version: 2026.0626.1228.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 92174
+# Number of entries: 92189
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -334,6 +334,7 @@
 0.0.0.0 s.0cf.io
 0.0.0.0 s3.0dayporno.com
 0.0.0.0 0dayreleases.com
+0.0.0.0 0ed35fac92.com
 0.0.0.0 0f1qtj.ru
 0.0.0.0 0fees.net
 0.0.0.0 business.0fees.net
@@ -24880,6 +24881,7 @@
 0.0.0.0 bzlwqtcygkijz.space
 0.0.0.0 bzmhcaqwquzkj.website
 0.0.0.0 bznwonawdxmhd.site
+0.0.0.0 bzoomlubqo.com
 0.0.0.0 bzpogcssaxbmc.space
 0.0.0.0 bzqotz.com
 0.0.0.0 bzyinxiao.com
@@ -30663,6 +30665,7 @@
 0.0.0.0 www.clicktripz.com
 0.0.0.0 sgtm.web.clickup.com
 0.0.0.0 clickwhitecode.com
+0.0.0.0 go.clickwhore.com
 0.0.0.0 clickwifi.net
 0.0.0.0 api-sdk.clickwifi.net
 0.0.0.0 cache.clickwifi.net
@@ -35740,7 +35743,6 @@
 0.0.0.0 www.dcurtis.com
 0.0.0.0 dd133.com
 0.0.0.0 dd1xbevqx.com
-0.0.0.0 dd795a9d50.com
 0.0.0.0 dd81bp3qbj.com
 0.0.0.0 ddfcash.com
 0.0.0.0 ddfrrwsdgwfvp.online
@@ -41858,8 +41860,6 @@
 0.0.0.0 earth-daily-news.com
 0.0.0.0 earthups.com
 0.0.0.0 applog.matrix.easebar.com
-0.0.0.0 mgbsdknaeast.matrix.easebar.com
-0.0.0.0 mgbsdksg.matrix.easebar.com
 0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 q.easebar.com
 0.0.0.0 b.q.easebar.com
@@ -43150,6 +43150,7 @@
 0.0.0.0 enterombacerick.com
 0.0.0.0 smetrics.enterprise.com
 0.0.0.0 reg.enterpriseconnect.com
+0.0.0.0 enterprises3001.com
 0.0.0.0 enterprises488.net
 0.0.0.0 enterprisestorepository.com
 0.0.0.0 enterpriseswith102.net
@@ -45147,6 +45148,7 @@
 0.0.0.0 kzsicw.focus.de
 0.0.0.0 tags.focus.de
 0.0.0.0 utiq.focus.de
+0.0.0.0 focusameneducation.com
 0.0.0.0 fodpqylf.com
 0.0.0.0 fodsoack.com
 0.0.0.0 fodwvqokhxbwb.site
@@ -49014,6 +49016,7 @@
 0.0.0.0 hearanimatewillingness.com
 0.0.0.0 web.hearclear.com
 0.0.0.0 heardaccumulatebeans.com
+0.0.0.0 heimdall.hearstapps.com
 0.0.0.0 oply.hearstapps.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 heart-1ink.com
@@ -67759,6 +67762,7 @@
 0.0.0.0 partner.permutive.app
 0.0.0.0 d2fb08da-1c03-4c8a-978f-ad8a96b4c31f.partner.permutive.app
 0.0.0.0 secure-signals.permutive.app
+0.0.0.0 peropustautogs.cyou
 0.0.0.0 peroutsell.qpon
 0.0.0.0 perriessmeech.com
 0.0.0.0 persianblog.com
@@ -70357,6 +70361,7 @@
 0.0.0.0 qbk1.com
 0.0.0.0 c2.qbk1.com
 0.0.0.0 qbmbdbydxpbml.website
+0.0.0.0 qbmcjw6rginhbu.cfd
 0.0.0.0 uplog.qbox.me
 0.0.0.0 qbpkyvtnxslrk.website
 0.0.0.0 qbyngdjq8g.com
@@ -79080,6 +79085,7 @@
 0.0.0.0 spectkuchean.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 tracker.srta.spectrum.com
+0.0.0.0 speecefilmy.cfd
 0.0.0.0 www.speed-trap.com
 0.0.0.0 probeapilogger.speedcheckerapi.com
 0.0.0.0 www.speedcounter.net
@@ -81170,6 +81176,10 @@
 0.0.0.0 tallertorn.com
 0.0.0.0 taltoocmoomie.net
 0.0.0.0 taluhetviciousanorexy.cfd
+0.0.0.0 talvurieks.com
+0.0.0.0 talvurieks.org
+0.0.0.0 talvurieks-official.net
+0.0.0.0 talvurieks-official-at.com
 0.0.0.0 tamarisoutlet.com
 0.0.0.0 tamarixramanaswaypost.cyou
 0.0.0.0 tame-discount.pro
@@ -84596,6 +84606,7 @@
 0.0.0.0 turnhub.net
 0.0.0.0 turnipprivatenatives.com
 0.0.0.0 turpifytettish.shop
+0.0.0.0 turrumhamli.cfd
 0.0.0.0 turtletowels.com
 0.0.0.0 www.turtletowels.com
 0.0.0.0 tushesmirage.qpon
@@ -86205,6 +86216,9 @@
 0.0.0.0 ursusltrk.com
 0.0.0.0 urticalcuckoospa.cfd
 0.0.0.0 urtyert.com
+0.0.0.0 urvlentoki.com
+0.0.0.0 urvlentoki-at.com
+0.0.0.0 urvlentoki-ie.com
 0.0.0.0 urzdxiiugisad.site
 0.0.0.0 track.us.org
 0.0.0.0 us-cdnbo.org
@@ -91072,6 +91086,7 @@
 0.0.0.0 yndhi.com
 0.0.0.0 ynrzdybvkzhme.website
 0.0.0.0 ynwqekrdfcgze.site
+0.0.0.0 ynwsxvtfm.com
 0.0.0.0 rabbitmq-oa-logging.yo-digital.com
 0.0.0.0 rmq-oade-logging.yo-digital.com
 0.0.0.0 yoads.net

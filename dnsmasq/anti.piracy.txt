@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 07:53 UTC
-# Version: 2026.0626.0753.29
+# Last modified: 26 Jun 2026 10:38 UTC
+# Version: 2026.0626.1038.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 29672
+# Number of entries: 29670
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -23165,7 +23165,6 @@ local=/putlocker.blue/
 local=/putlocker.cc/
 local=/putlocker.club/
 local=/putlocker.com/
-local=/putlocker.cyou/
 local=/putlocker.digital/
 local=/putlocker.fyi/
 local=/putlocker.gives/
@@ -26799,7 +26798,6 @@ local=/torrentfilmeshd.com/
 local=/torrentfilmindir.com/
 local=/torrentfox.com/
 local=/torrentfrancais.com/
-local=/torrentfreak.xyz/
 local=/torrentfreaks.xyz/
 local=/torrentfulkebbucks.surf/
 local=/torrentfulness.surf/

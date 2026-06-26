@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 06:55 UTC
-# Version: 2026.0626.0655.06
+# Last modified: 26 Jun 2026 11:32 UTC
+# Version: 2026.0626.1132.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16840
+# Number of entries: 16852
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -109,6 +109,7 @@ local=/soundcore.co.at/
 local=/speedos.co.at/
 local=/staud.co.at/
 local=/superdry.co.at/
+local=/talvurieks-official.co.at/
 local=/teddith.co.uk/
 local=/timbuk2.co.at/
 local=/uggs.co.at/
@@ -13777,6 +13778,7 @@ local=/skiracedepartment.com/
 local=/skirt-discount-store.shop/
 local=/skispeichern.com/
 local=/skisurfskate.com/
+local=/skisurfsports.com/
 local=/skometa.com/
 local=/sktoolsworkshop.com/
 local=/sky-trikot-shop.de/
@@ -14627,6 +14629,12 @@ local=/talerkaffee.de/
 local=/talkbuds.de/
 local=/tallerfelix.com/
 local=/talvurieks.at/
+local=/talvurieks.com/
+local=/talvurieks.org/
+local=/talvurieks-ai.at/
+local=/talvurieks-austria.at/
+local=/talvurieks-official.net/
+local=/talvurieks-official-at.com/
 local=/tamarisoutlet.com/
 local=/tambaro.de/
 local=/tandexo.com/
@@ -15581,6 +15589,9 @@ local=/urhenwchmuckrosel.de/
 local=/urnsey.shop/
 local=/ursime.com/
 local=/ursulam.com/
+local=/urvlentoki.com/
+local=/urvlentoki-at.com/
+local=/urvlentoki-ie.com/
 local=/urzadomzone.com/
 local=/us-shop.online/
 local=/us-supplements.to/
@@ -16351,6 +16362,7 @@ local=/whiskyrabatt.com/
 local=/whiskysorten.com/
 local=/whiteacehealthcare.uk/
 local=/whitecoatjourney.com/
+local=/whitelake-invest.com/
 local=/whiterock-financial.eu/
 local=/wholesalebaseballnets.com/
 local=/whzyxd.com/

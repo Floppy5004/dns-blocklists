@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 07:37 UTC
-# Version: 2026.0626.0737.10
+# Last modified: 26 Jun 2026 12:28 UTC
+# Version: 2026.0626.1228.08
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 92174
+# Number of entries: 92189
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -334,6 +334,7 @@ www.09racing.com
 s.0cf.io
 s3.0dayporno.com
 0dayreleases.com
+0ed35fac92.com
 0f1qtj.ru
 0fees.net
 business.0fees.net
@@ -24880,6 +24881,7 @@ bzgrj28e8k784j.cfd
 bzlwqtcygkijz.space
 bzmhcaqwquzkj.website
 bznwonawdxmhd.site
+bzoomlubqo.com
 bzpogcssaxbmc.space
 bzqotz.com
 bzyinxiao.com
@@ -30663,6 +30665,7 @@ us-west-2-www.clicktripz.com
 www.clicktripz.com
 sgtm.web.clickup.com
 clickwhitecode.com
+go.clickwhore.com
 clickwifi.net
 api-sdk.clickwifi.net
 cache.clickwifi.net
@@ -35740,7 +35743,6 @@ dcufwmmoasenl.website
 www.dcurtis.com
 dd133.com
 dd1xbevqx.com
-dd795a9d50.com
 dd81bp3qbj.com
 ddfcash.com
 ddfrrwsdgwfvp.online
@@ -41858,8 +41860,6 @@ earringsatisfiedsplice.com
 earth-daily-news.com
 earthups.com
 applog.matrix.easebar.com
-mgbsdknaeast.matrix.easebar.com
-mgbsdksg.matrix.easebar.com
 data-detect.nie.easebar.com
 q.easebar.com
 b.q.easebar.com
@@ -43150,6 +43150,7 @@ enteringgranary.com
 enterombacerick.com
 smetrics.enterprise.com
 reg.enterpriseconnect.com
+enterprises3001.com
 enterprises488.net
 enterprisestorepository.com
 enterpriseswith102.net
@@ -45147,6 +45148,7 @@ targeting.focas.jp
 kzsicw.focus.de
 tags.focus.de
 utiq.focus.de
+focusameneducation.com
 fodpqylf.com
 fodsoack.com
 fodwvqokhxbwb.site
@@ -49014,6 +49016,7 @@ www.heapanalytics.com
 hearanimatewillingness.com
 web.hearclear.com
 heardaccumulatebeans.com
+heimdall.hearstapps.com
 oply.hearstapps.com
 subscribe.hearstmags.com
 heart-1ink.com
@@ -67759,6 +67762,7 @@ fe68d1f7-c9f4-45b3-8905-7cda73d3fd74.edge.permutive.app
 partner.permutive.app
 d2fb08da-1c03-4c8a-978f-ad8a96b4c31f.partner.permutive.app
 secure-signals.permutive.app
+peropustautogs.cyou
 peroutsell.qpon
 perriessmeech.com
 persianblog.com
@@ -70357,6 +70361,7 @@ qbdwfejndi.com
 qbk1.com
 c2.qbk1.com
 qbmbdbydxpbml.website
+qbmcjw6rginhbu.cfd
 uplog.qbox.me
 qbpkyvtnxslrk.website
 qbyngdjq8g.com
@@ -79080,6 +79085,7 @@ www.specificmedia.com
 spectkuchean.com
 collector.pi.spectrum.net
 tracker.srta.spectrum.com
+speecefilmy.cfd
 www.speed-trap.com
 probeapilogger.speedcheckerapi.com
 www.speedcounter.net
@@ -81170,6 +81176,10 @@ ads.talksport.com
 tallertorn.com
 taltoocmoomie.net
 taluhetviciousanorexy.cfd
+talvurieks.com
+talvurieks.org
+talvurieks-official.net
+talvurieks-official-at.com
 tamarisoutlet.com
 tamarixramanaswaypost.cyou
 tame-discount.pro
@@ -84596,6 +84606,7 @@ video.turncdn.com
 turnhub.net
 turnipprivatenatives.com
 turpifytettish.shop
+turrumhamli.cfd
 turtletowels.com
 www.turtletowels.com
 tushesmirage.qpon
@@ -86205,6 +86216,9 @@ tm.urssaf.fr
 ursusltrk.com
 urticalcuckoospa.cfd
 urtyert.com
+urvlentoki.com
+urvlentoki-at.com
+urvlentoki-ie.com
 urzdxiiugisad.site
 track.us.org
 us-cdnbo.org
@@ -91072,6 +91086,7 @@ yncrogyo.com
 yndhi.com
 ynrzdybvkzhme.website
 ynwqekrdfcgze.site
+ynwsxvtfm.com
 rabbitmq-oa-logging.yo-digital.com
 rmq-oade-logging.yo-digital.com
 yoads.net
