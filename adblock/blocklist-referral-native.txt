@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Jun 2026 06:41 UTC
-! Version: 2026.0626.0641.26
+! Last modified: 27 Jun 2026 06:42 UTC
+! Version: 2026.0627.0642.59
 ! Syntax: AdBlock
-! Number of entries: 1528
+! Number of entries: 1522
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -370,7 +370,6 @@
 ||suite30.emarsys.net^
 ||suite30-cdnnet.emarsys.net^
 ||suite30-cf.emarsys.net^
-||suite32.emarsys.net^
 ||suite33.emarsys.net^
 ||suite33-cf.emarsys.net^
 ||suite34.emarsys.net^
@@ -392,6 +391,7 @@
 ||suite52-cf.emarsys.net^
 ||suite54.emarsys.net^
 ||suite54-cf.emarsys.net^
+||suite55.emarsys.net^
 ||suite56.emarsys.net^
 ||suite56-cf.emarsys.net^
 ||suite57.emarsys.net^
@@ -522,7 +522,6 @@
 ||click.holidayinnclubemail.com^
 ||go.hotmart.com^
 ||click.instantink.hpsmart.com^
-||sites.hscoscdn-ap1.net^
 ||sites.hscoscdn-eu1.net^
 ||sites.hscoscdn-na2.net^
 ||341676991.group0.sites.hscoscdn-na3.net^
@@ -614,7 +613,6 @@
 ||click.mfilter.net^
 ||clk.mfilter.net^
 ||track.mfilter.net^
-||email.microsoft.com^
 ||go.microsoft.com^
 ||target.microsoft.com^
 ||click.email.microsoftemail.com^
@@ -1186,7 +1184,6 @@
 ||micpn.com^
 ||mkto-a0279.com^
 ||mkto-ab010150.com^
-||mkto-ab030019.com^
 ||mkto-ab040115.com^
 ||mkto-ab040117.com^
 ||mkto-ab060101.com^
@@ -1205,7 +1202,6 @@
 ||mkto-ab130188.com^
 ||mkto-ab140048.com^
 ||mkto-ab150013.com^
-||mkto-ab150224.com^
 ||mkto-ab170094.com^
 ||mkto-ab170123.com^
 ||mkto-ab170161.com^
@@ -1217,7 +1213,6 @@
 ||mkto-ab240112.com^
 ||mkto-ab250068.com^
 ||mkto-ab250105.com^
-||mkto-ab250167.com^
 ||mkto-ab260164.com^
 ||mkto-ab270090.com^
 ||mkto-ab270109.com^
@@ -1274,7 +1269,6 @@
 ||mkto-ab550184.com^
 ||mkto-ab560068.com^
 ||mkto-ab560119.com^
-||mkto-ab560171.com^
 ||mkto-ab570110.com^
 ||mkto-ab570128.com^
 ||mkto-ab580004.com^

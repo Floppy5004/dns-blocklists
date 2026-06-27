@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 19:06 UTC
-# Version: 2026.0626.1906.35
+# Last modified: 27 Jun 2026 06:56 UTC
+# Version: 2026.0627.0656.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16850
+# Number of entries: 16851
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -3982,6 +3982,7 @@ local=/deinenergieplan.de/
 local=/deinetierliebe.de/
 local=/deinhandwerkershop.de/
 local=/deinheizoel.de/
+local=/deini.com/
 local=/deinliebesmensch.de/
 local=/deinlieblingstier.co/
 local=/deinmodetrends.com/
@@ -5485,6 +5486,7 @@ local=/figurenverkauf.com/
 local=/figurinestoys.com/
 local=/filamentmarkt.com/
 local=/filamniceent.com/
+local=/fillamoda.com/
 local=/fillethumn.com/
 local=/fillinger.shop/
 local=/filloutlet.com/
@@ -6692,7 +6694,6 @@ local=/groundiesdeutsch.de/
 local=/groundiesoutlet.de/
 local=/groundiesschoenennederland.com/
 local=/groundiesshop.at/
-local=/groundiesukshoes.com/
 local=/group-investment.com/
 local=/group-rwe.de/
 local=/groupebinary.com/
@@ -6984,6 +6985,7 @@ local=/haustieralles.com/
 local=/haustierbedarfshop.com/
 local=/haustiererabatt.com/
 local=/haustiereshop.com/
+local=/haustierstolz.de/
 local=/haustirwelten.de/
 local=/hausture.com/
 local=/hausundgarten.haus/
@@ -16360,7 +16362,6 @@ local=/whiskyrabatt.com/
 local=/whiskysorten.com/
 local=/whiteacehealthcare.uk/
 local=/whitecoatjourney.com/
-local=/whitelake-invest.com/
 local=/whiterock-financial.eu/
 local=/wholesalebaseballnets.com/
 local=/whzyxd.com/
