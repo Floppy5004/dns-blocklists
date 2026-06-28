@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jun 2026 07:36 UTC
-# Version: 2026.0628.0736.32
+# Last modified: 28 Jun 2026 18:48 UTC
+# Version: 2026.0628.1848.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 90286
+# Number of entries: 90324
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -5167,6 +5167,7 @@
 0.0.0.0 403f258ef0.com
 0.0.0.0 4096fromcobalt.net
 0.0.0.0 40eb87c767.com
+0.0.0.0 40fromfrontend.net
 0.0.0.0 40nightsthemovie.com
 0.0.0.0 40nuggets.com
 0.0.0.0 blog.40nuggets.com
@@ -5582,6 +5583,7 @@
 0.0.0.0 6v41p4bsq.com
 0.0.0.0 6v6.work
 0.0.0.0 6vspt720xf.com
+0.0.0.0 6wtznnfc58nofw166.cfd
 0.0.0.0 6wzdsf.ru
 0.0.0.0 6xu7at70ok.com
 0.0.0.0 6xuitim7p2pie86hw.cfd
@@ -5884,7 +5886,6 @@
 0.0.0.0 a1tai7.jp
 0.0.0.0 insights.tv4.a2d.tv
 0.0.0.0 a2dfp.net
-0.0.0.0 a2e5b82fea.com
 0.0.0.0 advertising.a2z.com
 0.0.0.0 jetstream.advertising.a2z.com
 0.0.0.0 skyedge.jetstream.advertising.a2z.com
@@ -21681,6 +21682,7 @@
 0.0.0.0 www.audacity.de
 0.0.0.0 dcs.audi.com
 0.0.0.0 audi4sdian.com
+0.0.0.0 audiblyacademyadaptation.com
 0.0.0.0 audience2media.com
 0.0.0.0 www.audience2media.com
 0.0.0.0 audienceamplify.com
@@ -24720,6 +24722,7 @@
 0.0.0.0 brackedignotus.cyou
 0.0.0.0 brackenads.com
 0.0.0.0 stats.bradmax.com
+0.0.0.0 brahmsflidge.com
 0.0.0.0 braiderdiscede.shop
 0.0.0.0 brainberries.co
 0.0.0.0 img-cdn.brainberries.co
@@ -25284,6 +25287,8 @@
 0.0.0.0 buddersavg.com
 0.0.0.0 buddhapowerstore.com
 0.0.0.0 buddhasoppy.cfd
+0.0.0.0 buddhiknutty.com
+0.0.0.0 dv.buddhiknutty.com
 0.0.0.0 buddygays.com
 0.0.0.0 www.buddygays.com
 0.0.0.0 budlniydym.com
@@ -31677,7 +31682,6 @@
 0.0.0.0 d6rak4b14t5gp.cloudfront.net
 0.0.0.0 d6z72aalekwc3.cloudfront.net
 0.0.0.0 d761erxl2qywg.cloudfront.net
-0.0.0.0 d7jy4scahojcu.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d8sllv1cwflbw.cloudfront.net
@@ -34753,7 +34757,6 @@
 0.0.0.0 rtb-uswest.creativedot.net
 0.0.0.0 static.creativedot.net
 0.0.0.0 creativesumo.com
-0.0.0.0 creativethingsdoneright.top
 0.0.0.0 creatopy.net
 0.0.0.0 live-tag.creatopy.net
 0.0.0.0 dco-g.live-tag.creatopy.net
@@ -36130,6 +36133,7 @@
 0.0.0.0 nel.dcbosf.com
 0.0.0.0 a.nel.dcbosf.com
 0.0.0.0 dcbvegzfz.com
+0.0.0.0 dccjdirlxtjqi.site
 0.0.0.0 addc.dcinside.com
 0.0.0.0 dcjgqlosvpdaiq.com
 0.0.0.0 dclsrv.com
@@ -37446,6 +37450,7 @@
 0.0.0.0 digmeatrid.shop
 0.0.0.0 www.dignow.org
 0.0.0.0 digueravi.cfd
+0.0.0.0 dikaulicon.cyou
 0.0.0.0 dikdiksbracker.shop
 0.0.0.0 dikdiksfelup.cfd
 0.0.0.0 diken.xyz
@@ -41933,6 +41938,7 @@
 0.0.0.0 eipmjigkkvyq.com
 0.0.0.0 eiteribesshaints.com
 0.0.0.0 eiurcesrxusez.website
+0.0.0.0 eivhjpwzswyjx.website
 0.0.0.0 eivtciyrmrgkx.online
 0.0.0.0 eiwwvprgpeidlsa.com
 0.0.0.0 eizgttovabu.com
@@ -42892,6 +42898,7 @@
 0.0.0.0 ad2.ettoday.net
 0.0.0.0 assets.etus.digital
 0.0.0.0 etygxjxihbcvp.com
+0.0.0.0 etykjagpflnlq.website
 0.0.0.0 etymictips.qpon
 0.0.0.0 etymonstheine.shop
 0.0.0.0 link.etyper.com
@@ -42984,6 +42991,7 @@
 0.0.0.0 hits.europuls.eu
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 smetrics.eurowings.com
+0.0.0.0 eusmdates.com
 0.0.0.0 eustatsunative.com
 0.0.0.0 euwfygkltqtqe.website
 0.0.0.0 euygrwb.cc
@@ -43625,6 +43633,7 @@
 0.0.0.0 farsnails.com
 0.0.0.0 fartingpangane.shop
 0.0.0.0 fartmoda.com
+0.0.0.0 fascparbate.com
 0.0.0.0 ads.fashionel.mk
 0.0.0.0 ldpsh.fashionnova.com
 0.0.0.0 undgb.fashionnova.com
@@ -48140,6 +48149,7 @@
 0.0.0.0 www.hbagency.it
 0.0.0.0 hbiq.net
 0.0.0.0 hbloveinfo.com
+0.0.0.0 hbn2licnfvevrno.cfd
 0.0.0.0 siri.hboin.com
 0.0.0.0 telegraph.prd.api.hbomax.com
 0.0.0.0 hbqhtkclltke.com
@@ -48162,6 +48172,7 @@
 0.0.0.0 hclgbntmci.com
 0.0.0.0 aim-tag.hcn.health
 0.0.0.0 hcp5dq18h.com
+0.0.0.0 hcpnhgcxoaiaf.website
 0.0.0.0 hcrjyrvbwbgluii.com
 0.0.0.0 hdacode.com
 0.0.0.0 hdbcome.com
@@ -48745,6 +48756,7 @@
 0.0.0.0 highspeedads.top
 0.0.0.0 highwaycpmrevenue.com
 0.0.0.0 ad1.higi.com
+0.0.0.0 hignflrwzlwhw.online
 0.0.0.0 dt.hihonorcloud.com
 0.0.0.0 aidataplatformnorth-prd-drcn.dt.hihonorcloud.com
 0.0.0.0 logservice.dt.hihonorcloud.com
@@ -49915,9 +49927,11 @@
 0.0.0.0 icanmining.ru
 0.0.0.0 audience.icareus.com
 0.0.0.0 icarusgyps.qpon
+0.0.0.0 iccku.com
 0.0.0.0 hits.icdirect.com
 0.0.0.0 ice-casino-online.com
 0.0.0.0 ice-casino34.com
+0.0.0.0 icebergvetoed.com
 0.0.0.0 icecasino.com
 0.0.0.0 iceccasino.pl
 0.0.0.0 icefishhumet.shop
@@ -55412,6 +55426,7 @@
 0.0.0.0 limbyoxymora.cyou
 0.0.0.0 limidaeiffy.qpon
 0.0.0.0 limitgreen.com
+0.0.0.0 limitscompelledmint.com
 0.0.0.0 limpingpick.com
 0.0.0.0 limuluscaliliderange.qpon
 0.0.0.0 lin01.bid
@@ -55940,6 +55955,7 @@
 0.0.0.0 www.localytics.com
 0.0.0.0 locateanyphone.net
 0.0.0.0 locatedcontemn.com
+0.0.0.0 locatiocorms.com
 0.0.0.0 locked-link.com
 0.0.0.0 locked1.com
 0.0.0.0 locked3.com
@@ -56479,6 +56495,7 @@
 0.0.0.0 www.m24news.com
 0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 m2track.co
+0.0.0.0 m2wrsmrsbj.com
 0.0.0.0 m32.media
 0.0.0.0 fastlygeo.m32.media
 0.0.0.0 rdc.m32.media
@@ -58039,6 +58056,7 @@
 0.0.0.0 mgyccfrshz.com
 0.0.0.0 mhcszfqsnh.com
 0.0.0.0 mhfjobnoamzsrx.com
+0.0.0.0 mhhnoclofkymc.website
 0.0.0.0 e.mi.com
 0.0.0.0 global.e.mi.com
 0.0.0.0 video.global.e.mi.com
@@ -59711,6 +59729,7 @@
 0.0.0.0 us.na.content.mql5.com
 0.0.0.0 mqndvpogdsocdg.com
 0.0.0.0 mqnrqbl.in
+0.0.0.0 mqrqtvzwdl.com
 0.0.0.0 mqzfvlchjfiki.com
 0.0.0.0 mr-in.com
 0.0.0.0 actioniq.mr-in.com
@@ -66498,6 +66517,7 @@
 0.0.0.0 blog.personagraph.com
 0.0.0.0 thinktank.personagraph.com
 0.0.0.0 www.personagraph.com
+0.0.0.0 personal-study.pro
 0.0.0.0 metrics.personality-database.com
 0.0.0.0 personaserver.com
 0.0.0.0 personyze.com
@@ -66822,6 +66842,7 @@
 0.0.0.0 pinkingjay.shop
 0.0.0.0 pinkishbidden.qpon
 0.0.0.0 pinklabel.com
+0.0.0.0 pinklion.io
 0.0.0.0 pa.pinpoll.com
 0.0.0.0 pinsightmedia.com
 0.0.0.0 pinsonsroquer.cfd
@@ -67844,6 +67865,7 @@
 0.0.0.0 upp-use1.presage.io
 0.0.0.0 upp-usw2.presage.io
 0.0.0.0 ad.presco.asia
+0.0.0.0 present-average.pro
 0.0.0.0 presentdust.com
 0.0.0.0 preserveadapt.com
 0.0.0.0 presleysemidry.cfd
@@ -69931,6 +69953,7 @@
 0.0.0.0 repo.rakanto.com
 0.0.0.0 repo-prd.rakanto.com
 0.0.0.0 rakegames.com
+0.0.0.0 rakishrooster.shop
 0.0.0.0 insight.rakuten.com
 0.0.0.0 member.insight.rakuten.us
 0.0.0.0 s-imp.rmp.rakuten.com
@@ -70362,6 +70385,7 @@
 0.0.0.0 recommender.jp
 0.0.0.0 reconditeprison.com
 0.0.0.0 reconditerespect.com
+0.0.0.0 reconstructambition.com
 0.0.0.0 shopify-analytics.reconvert.com
 0.0.0.0 recordedthereby.com
 0.0.0.0 recrampwiped.com
@@ -72084,6 +72108,8 @@
 0.0.0.0 ru.collect.rtb.events
 0.0.0.0 tracker-b.rtb-adipolo.com
 0.0.0.0 rtb-media.ru
+0.0.0.0 tracker.rtb-pinklion.io
+0.0.0.0 tracker-b.rtb-pinklion.io
 0.0.0.0 tracker.rtb-pubwise.io
 0.0.0.0 rtb-stack.com
 0.0.0.0 eu-adx-admixer.rtb-stack.com
@@ -76818,6 +76844,7 @@
 0.0.0.0 smv.to
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 sn00.net
+0.0.0.0 sn0z9i4bax.com
 0.0.0.0 snack-media.com
 0.0.0.0 cdn-header-bidding.snack-media.com
 0.0.0.0 scripts.snack-media.com
@@ -79096,6 +79123,7 @@
 0.0.0.0 tags.synchrony.com
 0.0.0.0 somni.synchronybank.com
 0.0.0.0 tags.synchronybank.com
+0.0.0.0 syncingbridge.com
 0.0.0.0 syncordisconsulting.com
 0.0.0.0 www.syncordisconsulting.com
 0.0.0.0 data.syncthing.net
@@ -82569,7 +82597,14 @@
 0.0.0.0 trustedgatetocontent.com
 0.0.0.0 trustedsear.ch
 0.0.0.0 widgets.trustedshops.com
+0.0.0.0 trustedstack.com
+0.0.0.0 hb.trustedstack.com
+0.0.0.0 hblg.hb.trustedstack.com
+0.0.0.0 hblg-nv.hb.trustedstack.com
+0.0.0.0 lg1.hb.trustedstack.com
+0.0.0.0 navvy.trustedstack.com
 0.0.0.0 prebid.trustedstack.com
+0.0.0.0 warp.trustedstack.com
 0.0.0.0 trustedzone.info
 0.0.0.0 trusteverything.de
 0.0.0.0 trustgrape.com
@@ -84136,6 +84171,7 @@
 0.0.0.0 unlocky.org
 0.0.0.0 unlousycrag.shop
 0.0.0.0 unlquedate.com
+0.0.0.0 unluckybathroom.pro
 0.0.0.0 unlustytriaxon.shop
 0.0.0.0 unmectappic.com
 0.0.0.0 unmeekpledge.cyou
@@ -85141,6 +85177,7 @@
 0.0.0.0 sa.vic-m.co
 0.0.0.0 static.vic-m.co
 0.0.0.0 vicarabalkingarbored.cyou
+0.0.0.0 vicaryhicatee.com
 0.0.0.0 vicesus.com
 0.0.0.0 vicksot.com
 0.0.0.0 s.vicksot.com
@@ -90084,6 +90121,7 @@
 0.0.0.0 zlotecuvage.shop
 0.0.0.0 zlp6s.pw
 0.0.0.0 creator.zmags.com
+0.0.0.0 dsp-track-global.zmaticoo.com
 0.0.0.0 gw-usa-tracker.zmaticoo.com
 0.0.0.0 tracker.zmaticoo.com
 0.0.0.0 server.zmedia.vn

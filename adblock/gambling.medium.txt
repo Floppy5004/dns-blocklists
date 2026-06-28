@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Jun 2026 07:51 UTC
-! Version: 2026.0628.0751.20
+! Last modified: 28 Jun 2026 10:52 UTC
+! Version: 2026.0628.1052.47
 ! Syntax: AdBlock
-! Number of entries: 140554
+! Number of entries: 140548
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||togelgame.150m.com^
@@ -10104,7 +10104,6 @@
 ||1xbet666.com^
 ||1xbet666.vip^
 ||1xbet66bet.com^
-||1xbet670.com^
 ||1xbet6v.lol^
 ||1xbet72.com^
 ||1xbet733390.top^
@@ -10515,7 +10514,6 @@
 ||1xbetnow.ru^
 ||1xbetof13.lol^
 ||1xbetof149.lol^
-||1xbetof17.lol^
 ||1xbetofficial.shop^
 ||1xbetok.shop^
 ||1xbetoke.shop^
@@ -81285,7 +81283,6 @@
 ||jojobet9789.com^
 ||jojobet9925.com^
 ||jojobet9957.com^
-||jojobet9971.com^
 ||jojobetadres.cfd^
 ||jojobetadres.ltd^
 ||jojobetadres.mov^
@@ -92802,7 +92799,6 @@
 ||mariobet1458.icu^
 ||mariobet2026.icu^
 ||mariobet2026.org^
-||mariobet2026.top^
 ||mariobet2026orjinal.cam^
 ||mariobet27.xyz^
 ||mariobet29.xyz^
@@ -93330,7 +93326,6 @@
 ||matbet-guncelerisim.icu^
 ||matbet-guncell-giris.cam^
 ||matbet-guvenli.vip^
-||matbet-hacklinkjet.art^
 ||matbet-haziran-giris.cam^
 ||matbet-hemen-giris.cam^
 ||matbet-hizli-giris.cam^
@@ -95029,7 +95024,6 @@
 ||meritbetfinans.online^
 ||meritbetgercekturkiyeadresi.top^
 ||meritbetgir.info^
-||meritbetgir.site^
 ||meritbetgiris.cam^
 ||meritbetgiris.icu^
 ||meritbetgiris.info^

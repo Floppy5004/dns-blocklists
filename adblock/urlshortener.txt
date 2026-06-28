@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Jun 2026 06:56 UTC
-! Version: 2026.0625.0656.47
+! Last modified: 28 Jun 2026 13:53 UTC
+! Version: 2026.0628.1353.50
 ! Syntax: AdBlock
-! Number of entries: 9998
+! Number of entries: 10000
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -421,6 +421,7 @@
 ||videytwo.isuaceh.com^
 ||clubhouse.it.com^
 ||linkbio.it.com^
+||yewfjsdi.it.com^
 ||go.itanea.fr^
 ||kutt.itarian.com^
 ||qr.itservicebd.com^
@@ -1707,6 +1708,7 @@
 ||aspen.li^
 ||aspireinstallations.live^
 ||asq.kr^
+||asset-cdn.dev^
 ||assinar.io^
 ||asso.in^
 ||astag.top^

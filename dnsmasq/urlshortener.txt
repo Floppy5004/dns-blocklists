@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 06:56 UTC
-# Version: 2026.0625.0656.47
+# Last modified: 28 Jun 2026 13:53 UTC
+# Version: 2026.0628.1353.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9998
+# Number of entries: 10000
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -420,6 +420,7 @@ local=/videyfour.isuaceh.com/
 local=/videytwo.isuaceh.com/
 local=/clubhouse.it.com/
 local=/linkbio.it.com/
+local=/yewfjsdi.it.com/
 local=/go.itanea.fr/
 local=/kutt.itarian.com/
 local=/qr.itservicebd.com/
@@ -1706,6 +1707,7 @@ local=/asmoah.com/
 local=/aspen.li/
 local=/aspireinstallations.live/
 local=/asq.kr/
+local=/asset-cdn.dev/
 local=/assinar.io/
 local=/asso.in/
 local=/astag.top/

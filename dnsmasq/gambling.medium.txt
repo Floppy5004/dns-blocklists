@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jun 2026 07:51 UTC
-# Version: 2026.0628.0751.20
+# Last modified: 28 Jun 2026 10:52 UTC
+# Version: 2026.0628.1052.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 140554
+# Number of entries: 140548
 #
 local=/web-119bet-2025-google-vip-119bet.119-hello.com/
 local=/togelgame.150m.com/
@@ -10103,7 +10103,6 @@ local=/1xbet666.app/
 local=/1xbet666.com/
 local=/1xbet666.vip/
 local=/1xbet66bet.com/
-local=/1xbet670.com/
 local=/1xbet6v.lol/
 local=/1xbet72.com/
 local=/1xbet733390.top/
@@ -10514,7 +10513,6 @@ local=/1xbetnigeria.org/
 local=/1xbetnow.ru/
 local=/1xbetof13.lol/
 local=/1xbetof149.lol/
-local=/1xbetof17.lol/
 local=/1xbetofficial.shop/
 local=/1xbetok.shop/
 local=/1xbetoke.shop/
@@ -81284,7 +81282,6 @@ local=/jojobet9743.com/
 local=/jojobet9789.com/
 local=/jojobet9925.com/
 local=/jojobet9957.com/
-local=/jojobet9971.com/
 local=/jojobetadres.cfd/
 local=/jojobetadres.ltd/
 local=/jojobetadres.mov/
@@ -92801,7 +92798,6 @@ local=/mariobet1.icu/
 local=/mariobet1458.icu/
 local=/mariobet2026.icu/
 local=/mariobet2026.org/
-local=/mariobet2026.top/
 local=/mariobet2026orjinal.cam/
 local=/mariobet27.xyz/
 local=/mariobet29.xyz/
@@ -93329,7 +93325,6 @@ local=/matbet-gunceladresi2026.icu/
 local=/matbet-guncelerisim.icu/
 local=/matbet-guncell-giris.cam/
 local=/matbet-guvenli.vip/
-local=/matbet-hacklinkjet.art/
 local=/matbet-haziran-giris.cam/
 local=/matbet-hemen-giris.cam/
 local=/matbet-hizli-giris.cam/
@@ -95028,7 +95023,6 @@ local=/meritbetelite.vip/
 local=/meritbetfinans.online/
 local=/meritbetgercekturkiyeadresi.top/
 local=/meritbetgir.info/
-local=/meritbetgir.site/
 local=/meritbetgiris.cam/
 local=/meritbetgiris.icu/
 local=/meritbetgiris.info/

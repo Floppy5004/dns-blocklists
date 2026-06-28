@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jun 2026 07:52 UTC
-# Version: 2026.0628.0752.56
+# Last modified: 28 Jun 2026 10:53 UTC
+# Version: 2026.0628.1053.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 117257
+# Number of entries: 117251
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 images.1649348.com
@@ -8406,7 +8406,6 @@ coin.z.com
 1xbet66.pro
 1xbet666.com
 1xbet66bet.com
-1xbet670.com
 1xbet6v.lol
 1xbet72.com
 1xbet733390.top
@@ -8766,7 +8765,6 @@ coin.z.com
 1xbetnow.ru
 1xbetof13.lol
 1xbetof149.lol
-1xbetof17.lol
 1xbetofficial.shop
 1xbetok.shop
 1xbetoke.shop
@@ -67364,7 +67362,6 @@ jojobet9743.com
 jojobet9789.com
 jojobet9925.com
 jojobet9957.com
-jojobet9971.com
 jojobetadres.cfd
 jojobetadres.ltd
 jojobetadres.mov
@@ -77197,7 +77194,6 @@ mariobet1.icu
 mariobet1458.icu
 mariobet2026.icu
 mariobet2026.org
-mariobet2026.top
 mariobet2026orjinal.cam
 mariobet27.xyz
 mariobet29.xyz
@@ -77659,7 +77655,6 @@ matbet-gunceladres2026.icu
 matbet-gunceladresi2026.icu
 matbet-guncelerisim.icu
 matbet-guncell-giris.cam
-matbet-hacklinkjet.art
 matbet-haziran-giris.cam
 matbet-hemen-giris.cam
 matbet-hizli-giris.cam
@@ -79092,7 +79087,6 @@ meritbetelite.vip
 meritbetfinans.online
 meritbetgercekturkiyeadresi.top
 meritbetgir.info
-meritbetgir.site
 meritbetgiris.cam
 meritbetgiris.icu
 meritbetgiris.info
