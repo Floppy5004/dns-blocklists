@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Jun 2026 18:06 UTC
-! Version: 2026.0627.1806.32
+! Last modified: 28 Jun 2026 06:50 UTC
+! Version: 2026.0628.0650.58
 ! Syntax: AdBlock
-! Number of entries: 57251
+! Number of entries: 57258
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -451,6 +451,9 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
+||chiyouranai.base.shop^
+||tokujiro.base.shop^
+||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1918,6 +1921,15 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
+||app-google-zh.hl.cn^
+||go-todesk.hl.cn^
+||google-google-chrome-google-com.hl.cn^
+||line-go.hl.cn^
+||qh-qishuiyinyue.hl.cn^
+||qishuimusic-cn.hl.cn^
+||todesk-web.hl.cn^
+||todesk-zh.hl.cn^
+||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||m10.hoes.tube^
 ||yy.hogacotset.com^
@@ -10776,7 +10788,6 @@
 ||agamagcargoan.com^
 ||agamantykeon.com^
 ||agamarshtompr.com^
-||agapikachua.com^
 ||agaquagsirean.com^
 ||agat-tech.com^
 ||agatarainpro.com^
@@ -11640,7 +11651,6 @@
 ||amselragman.com^
 ||amsgjybwclvoq.space^
 ||amskiploomr.com^
-||amstarlyer.com^
 ||amsterdamian.com^
 ||amsterdamian.net^
 ||amsterdamian.org^
@@ -12371,6 +12381,7 @@
 ||arrawqnh.com^
 ||arraydepressinginnocence.com^
 ||arrfhqatlseth.online^
+||arridedunfeary.qpon^
 ||arrivebahamas.com^
 ||arriveddescend.com^
 ||arrivedeuropean.com^
@@ -13588,7 +13599,6 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
-||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -21657,7 +21667,6 @@
 ||duckswillsmoochyou.com^
 ||duckvoidrebuke.com^
 ||ducofagrigusor.com^
-||ducroconawchan.com^
 ||ducubchooa.com^
 ||dudaixou.com^
 ||dudleyscience.com^
@@ -28621,7 +28630,6 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
-||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -38820,7 +38828,6 @@
 ||offarticunoan.com^
 ||offbeat-power.com^
 ||offbeatstill.pro^
-||offcuboneer.com^
 ||offenceperiod.com^
 ||offenceseemshy.com^
 ||offendalligatorcoaleven.com^
@@ -39912,7 +39919,6 @@
 ||overbyreruns.com^
 ||overcacneaan.com^
 ||overcoatchargeblackness.com^
-||overcobalionom.com^
 ||overcomerschristiancoaching.com^
 ||overcooked-calendar.com^
 ||overcooked-construction.com^
@@ -50185,6 +50191,7 @@
 ||thunderous-entry.com^
 ||thunderousplay.pro^
 ||thunderousshirt.pro^
+||thurgifunkers.cfd^
 ||thurnflfant.com^
 ||thuthoock.net^
 ||thyglypsuphy.com^
@@ -51115,6 +51122,7 @@
 ||troubledistinctly.com^
 ||troublesabominable.com^
 ||troubleshade.com^
+||troublesomemanifest.com^
 ||troutysidings.shop^
 ||trowanesteeler.com^
 ||troytrades.com^
@@ -55093,7 +55101,6 @@
 ||writingracial.com^
 ||wrmoadl.guru^
 ||wrnqakeoomvlg.store^
-||wrnxvvbriocgob.xyz^
 ||wrong-pension.com^
 ||wrongdoanodos.com^
 ||wronginside.pro^

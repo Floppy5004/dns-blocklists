@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jun 2026 06:56 UTC
-# Version: 2026.0627.0656.03
+# Last modified: 28 Jun 2026 06:53 UTC
+# Version: 2026.0628.0653.29
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 16851
 #
@@ -2965,6 +2965,7 @@ local=/camptotalneu.com/
 local=/canada-pharmacy-24h.com/
 local=/canadadrugstore.com/
 local=/canadanewsreport.com/
+local=/canadapharmacyonline.com/
 local=/canadapharmacypro.com/
 local=/canadapharmacytrust.net/
 local=/canadasale365.com/
@@ -10355,6 +10356,7 @@ local=/modern-technik.de/
 local=/modernbedshop.com/
 local=/modernnestliving.shop/
 local=/modernoutdoorstandard.de/
+local=/moderwear.shop/
 local=/modeschulte.de/
 local=/modetalente.com/
 local=/modethermoskanne.com/
@@ -10476,7 +10478,6 @@ local=/moonpod.de/
 local=/moontod.com/
 local=/moonwalkbaby.com/
 local=/moonx.io/
-local=/mooris.de/
 local=/moosufergarten.de/
 local=/mooxishop.de/
 local=/mora-gartenbau.de/
@@ -11501,7 +11502,6 @@ local=/orcliacare.com/
 local=/orderbuycheap.com/
 local=/ordergunmagazinesonline.com/
 local=/ordernow24.de/
-local=/orderrxstore.com/
 local=/ordersurfsite.com/
 local=/orderumbrella.com/
 local=/ordinarlim.com/

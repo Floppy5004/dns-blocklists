@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jun 2026 06:42 UTC
-# Version: 2026.0627.0642.59
+# Last modified: 28 Jun 2026 06:39 UTC
+# Version: 2026.0628.0639.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2220
+# Number of entries: 2223
 #
 1-aclk.net
 1aurl.io
@@ -469,6 +469,7 @@ seu2.cleverreach.com
 278149.seu2.cleverreach.com
 278864.seu2.cleverreach.com
 280176.seu2.cleverreach.com
+283325.seu2.cleverreach.com
 283836.seu2.cleverreach.com
 284666.seu2.cleverreach.com
 287930.seu2.cleverreach.com
@@ -481,6 +482,7 @@ seu2.cleverreach.com
 295939.seu2.cleverreach.com
 298054.seu2.cleverreach.com
 298121.seu2.cleverreach.com
+298245.seu2.cleverreach.com
 299549.seu2.cleverreach.com
 300595.seu2.cleverreach.com
 301396.seu2.cleverreach.com
@@ -562,6 +564,7 @@ seu2.cleverreach.com
 418864.seu2.cleverreach.com
 418968.seu2.cleverreach.com
 420624.seu2.cleverreach.com
+421841.seu2.cleverreach.com
 423117.seu2.cleverreach.com
 423697.seu2.cleverreach.com
 424055.seu2.cleverreach.com
@@ -578,6 +581,7 @@ seu2.cleverreach.com
 451364.seu2.cleverreach.com
 451645.seu2.cleverreach.com
 92140.seu2.cleverreach.com
+94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
 97054.seu2.cleverreach.com
 click-trk.com
@@ -720,6 +724,7 @@ open.convertkit-mail.com
 10972684.open.convertkit-mail.com
 2e9869a7.open.convertkit-mail.com
 37fdfba9.open.convertkit-mail.com
+3fcbbe8c.open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
 86db75f9.open.convertkit-mail.com
 9dff4e9a.open.convertkit-mail.com
@@ -948,6 +953,7 @@ ssapi.ad.cpe.dotomi.com
 sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
+c80669.csd.dotomi.com
 c82564.csd.dotomi.com
 c83573.csd.dotomi.com
 c83578.csd.dotomi.com
@@ -1003,6 +1009,7 @@ suite30-cf.emarsys.net
 suite33.emarsys.net
 suite33-cf.emarsys.net
 suite34.emarsys.net
+suite34-cf.emarsys.net
 suite35-cf.emarsys.net
 suite36.emarsys.net
 suite38.emarsys.net
@@ -1082,13 +1089,10 @@ s12.exacttarget.com
 bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
-members.s12.exacttarget.com
-virt.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
-virt.s13.exacttarget.com
 s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -1102,7 +1106,6 @@ bounce.s50.exacttarget.com
 click.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
-members.s50.exacttarget.com
 click.virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
@@ -1118,7 +1121,6 @@ view.s6.exacttarget.com
 virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
-bounce.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
 mc.s7.exacttarget.com
@@ -1126,7 +1128,6 @@ pages.s7.exacttarget.com
 pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
-click.virt.s7.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 4patientcare-cdn.exponea.com
@@ -1258,6 +1259,7 @@ sites.hscoscdn-eu1.net
 24879817.sites.hscoscdn-eu1.net
 24880693.sites.hscoscdn-eu1.net
 25001434.sites.hscoscdn-eu1.net
+25085198.sites.hscoscdn-eu1.net
 25150766.sites.hscoscdn-eu1.net
 25160908.sites.hscoscdn-eu1.net
 25456557.sites.hscoscdn-eu1.net
@@ -1298,6 +1300,7 @@ group0.sites.hscoscdn-na2.net
 241933515.group0.sites.hscoscdn-na2.net
 242128791.group0.sites.hscoscdn-na2.net
 244842231.group0.sites.hscoscdn-na2.net
+sites.hscoscdn-na3.net
 341676991.group0.sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
@@ -1543,6 +1546,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1550,7 +1554,6 @@ mkto-ab280067.com
 mkto-ab280126.com
 mkto-ab290102.com
 mkto-ab290138.com
-mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab320028.com
 mkto-ab320182.com
@@ -1589,7 +1592,6 @@ mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
-mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com
@@ -1757,6 +1759,7 @@ mobiotsd.com
 mobiotud.com
 link.mobupps.com
 api-02.moengage.com
+chasede.api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
 api-101.moengage.com

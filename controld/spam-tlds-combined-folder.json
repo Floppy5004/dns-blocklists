@@ -4151,6 +4151,13 @@
       }
     },
     {
+      "PK": "ktr.fan",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "kuma.pet",
       "action": {
         "do": 1,
@@ -6791,6 +6798,13 @@
     },
     {
       "PK": "safe.pharmacy",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "saily.site",
       "action": {
         "do": 1,
         "status": 1
