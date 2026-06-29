@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jun 2026 19:18 UTC
-# Version: 2026.0627.1918.04
+# Last modified: 29 Jun 2026 08:15 UTC
+# Version: 2026.0629.0815.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17228
+# Number of entries: 17230
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -6848,6 +6848,7 @@ local=/zatoga-three.vercel.app/
 local=/nwea.veriler.com/
 local=/virtualenglish.verolook.com/
 local=/jahyussif.verymad.net/
+local=/ohttp.prod.via.google/
 local=/cludenxenibyte.viar3d.com/
 local=/ilovenirb.viar3d.com/
 local=/mathteacher.viar3d.com/
@@ -14464,6 +14465,7 @@ local=/raltrix.ru/
 local=/ralveno.ru/
 local=/ramivo.ru/
 local=/rammerhead.org/
+local=/randomdomain.shop/
 local=/rankedmc.win/
 local=/ranqigaibiao.com/
 local=/rapidcdn.click/

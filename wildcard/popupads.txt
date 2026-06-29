@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jun 2026 18:06 UTC
-# Version: 2026.0628.1806.42
+# Last modified: 29 Jun 2026 06:51 UTC
+# Version: 2026.0629.0651.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57251
+# Number of entries: 57263
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -450,6 +450,9 @@
 *.darian.bantengan.xyz
 *.uc.barbelfaldfee.com
 *.do.barmfellists.com
+*.chiyouranai.base.shop
+*.tokujiro.base.shop
+*.uranai1111.base.shop
 *.ah.basothomug.com
 *.bv.basquedbeloam.com
 *.ck.bastardzingaro.com
@@ -1917,6 +1920,15 @@
 *.ko.hissesgestapo.com
 *.sl.hitchdong.com
 *.jt.hitchelunspun.com
+*.app-google-zh.hl.cn
+*.go-todesk.hl.cn
+*.google-google-chrome-google-com.hl.cn
+*.line-go.hl.cn
+*.qh-qishuiyinyue.hl.cn
+*.qishuimusic-cn.hl.cn
+*.todesk-web.hl.cn
+*.todesk-zh.hl.cn
+*.zh-todesk-cn.hl.cn
 *.map.hnchj.com
 *.m10.hoes.tube
 *.yy.hogacotset.com
@@ -8632,6 +8644,7 @@
 *.5wcnp5.com
 *.5wzgtq8dpk.com
 *.6-partner.com
+*.6000function.com
 *.600z.com
 *.60418.com
 *.60440.com
@@ -12679,7 +12692,6 @@
 *.atdeerlinga.com
 *.atdriczfuli.com
 *.atdwhoqtigke.com
-*.atdxamakqo.in
 *.ateletssuint.shop
 *.atelier-goo.com
 *.atelier-goo.net
@@ -13587,7 +13599,6 @@
 *.bartramagynous.com
 *.barytemarkup.com
 *.barytethynnid.com
-*.base.shop
 *.baseballletters.com
 *.basejudgementquizmaster.com
 *.basementunfamiliar.com
@@ -24963,7 +24974,6 @@
 *.foouvpofnhhltg.com
 *.fooyungoverfee.shop
 *.for-j.com
-*.forabomasnowan.com
 *.foraketene.com
 *.foramscoypou.com
 *.foramsthene.com
@@ -25242,6 +25252,7 @@
 *.frankvehicle.com
 *.franticallyseizedpredicate.com
 *.franticallytraditionalastound.com
+*.franticmellownegotiate.com
 *.frap.site
 *.fraternityammoniabeaver.com
 *.fraternityhoweverelapse.com
@@ -28620,7 +28631,6 @@
 *.hkwrwuqlcpelq.site
 *.hkygalzumaqv.com
 *.hkzhongzhuangzhan.cc
-*.hl.cn
 *.hl2u.com
 *.hlbmaat.com
 *.hldijphcjszui.store
@@ -31370,6 +31380,7 @@
 *.jinrongwang.net
 *.jinxedslete.shop
 *.jinxeshenfish.shop
+*.jinxwoolmen.shop
 *.jinzaikyoka.com
 *.jirtadsenge.com
 *.jitanvlw.com
@@ -34954,6 +34965,7 @@
 *.majestydisbeliefcalory.com
 *.majiainc.com
 *.major-lay.pro
+*.majorashoful.com
 *.majorbarefooted.com
 *.majorcharacter.com
 *.majoriklink.com
@@ -38264,7 +38276,6 @@
 *.ntdotx.icu
 *.ntedbycathyhou.com
 *.ntent.com
-*.ntesgsght.com
 *.ntfck.com
 *.ntfx-acc.com
 *.nthkmosujmuo.net
@@ -38678,7 +38689,6 @@
 *.ocbakhpcuz.com
 *.ocbshoxma.com
 *.ocbtpubcaowl.com
-*.occasional-flow.com
 *.occasional-section.pro
 *.occasionalhole.pro
 *.occasionalmanner.com
@@ -40680,6 +40690,7 @@
 *.pelis-123.org
 *.pelliancalmato.com
 *.pelonex.com
+*.peltmalecheering.com
 *.pemsrv.com
 *.penaikaucmu.net
 *.pencilchao.shop
@@ -53224,6 +53235,7 @@
 *.villagerhurricane.com
 *.villagersymphonypilgrim.com
 *.villagetraitgarret.com
+*.villagybullion.cyou
 *.villainous-stop.pro
 *.viltoubuste.com
 *.vilytaku.com

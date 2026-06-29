@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jun 2026 06:39 UTC
-# Version: 2026.0628.0639.55
+# Last modified: 29 Jun 2026 06:39 UTC
+# Version: 2026.0629.0639.20
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 2223
 #
@@ -280,6 +280,7 @@ seu.cleverreach.com
 399804.seu.cleverreach.com
 413536.seu.cleverreach.com
 428521.seu.cleverreach.com
+442821.seu.cleverreach.com
 447687.seu.cleverreach.com
 7464.seu.cleverreach.com
 7642.seu.cleverreach.com
@@ -332,6 +333,7 @@ seu1.cleverreach.com
 84181.seu1.cleverreach.com
 175597.84296.seu1.cleverreach.com
 85516.seu1.cleverreach.com
+130829.87817.seu1.cleverreach.com
 87841.seu1.cleverreach.com
 88974.seu1.cleverreach.com
 89993.seu1.cleverreach.com
@@ -506,6 +508,7 @@ seu2.cleverreach.com
 317612.seu2.cleverreach.com
 317901.seu2.cleverreach.com
 320632.seu2.cleverreach.com
+320905.seu2.cleverreach.com
 322484.seu2.cleverreach.com
 323664.seu2.cleverreach.com
 324724.seu2.cleverreach.com
@@ -581,7 +584,6 @@ seu2.cleverreach.com
 451364.seu2.cleverreach.com
 451645.seu2.cleverreach.com
 92140.seu2.cleverreach.com
-94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
 97054.seu2.cleverreach.com
 click-trk.com
@@ -724,7 +726,6 @@ open.convertkit-mail.com
 10972684.open.convertkit-mail.com
 2e9869a7.open.convertkit-mail.com
 37fdfba9.open.convertkit-mail.com
-3fcbbe8c.open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
 86db75f9.open.convertkit-mail.com
 9dff4e9a.open.convertkit-mail.com
@@ -825,6 +826,7 @@ open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 9dd0b3de.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
+a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
 b54e0fd7.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
@@ -1077,13 +1079,11 @@ click.s10.exacttarget.com
 image.s10.exacttarget.com
 mc.s10.exacttarget.com
 members.s10.exacttarget.com
-virt.s10.exacttarget.com
 s11.exacttarget.com
 bounce.s11.exacttarget.com
 mc.s11.exacttarget.com
 members.s11.exacttarget.com
 view.s11.exacttarget.com
-virt.s11.exacttarget.com
 click.virt.s11.exacttarget.com
 s12.exacttarget.com
 bounce.s12.exacttarget.com
@@ -1118,7 +1118,6 @@ members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
-virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 image.s7.exacttarget.com
@@ -1127,7 +1126,6 @@ mc.s7.exacttarget.com
 pages.s7.exacttarget.com
 pub.s7.exacttarget.com
 view.s7.exacttarget.com
-virt.s7.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 4patientcare-cdn.exponea.com
@@ -1249,6 +1247,7 @@ homesrvcs.com
 go.hotmart.com
 click.instantink.hpsmart.com
 href.li
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139786927.sites.hscoscdn-eu1.net
 139808002.sites.hscoscdn-eu1.net
@@ -1300,7 +1299,6 @@ group0.sites.hscoscdn-na2.net
 241933515.group0.sites.hscoscdn-na2.net
 242128791.group0.sites.hscoscdn-na2.net
 244842231.group0.sites.hscoscdn-na2.net
-sites.hscoscdn-na3.net
 341676991.group0.sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
@@ -1402,6 +1400,7 @@ click.justwatch.com
 www.kdukvh.com
 kelkoogroup.net
 at-go.kelkoogroup.net
+ca-go.kelkoogroup.net
 cz-go.kelkoogroup.net
 de-go.kelkoogroup.net
 es-go.kelkoogroup.net
@@ -2226,6 +2225,7 @@ redirect.appmetrica.yandex.ru
 4479526.redirect.appmetrica.yandex.com
 4541467.redirect.appmetrica.yandex.com
 4609852.redirect.appmetrica.yandex.com
+6263440.redirect.appmetrica.yandex.com
 clck.yandex.ru
 yellowbook.com
 t.yesware.com
