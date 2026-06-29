@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jun 2026 06:51 UTC
-# Version: 2026.0629.0651.03
+# Last modified: 29 Jun 2026 18:06 UTC
+# Version: 2026.0629.1806.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57263
+# Number of entries: 57264
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -15015,6 +15015,7 @@ local=/bookadil.com/
 local=/bookbannershop.com/
 local=/bookcrafters.com/
 local=/bookcrazystadium.com/
+local=/bookedalloy.cyou/
 local=/bookkeeperamusing.com/
 local=/bookletoncoming.com/
 local=/bookmakers.click/
@@ -27068,7 +27069,6 @@ local=/graissoowib.com/
 local=/graithexpire.com/
 local=/graitsie.com/
 local=/graivampouth.net/
-local=/graizoah.com/
 local=/grallichalvas.com/
 local=/gralossortoob.net/
 local=/gramb.site/
@@ -45843,6 +45843,7 @@ local=/satinayapii.top/
 local=/satiresboy.com/
 local=/satisfactorilyqueen.com/
 local=/satisfied-dare.com/
+local=/satisfied-physics.pro/
 local=/satisfied-politics.com/
 local=/satisfied-refuse.pro/
 local=/satisfiedbad.com/

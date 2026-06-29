@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jun 2026 08:03 UTC
-# Version: 2026.0629.0803.40
+# Last modified: 29 Jun 2026 19:06 UTC
+# Version: 2026.0629.1906.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 30557
+# Number of entries: 30552
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -26,7 +26,6 @@ local=/weedy.1.vg/
 local=/atrack-asia-s1.114913.xyz/
 local=/chihaya-heroku.120181311.xyz/
 local=/ettv.123unblock.world/
-local=/tracker.1h.is/
 local=/t.213891.xyz/
 local=/t-backup.213891.xyz/
 local=/crack.21m.net/
@@ -109,7 +108,6 @@ local=/tracker.bigbewbs.online/
 local=/mkvcinemasmovies.bio.link/
 local=/moviesmod.bio.link/
 local=/tracker.birkenwald.de/
-local=/tracker.bitcoinindia.space/
 local=/tracker.bitcomet.net/
 local=/tracker.bittalk.org/
 local=/tracker.bittor.pw/
@@ -713,7 +711,6 @@ local=/ns575949.ip-51-222-82.net/
 local=/47.ip-51-68-199.eu/
 local=/ns349743.ip-91-121-106.eu/
 local=/speedtest.iperson.xyz/
-local=/tracker.iperson.xyz/
 local=/v2.iperson.xyz/
 local=/tracker.ipfsscan.io/
 local=/api.ipv4online.uk/
@@ -10971,7 +10968,6 @@ local=/kyren.moe/
 local=/l33t-raws.org/
 local=/la-breiya-lordfilms.ru/
 local=/la-breya-lordfilm3.ru/
-local=/la-cale.space/
 local=/la123movies.com/
 local=/labaia.ws/
 local=/labtor.tv/
@@ -26353,7 +26349,6 @@ local=/strikesu-lordfilm.ru/
 local=/strimsy.top/
 local=/strmd.link/
 local=/strmup.to/
-local=/strumyk.cfd/
 local=/strumyk.cv/
 local=/strumyk.help/
 local=/strumyk.in/

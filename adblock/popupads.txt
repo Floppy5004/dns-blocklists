@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Jun 2026 06:51 UTC
-! Version: 2026.0629.0651.03
+! Last modified: 29 Jun 2026 18:06 UTC
+! Version: 2026.0629.1806.11
 ! Syntax: AdBlock
-! Number of entries: 57263
+! Number of entries: 57264
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -15016,6 +15016,7 @@
 ||bookbannershop.com^
 ||bookcrafters.com^
 ||bookcrazystadium.com^
+||bookedalloy.cyou^
 ||bookkeeperamusing.com^
 ||bookletoncoming.com^
 ||bookmakers.click^
@@ -27069,7 +27070,6 @@
 ||graithexpire.com^
 ||graitsie.com^
 ||graivampouth.net^
-||graizoah.com^
 ||grallichalvas.com^
 ||gralossortoob.net^
 ||gramb.site^
@@ -45844,6 +45844,7 @@
 ||satiresboy.com^
 ||satisfactorilyqueen.com^
 ||satisfied-dare.com^
+||satisfied-physics.pro^
 ||satisfied-politics.com^
 ||satisfied-refuse.pro^
 ||satisfiedbad.com^

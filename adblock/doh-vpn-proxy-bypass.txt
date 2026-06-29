@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Jun 2026 08:15 UTC
-! Version: 2026.0629.0815.55
+! Last modified: 29 Jun 2026 19:18 UTC
+! Version: 2026.0629.1918.01
 ! Syntax: AdBlock
-! Number of entries: 17230
+! Number of entries: 17229
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -10356,7 +10356,6 @@
 ||feitan.cloud^
 ||feitan.me^
 ||feiyujiasu.net^
-||feiyulink.net^
 ||felqorn.lol^
 ||felravo.ru^
 ||feltra.ru^

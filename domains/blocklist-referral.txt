@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jun 2026 06:39 UTC
-# Version: 2026.0629.0639.20
+# Last modified: 29 Jun 2026 17:55 UTC
+# Version: 2026.0629.1755.08
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2223
+# Number of entries: 2226
 #
 1-aclk.net
 1aurl.io
@@ -278,6 +278,7 @@ seu.cleverreach.com
 38970.seu.cleverreach.com
 3927.seu.cleverreach.com
 399804.seu.cleverreach.com
+406347.seu.cleverreach.com
 413536.seu.cleverreach.com
 428521.seu.cleverreach.com
 442821.seu.cleverreach.com
@@ -1273,6 +1274,7 @@ sites.hscoscdn-eu1.net
 26544488.sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26560911.sites.hscoscdn-eu1.net
+26829280.sites.hscoscdn-eu1.net
 26889852.sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27212211.sites.hscoscdn-eu1.net
@@ -1674,6 +1676,7 @@ mkto-nld1010057.com
 mkto-nld1010079.com
 mkto-nld1010097.com
 mkto-nld1010150.com
+mkto-nld1010159.com
 mkto-nld1020077.com
 mkto-nld1020173.com
 mkto-nld1020221.com
