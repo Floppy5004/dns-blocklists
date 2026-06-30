@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Jun 2026 15:08 UTC
-! Version: 2026.0630.1508.14
+! Last modified: 30 Jun 2026 18:05 UTC
+! Version: 2026.0630.1805.32
 ! Syntax: AdBlock
-! Number of entries: 57196
+! Number of entries: 57187
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -451,9 +451,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1921,15 +1918,6 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
-||app-google-zh.hl.cn^
-||go-todesk.hl.cn^
-||google-google-chrome-google-com.hl.cn^
-||line-go.hl.cn^
-||qh-qishuiyinyue.hl.cn^
-||qishuimusic-cn.hl.cn^
-||todesk-web.hl.cn^
-||todesk-zh.hl.cn^
-||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||m10.hoes.tube^
 ||yy.hogacotset.com^
@@ -13593,6 +13581,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -28600,6 +28589,7 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
+||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -54847,6 +54837,7 @@
 ||wonderfullypeered.com^
 ||wondergov.ai^
 ||wongahmalta.com^
+||wonmijrnd.com^
 ||wonnerdirging.com^
 ||woodcabfactory.com^
 ||wooden-excuse.pro^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 16:07 UTC
-# Version: 2026.0630.1607.31
+# Last modified: 30 Jun 2026 18:59 UTC
+# Version: 2026.0630.1859.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 138895
+# Number of entries: 138875
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
 *.togelgame.150m.com
@@ -786,6 +786,7 @@
 *.priced-up-casino.co.uk
 *.priced-upcasino.co.uk
 *.pridebet.co.mz
+*.prime-casinoo.co.uk
 *.princess-casino-gb.co.uk
 *.prismcasino.co.com
 *.ptmprizes.co.uk
@@ -3631,6 +3632,7 @@
 *.1519bets10.icu
 *.151betsorte.com
 *.1520bets10.icu
+*.1521bets10.icu
 *.1522bets10.icu
 *.1523.casino
 *.1523bets10.icu
@@ -9643,7 +9645,6 @@
 *.1xbet666.com
 *.1xbet666.vip
 *.1xbet66bet.com
-*.1xbet680.com
 *.1xbet6v.lol
 *.1xbet72.com
 *.1xbet733390.top
@@ -22359,7 +22360,6 @@
 *.bahiscasino-tekadres.vip
 *.bahiscasino-tekgiris.icu
 *.bahiscasino-tekkazancadresi2026.xyz
-*.bahiscasino-tr.art
 *.bahiscasino-turkeyadresleri.vip
 *.bahiscasino-ultra.cam
 *.bahiscasino-vip-bayram.icu
@@ -30084,7 +30084,6 @@
 *.booi-casino.xyz
 *.booi-casino-ack.top
 *.booi-casino-crz.top
-*.booi-casino-dsl.buzz
 *.booi-casino-lhg.top
 *.booi-casino-nzz.top
 *.booi-casino-pl.pl
@@ -60698,7 +60697,6 @@
 *.cresuscasino.ltd
 *.cresuscasino.one
 *.cresuscasino.pl
-*.cresuscasino.quebec
 *.cresuscasino.se
 *.cresuscasino.site
 *.cresuscasino.us
@@ -64176,7 +64174,6 @@
 *.dragonmoney673.casino
 *.dragonmoney694.casino
 *.dragonmoney743.casino
-*.dragonmoney752.casino
 *.dragonmoney763.casino
 *.dragonmoney772.casino
 *.dragonmoney780.casino
@@ -65791,7 +65788,6 @@
 *.elitcasino-bonus.icu
 *.elitcasino-firsat.icu
 *.elitcasino-guncel-gercek-adresiniz-giris.sbs
-*.elitcasino-new-giris72.sbs
 *.elitcasino-resmi.icu
 *.elitcasino-resmii7.sbs
 *.elitcasino-tr.net
@@ -70086,7 +70082,6 @@
 *.gama-casino.su
 *.gama-casino-apk.ru
 *.gama-casino-arena.ru
-*.gama-casino-bem.buzz
 *.gama-casino-bet.ru
 *.gama-casino-bew.top
 *.gama-casino-bigwin.ru
@@ -73679,7 +73674,6 @@
 *.guncel-jojobetadresi.com
 *.guncel-jojobetadresi.vip
 *.guncel-jojobetbahis.com
-*.guncel-madridbet.icu
 *.guncel-matbetgiris.net
 *.guncel-pasacasino.vip
 *.guncelcasinoadresi.com
@@ -78349,7 +78343,6 @@
 *.jaguarjitu.vip
 *.jah.casino
 *.jahangircasino.best
-*.jahetoto.lol
 *.jahetoto.rest
 *.jahetoto.skin
 *.jai365.com
@@ -79888,7 +79881,6 @@
 *.jojobet-giris.com
 *.jojobet-giris.digital
 *.jojobet-giris.info
-*.jojobet-giris.pro
 *.jojobet-giris.xyz
 *.jojobet-giris-2026.co
 *.jojobet-giris-adresi.icu
@@ -80080,7 +80072,6 @@
 *.jojobet-guncelgiris675.icu
 *.jojobet-guncelgiris699.icu
 *.jojobet-guncelgiris963.com
-*.jojobet-guncelgirisadres.vip
 *.jojobet-guncelgirisadresi.icu
 *.jojobet-guncelgirisi.icu
 *.jojobet-guncelgirisi.org
@@ -80245,7 +80236,6 @@
 *.jojobet-mobile.sbs
 *.jojobet-mobilegiris.com
 *.jojobet-mobilerisim.com
-*.jojobet-mobilerisimadresi.vip
 *.jojobet-mobilgiris.cfd
 *.jojobet-mobilgiris.icu
 *.jojobet-mobilgiris-2026.com
@@ -80440,6 +80430,7 @@
 *.jojobet-siteniz2026.vip
 *.jojobet-sites2026link.icu
 *.jojobet-sitesi.icu
+*.jojobet-sitesi.top
 *.jojobet-siteslink2026.vip
 *.jojobet-skr.icu
 *.jojobet-slot.icu
@@ -80504,14 +80495,12 @@
 *.jojobet-tikgiris.icu
 *.jojobet-tilgiris.com
 *.jojobet-togiris.com
-*.jojobet-tr.art
 *.jojobet-tr.casino
 *.jojobet-tr.icu
 *.jojobet-tr.one
 *.jojobet-tr.run
 *.jojobet-tr.site
 *.jojobet-tr.vip
-*.jojobet-tr.website
 *.jojobet-tr-adres.icu
 *.jojobet-tr-bonus.icu
 *.jojobet-tr-giris.com
@@ -81410,7 +81399,6 @@
 *.jojobett-giris4.net
 *.jojobett-giris5.net
 *.jojobett-girisguncel.vip
-*.jojobett-guncelerisim.vip
 *.jojobett-guncelgirisi.vip
 *.jojobett-guncelgirisii.com
 *.jojobett-guncelxgiris.com
@@ -81454,7 +81442,6 @@
 *.jojobettl-girisiniz.icu
 *.jojobettmayisgirisi.vip
 *.jojobettop.com
-*.jojobettr.art
 *.jojobettr.icu
 *.jojobettr.store
 *.jojobettr.xyz
@@ -92762,7 +92749,6 @@
 *.matbet-tekgiris.icu
 *.matbet-tekguncel.vip
 *.matbet-teknokta.vip
-*.matbet-tr.art
 *.matbet-tradresi.icu
 *.matbet-trgiris.icu
 *.matbet-trgirisi.co
@@ -92839,7 +92825,6 @@
 *.matbet9700.com
 *.matbet9824.com
 *.matbet9844.com
-*.matbet9969.com
 *.matbetadres.cam
 *.matbetaktifadres.one
 *.matbetaktifgiris.one
@@ -107214,7 +107199,6 @@
 *.pinup6213.casino
 *.pinup625.casino
 *.pinup634-casino.xyz
-*.pinup742.casino
 *.pinup777rucasino.com
 *.pinup777ruscasino.com
 *.pinup841.casino
@@ -130969,7 +130953,6 @@
 *.vaycasino2411.com
 *.vaycasino2481.com
 *.vaycasino2603.com
-*.vaycasino26giris.cam
 *.vaycasino2801.com
 *.vaycasino2980.com
 *.vaycasino3.vip
@@ -132755,7 +132738,6 @@
 *.vodka6201.casino
 *.vodka6213.casino
 *.vodka6354.casino
-*.vodka6392.casino
 *.vodka64v.casino
 *.vodka6563.casino
 *.vodka6600.casino
@@ -136443,7 +136425,6 @@
 *.wwwmariobet.vip
 *.wwwmariobetorg.co
 *.wwwmatbet-guncel.org
-*.wwwmatbet969.com
 *.wwwmonopolycasino.com
 *.wwwnesinecasino539.com
 *.wwwokslots.com
@@ -137352,7 +137333,6 @@
 *.yenicasinoroyalgirisi.icu
 *.yenicasinositeleri26.icu
 *.yenigiris-jojobet.com
-*.yenigirisadresim-jojobet.vip
 *.yenimadrid.bet
 *.yenipiabellacasino.icu
 *.yenipokerklasplatformu.icu

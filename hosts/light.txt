@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 15:51 UTC
-# Version: 2026.0630.1551.49
+# Last modified: 30 Jun 2026 18:46 UTC
+# Version: 2026.0630.1846.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 92408
+# Number of entries: 92413
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -20515,6 +20515,7 @@
 0.0.0.0 argansnubbin.qpon
 0.0.0.0 arganspaonetc.qpon
 0.0.0.0 argantalcs.com
+0.0.0.0 arglesmtn.com
 0.0.0.0 arglingpistole.com
 0.0.0.0 argolidwealden.cfd
 0.0.0.0 argrowlitheor.com
@@ -36014,6 +36015,7 @@
 0.0.0.0 debugger55.com
 0.0.0.0 debutpoignantsudden.com
 0.0.0.0 decacopy.com
+0.0.0.0 decafeligiblyhad.com
 0.0.0.0 decarba.de
 0.0.0.0 insights.v3.decathlon.net
 0.0.0.0 decaydespiteseminar.com
@@ -37529,6 +37531,7 @@
 0.0.0.0 discoversm.com
 0.0.0.0 www.discoversm.com
 0.0.0.0 telegraph.prd.api.discoveryplus.com
+0.0.0.0 discretionarraignment.com
 0.0.0.0 discussingnobody.com
 0.0.0.0 disdainoromo.cfd
 0.0.0.0 disdarrummers.shop
@@ -37859,7 +37862,6 @@
 0.0.0.0 x5.donburako.com
 0.0.0.0 donchen501.cn
 0.0.0.0 gather.donga.com
-0.0.0.0 dongaicmighauwa.net
 0.0.0.0 ap.dongdianqiu.com
 0.0.0.0 donglogs.com
 0.0.0.0 ap.dongqiudi.com
@@ -45872,7 +45874,6 @@
 0.0.0.0 fspark-ap.com
 0.0.0.0 user.fspark-ap.com
 0.0.0.0 fssrdeeivg.com
-0.0.0.0 fsswjrxjhwmzb.website
 0.0.0.0 fstrk.net
 0.0.0.0 x.fstrk.net
 0.0.0.0 fstsrv.com
@@ -48822,10 +48823,8 @@
 0.0.0.0 gz-data.com
 0.0.0.0 gzbsycvhzlukb.site
 0.0.0.0 www.gzcankao.com
-0.0.0.0 gzgmhbgnvqiri.space
 0.0.0.0 gzkfofbgedfor.website
 0.0.0.0 gzmakcylabxgv.site
-0.0.0.0 gzsmnojrwfmft.website
 0.0.0.0 gzsxdqnpdybwa.online
 0.0.0.0 gzsy12348.com
 0.0.0.0 static.h-bid.com
@@ -50627,7 +50626,6 @@
 0.0.0.0 huyapxxwno.com
 0.0.0.0 hvfilosbqpzdf.online
 0.0.0.0 hvhpwafhvwrk.com
-0.0.0.0 hvozxhftdupcl.site
 0.0.0.0 hvp45z.ru
 0.0.0.0 hvvaoxrjglkhd.online
 0.0.0.0 analytics.hvylya.net
@@ -51123,6 +51121,7 @@
 0.0.0.0 iivt.com
 0.0.0.0 p.iivt.com
 0.0.0.0 iixjifgrlzopu.site
+0.0.0.0 ijarwjciakkmj.space
 0.0.0.0 ijcvxwzkdfswr.website
 0.0.0.0 ijgmlmucwps.com
 0.0.0.0 ijhyugb.com
@@ -52945,6 +52944,7 @@
 0.0.0.0 web.comunicazioni.iol.it
 0.0.0.0 evnt.iol.it
 0.0.0.0 rss.iol.io
+0.0.0.0 iolpdkzuvxvoe.online
 0.0.0.0 ionichost.com
 0.0.0.0 analytics.ionos.de
 0.0.0.0 pixel.ionos.de
@@ -54006,6 +54006,7 @@
 0.0.0.0 jraaraflargqt.website
 0.0.0.0 jrpkizae.com
 0.0.0.0 jrqfukqx.com
+0.0.0.0 jrqneoqofxbvn.website
 0.0.0.0 jrqojtvzuqvhx.online
 0.0.0.0 jrrkcyqgrdxkf.space
 0.0.0.0 jrufhfbyigmxk.site
@@ -55196,6 +55197,7 @@
 0.0.0.0 kqesuetg.com
 0.0.0.0 kqftc.com
 0.0.0.0 kqtqgoyjmbtev.site
+0.0.0.0 kquoaxirlldss.site
 0.0.0.0 kqzcnznyaklql.space
 0.0.0.0 krachtverbinding.com
 0.0.0.0 log-brofront.kraftonde.com
@@ -56422,6 +56424,7 @@
 0.0.0.0 liliumleashed.qpon
 0.0.0.0 smetrics.lilly.com
 0.0.0.0 d.lilstts.com
+0.0.0.0 lilwlxddctfpp.space
 0.0.0.0 lilystyle.ai
 0.0.0.0 clickstream.lilystyle.ai
 0.0.0.0 pixel.lilystyle.ai
@@ -57218,6 +57221,7 @@
 0.0.0.0 lqdimcpwev.com
 0.0.0.0 lqfsnws.cc
 0.0.0.0 lqivhsbmqcc.com
+0.0.0.0 lqjgofaobfami.site
 0.0.0.0 lqm.io
 0.0.0.0 cdn.lqm.io
 0.0.0.0 core.lqm.io
@@ -59066,6 +59070,7 @@
 0.0.0.0 mg2insights.com
 0.0.0.0 mgage.com
 0.0.0.0 www.mgage.com
+0.0.0.0 mgbprflbradaz.online
 0.0.0.0 mgcpakistan.com
 0.0.0.0 mghkpg.com
 0.0.0.0 mgid.com
@@ -61412,6 +61417,7 @@
 0.0.0.0 mwbhwpawseqch.website
 0.0.0.0 mwcnmtx.top
 0.0.0.0 mwebsoft.com
+0.0.0.0 mwgzlyztorheu.website
 0.0.0.0 mwhjctrhknka.com
 0.0.0.0 mwjfiwyvo.com
 0.0.0.0 mwjnirzamspps.space
@@ -65737,6 +65743,7 @@
 0.0.0.0 ootahajbxdkuc.online
 0.0.0.0 ooxrexfo.com
 0.0.0.0 ooxrwqdhfojsk.space
+0.0.0.0 ooyxwjhwgewpr.online
 0.0.0.0 op00.biz
 0.0.0.0 op02.biz
 0.0.0.0 opads.us
@@ -70605,6 +70612,7 @@
 0.0.0.0 matomo.qgis.org
 0.0.0.0 matomo.qgiv.com
 0.0.0.0 qgjmuglselogs.website
+0.0.0.0 qgjymegruhqtw.website
 0.0.0.0 qgkbnssobp.com
 0.0.0.0 qgkqbffrjxrqc.website
 0.0.0.0 qgrlfkzulssrt.space
@@ -73307,6 +73315,7 @@
 0.0.0.0 track.sv.rkdms.com
 0.0.0.0 www.rkdms.com
 0.0.0.0 rken104.com
+0.0.0.0 rkfcawmdbvpmx.space
 0.0.0.0 rkfrgbtylxowb.website
 0.0.0.0 rkghsiyronqti.space
 0.0.0.0 rkgwzfwjgk.com
@@ -80285,7 +80294,6 @@
 0.0.0.0 servt.stoic-media.com
 0.0.0.0 tg1.stoic-media.com
 0.0.0.0 stoitercases.cyou
-0.0.0.0 stojoalaiboudry.net
 0.0.0.0 stokefykes.shop
 0.0.0.0 sgtm.stokke.com
 0.0.0.0 stoksaigaifa.net
@@ -83391,7 +83399,6 @@
 0.0.0.0 tndkwerwq.com
 0.0.0.0 tnews.day
 0.0.0.0 tnf4poyzfqey7o.cfd
-0.0.0.0 tnghndakqrudy.website
 0.0.0.0 tnkad.net
 0.0.0.0 docs.tnkad.net
 0.0.0.0 sp.tnkad.net
@@ -85199,7 +85206,6 @@
 0.0.0.0 tvtelemetrie.de
 0.0.0.0 events.tvtime.com
 0.0.0.0 tvtoss.com
-0.0.0.0 tvtrszwtyaeme.website
 0.0.0.0 tvwqwxaqhov.com
 0.0.0.0 tw-access.com
 0.0.0.0 tw1.ru
@@ -87584,6 +87590,7 @@
 0.0.0.0 vilihapiton.shop
 0.0.0.0 villagetraitgarret.com
 0.0.0.0 villagybullion.cyou
+0.0.0.0 villainoussession.com
 0.0.0.0 www.villalecchi.com
 0.0.0.0 app.villanova.com
 0.0.0.0 vilytaku.com
@@ -88456,7 +88463,6 @@
 0.0.0.0 vuukle.net
 0.0.0.0 cpm.vuukle.net
 0.0.0.0 rtb-useast-v4.vuukle.net
-0.0.0.0 vuvkcvjrwuorn.site
 0.0.0.0 vuw2lppijng939.cfd
 0.0.0.0 vuzeko.com
 0.0.0.0 vuzismoothie.net
@@ -88474,6 +88480,7 @@
 0.0.0.0 dc.vw.com
 0.0.0.0 smetrics.vw.com
 0.0.0.0 vw442hzkw5nzixwfumzyny57o.cfd
+0.0.0.0 vw7y3vtbiqhtnll4w.cfd
 0.0.0.0 vwahacrubri.com
 0.0.0.0 vwclbvgyqbkqh.com
 0.0.0.0 vwmsynnsowu.com
@@ -88499,7 +88506,6 @@
 0.0.0.0 vyjsbprcljavve.com
 0.0.0.0 vypepega.com
 0.0.0.0 vytix.net
-0.0.0.0 vyxijcujtjrzo.website
 0.0.0.0 vz95953ow5.com
 0.0.0.0 vzbl.eu
 0.0.0.0 m.vzbl.eu
@@ -92300,7 +92306,6 @@
 0.0.0.0 zougreek.com
 0.0.0.0 zovidree.com
 0.0.0.0 zoypcavdzijue.site
-0.0.0.0 zozaqeylctipa.space
 0.0.0.0 recycle-static.zoznam.sk
 0.0.0.0 azq.zozo.jp
 0.0.0.0 zpcnmqvutynyr.site

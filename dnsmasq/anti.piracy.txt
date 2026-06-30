@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 16:09 UTC
-# Version: 2026.0630.1609.59
+# Last modified: 30 Jun 2026 19:01 UTC
+# Version: 2026.0630.1901.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 30696
+# Number of entries: 30698
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -1858,6 +1858,7 @@ local=/123moviesz.bz/
 local=/123moviesz.link/
 local=/123moviesz.nl/
 local=/123moviesz.run/
+local=/123moviesz.sbs/
 local=/123movieszfree.org/
 local=/123movieszhub.com/
 local=/123netflix.club/
@@ -2966,6 +2967,7 @@ local=/animefox.org/
 local=/animefreak.tv/
 local=/animeggo-lordfilms.ru/
 local=/animeglare.xyz/
+local=/animegojoo.com/
 local=/animegoo.life/
 local=/animehd47.com/
 local=/animeheaven.ru/
