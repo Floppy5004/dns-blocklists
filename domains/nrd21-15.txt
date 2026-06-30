@@ -1,1 +1,0 @@
-This file has been permanently moved to https://raw.githubusercontent.com/hagezi/nrd/main/domains/nrd21-15.txt. For details, see: https://github.com/hagezi/dns-blocklists/discussions/10560
