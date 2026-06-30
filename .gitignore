@@ -25,7 +25,7 @@ statistics.md
 active.list*
 dead.list*
 *.sh
-nrds_*-*-*.txt
-dgas_*-*-*.txt
 submit_pullrequest_here/
 pac/
+nrd*.txt
+dga*.txt
