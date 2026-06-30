@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 08:24 UTC
-# Version: 2026.0630.0824.12
+# Last modified: 30 Jun 2026 16:09 UTC
+# Version: 2026.0630.1609.59
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 30696
 #
@@ -1858,7 +1858,6 @@ local=/123moviesz.bz/
 local=/123moviesz.link/
 local=/123moviesz.nl/
 local=/123moviesz.run/
-local=/123moviesz.sbs/
 local=/123movieszfree.org/
 local=/123movieszhub.com/
 local=/123netflix.club/
@@ -21873,6 +21872,7 @@ local=/mp4mobimovies.com/
 local=/mp4movie.me/
 local=/mp4moviez.football/
 local=/mp4moviezhub.xyz/
+local=/mp4sc.xyz/
 local=/mp4se.xyz/
 local=/mp4soup.com/
 local=/mp4space.com/

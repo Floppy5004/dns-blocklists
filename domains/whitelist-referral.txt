@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 06:41 UTC
-# Version: 2026.0630.0641.13
+# Last modified: 30 Jun 2026 14:57 UTC
+# Version: 2026.0630.1457.04
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2236
+# Number of entries: 2239
 #
 1-aclk.net
 1aurl.io
@@ -283,6 +283,7 @@ seu.cleverreach.com
 428521.seu.cleverreach.com
 442821.seu.cleverreach.com
 447687.seu.cleverreach.com
+60880.seu.cleverreach.com
 7464.seu.cleverreach.com
 7642.seu.cleverreach.com
 93533.seu.cleverreach.com
@@ -1273,6 +1274,7 @@ sites.hscoscdn-eu1.net
 25456557.sites.hscoscdn-eu1.net
 25468276.sites.hscoscdn-eu1.net
 25639721.sites.hscoscdn-eu1.net
+25713015.sites.hscoscdn-eu1.net
 25740424.sites.hscoscdn-eu1.net
 25864942.sites.hscoscdn-eu1.net
 25880420.sites.hscoscdn-eu1.net
@@ -1284,6 +1286,7 @@ sites.hscoscdn-eu1.net
 26560911.sites.hscoscdn-eu1.net
 26829280.sites.hscoscdn-eu1.net
 26889852.sites.hscoscdn-eu1.net
+26929552.sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27212211.sites.hscoscdn-eu1.net
 4059422.sites.hscoscdn-eu1.net

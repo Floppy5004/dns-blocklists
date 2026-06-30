@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 08:24 UTC
-# Version: 2026.0630.0824.12
+# Last modified: 30 Jun 2026 16:09 UTC
+# Version: 2026.0630.1609.59
 # Syntax: Domains (without subdomains)
 # Number of entries: 30696
 #
@@ -1858,7 +1858,6 @@ tracker.zum.bi
 123moviesz.link
 123moviesz.nl
 123moviesz.run
-123moviesz.sbs
 123movieszfree.org
 123movieszhub.com
 123netflix.club
@@ -21873,6 +21872,7 @@ mp4mobimovies.com
 mp4movie.me
 mp4moviez.football
 mp4moviezhub.xyz
+mp4sc.xyz
 mp4se.xyz
 mp4soup.com
 mp4space.com
