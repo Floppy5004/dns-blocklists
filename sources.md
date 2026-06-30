@@ -54,6 +54,7 @@ https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
+https://malware-filter.gitlab.io/malware-filter/botnet-filter.txt
 https://mf.gov.cz/assets/attachments/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych-her_vNNN.csv
 https://opendata.sukl.cz/soubory/NELEGALNI_STRANKY/Nelegalni_stranky_LP.csv
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -133,6 +134,7 @@ https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hos
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/clsfo/reflect4-blocklist/refs/heads/main/reflect4_domains.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
@@ -257,6 +259,7 @@ https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-static-trails.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/blockchain_dns.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt
@@ -289,6 +292,7 @@ https://raw.githubusercontent.com/UTKAzureSentinelGithub/CheckPoint_IOCS_URL_Fee
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
@@ -304,6 +308,7 @@ https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds
 https://ubo-et.lepik.io/list.txt
 https://urlhaus.abuse.ch/downloads/hostfile
+https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
 https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
 https://www.auktionshilfe.info/board-feed/22/
@@ -311,6 +316,7 @@ https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.globalantiscam.org/scam-websites
 https://www.kushari.org/downloads/mal.txt
+https://www.spamhaus.org/drop/drop.txt
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered_50000.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole_filtered.txt

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Jun 2026 18:08 UTC
-! Version: 2026.0629.1808.25
+! Last modified: 30 Jun 2026 06:59 UTC
+! Version: 2026.0630.0659.29
 ! Syntax: AdBlock
-! Number of entries: 16830
+! Number of entries: 16843
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -22,6 +22,7 @@
 ||de1.aiinshgits.de^
 ||store.aktuellerezensionen.de^
 ||de.apemans.com^
+||webtrader.aptos-ai.net^
 ||try.articblast.co^
 ||installateur.artpro-24.pro^
 ||webtrader.arvelon-barnyx.com^
@@ -579,6 +580,7 @@
 ||shop.tegeler.com^
 ||dg.tgvgxa.shop^
 ||ge.thebloomcar.com^
+||miginvestgr.tiiny.site^
 ||adl.tlhqca.shop^
 ||kino.tolle-nachrichten.com^
 ||kayh.tovy.shop^
@@ -3656,6 +3658,7 @@
 ||cryptosmarket.com^
 ||cryptosone.com^
 ||cryptotrader.app^
+||cryptover.org^
 ||cryptoweb3pro.com^
 ||cryptrade-franchise.com^
 ||crystalli.de^
@@ -3795,6 +3798,7 @@
 ||dar-germany.de^
 ||darasports.de^
 ||darembel.com^
+||darsvint.fr^
 ||daryeleth.org^
 ||das-feel-natural.de^
 ||das-home.com^
@@ -6196,6 +6200,7 @@
 ||gemoneo.com^
 ||generic4all-global.com^
 ||generic4allglobal.com^
+||genericdoctor.com^
 ||genericeupills.com^
 ||genericsbot.com^
 ||genericshop-247.eu^
@@ -6691,6 +6696,7 @@
 ||groundiesoutlet.de^
 ||groundiesschoenennederland.com^
 ||groundiesshop.at^
+||groundiesukshoes.com^
 ||group-investment.com^
 ||group-rwe.de^
 ||groupebinary.com^
@@ -6981,6 +6987,7 @@
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
 ||haustiereshop.com^
+||haustierstolz.de^
 ||haustirwelten.de^
 ||hausture.com^
 ||hausundgarten.haus^
@@ -7282,6 +7289,7 @@
 ||heshengd.com^
 ||hesly.de^
 ||heute-horoskope.de^
+||hevia.finance^
 ||hexa-tronic.com^
 ||hexagonresources.org^
 ||hexoil.de^
@@ -7954,6 +7962,7 @@
 ||investigativedaily.com^
 ||investing-in.ltd^
 ||investing-in.pro^
+||investiraupays.com^
 ||investirex.com^
 ||investisafe.com^
 ||investixcrypto.com^
@@ -9306,6 +9315,7 @@
 ||livingwallstapeten.com^
 ||livohaus.com^
 ||livoro-deutschland.com^
+||livpm.com^
 ||livsy.de^
 ||lizabete.com^
 ||ljekarna-osijek.com^
@@ -10401,6 +10411,7 @@
 ||momentsofharmony.de^
 ||mon-accesprive.com^
 ||mon-terroir.com^
+||mon-vaul.com^
 ||monatrade.com^
 ||monclara.de^
 ||mondialbank.com^
@@ -10650,6 +10661,7 @@
 ||mymedicalshop365.top^
 ||mymedshoplive.com^
 ||mynanosparkle.com^
+||mynco.com^
 ||mynecklace.de^
 ||myneosurfcard.com^
 ||mynewpink.com^
@@ -11460,6 +11472,7 @@
 ||opt-toysbase.com^
 ||opte-grup.com^
 ||optessentialoils.com^
+||opti-nova.net^
 ||optimalattire.com^
 ||optimaltackle.com^
 ||optimarkets.com^
@@ -14661,7 +14674,6 @@
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
 ||tdxsz.com^
-||te.de^
 ||teachbrigh.com^
 ||teambike-hamburg.de^
 ||teameffekt.de^
@@ -14954,6 +14966,7 @@
 ||tiagocarlosdultrary.shop^
 ||tickgreen.net^
 ||tierbedarfshop.com^
+||tiercefortange.com^
 ||tierewelpenhaus.de^
 ||tierfreundeonline.com^
 ||tierfuttergeschaft.com^

@@ -2016,6 +2016,13 @@
       }
     },
     {
+      "PK": "dns36.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dnslookup.online",
       "action": {
         "do": 1,
